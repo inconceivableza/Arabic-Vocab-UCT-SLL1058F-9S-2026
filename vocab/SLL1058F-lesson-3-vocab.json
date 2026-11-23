@@ -12,21 +12,21 @@
       "arabic": "مَرْحَبًا",
       "english": "welcome",
       "tag": "interjection",
-      "image": "images/welcome.svg",
+      "image": "images/welcome_marhaba.svg",
       "english_book": "welcome"
     },
     {
       "arabic": "كَيْفَ",
       "english": "how",
       "tag": "interrogative",
-      "image": "images/how.svg",
+      "image": "images/how_kayf.svg",
       "english_book": "how"
     },
     {
       "arabic": "حَالٌ",
       "english": "condition, state",
       "tag": "noun",
-      "image": "images/condition.svg",
+      "image": "images/condition_hal.svg",
       "english_book": "condition, state"
     },
     {
@@ -34,14 +34,14 @@
       "english": "in",
       "tag": "prefix",
       "note": "prefixed preposition",
-      "image": "images/in-2.svg",
+      "image": "images/in_b.svg",
       "english_book": "(prefix) in"
     },
     {
       "arabic": "خَيْرٌ",
       "english": "well-being",
       "tag": "noun",
-      "image": "images/well-being.svg",
+      "image": "images/well-being_khayr.svg",
       "english_book": "(noun) well-being"
     },
     {
@@ -49,14 +49,14 @@
       "english": "professor",
       "tag": "noun",
       "gender": "m",
-      "image": "images/professor.svg",
+      "image": "images/professor_ustadh.svg",
       "english_book": "professor"
     },
     {
       "arabic": "مَوْجُودٌ",
       "english": "present",
       "tag": "adjective",
-      "image": "images/present.svg",
+      "image": "images/present_mawjud.svg",
       "english_book": "present"
     },
     {
@@ -64,28 +64,28 @@
       "english": "library",
       "tag": "noun",
       "gender": "f",
-      "image": "images/library.svg",
+      "image": "images/library_maktaba.svg",
       "english_book": "library"
     },
     {
       "arabic": "قَرِيبٌ",
       "english": "near, close",
       "tag": "adjective",
-      "image": "images/near.svg",
+      "image": "images/near_qarib.svg",
       "english_book": "near, close"
     },
     {
       "arabic": "جِدًّا",
       "english": "very",
       "tag": "adverb",
-      "image": "images/very.svg",
+      "image": "images/very_jidda.svg",
       "english_book": "very"
     },
     {
       "arabic": "جَدِيدٌ",
       "english": "new",
       "tag": "adjective",
-      "image": "images/new.svg",
+      "image": "images/new_jadid.svg",
       "english_book": "new"
     },
     {
@@ -93,7 +93,7 @@
       "english": "Iraq",
       "tag": "proper noun",
       "note": "country",
-      "image": "images/iraq.svg",
+      "image": "images/iraq_aliraq.svg",
       "english_book": "Iraq"
     },
     {
@@ -102,7 +102,7 @@
       "tag": "proper noun",
       "diptote": true,
       "note": "city",
-      "image": "images/baghdad.svg",
+      "image": "images/baghdad_baghdad.svg",
       "english_book": "Baghdad"
     },
     {
@@ -110,56 +110,56 @@
       "english": "university",
       "tag": "noun",
       "gender": "f",
-      "image": "images/university.svg",
+      "image": "images/university_jamia.svg",
       "english_book": "university"
     },
     {
       "arabic": "كَبِيرٌ",
       "english": "big",
       "tag": "adjective",
-      "image": "images/big.svg",
+      "image": "images/big_kabir.svg",
       "english_book": "big"
     },
     {
       "arabic": "جَمِيلٌ",
       "english": "beautiful",
       "tag": "adjective",
-      "image": "images/beautiful.svg",
+      "image": "images/beautiful_jamil.svg",
       "english_book": "beautiful"
     },
     {
       "arabic": "دَرْسٌ",
       "english": "lesson",
       "tag": "noun",
-      "image": "images/lesson.svg",
+      "image": "images/lesson_dars.svg",
       "english_book": "lesson"
     },
     {
       "arabic": "سَهْلٌ",
       "english": "easy",
       "tag": "adjective",
-      "image": "images/present.svg",
+      "image": "images/easy_sahl.svg",
       "english_book": "easy"
     },
     {
       "arabic": "صَعْبٌ",
       "english": "difficult",
       "tag": "adjective",
-      "image": "images/difficult.svg",
+      "image": "images/difficult_sab.svg",
       "english_book": "difficult"
     },
     {
       "arabic": "أَجْنَبِيٌّ",
       "english": "foreign",
       "tag": "adjective",
-      "image": "images/foreign.svg",
+      "image": "images/foreign_ajnabiyy.svg",
       "english_book": "foreign"
     },
     {
       "arabic": "مَشْهُورٌ",
       "english": "famous",
       "tag": "adjective",
-      "image": "images/famous.svg",
+      "image": "images/famous_mashhur.svg",
       "english_book": "famous"
     },
     {
@@ -167,21 +167,21 @@
       "english": "man",
       "tag": "noun",
       "gender": "m",
-      "image": "images/man.svg",
+      "image": "images/man_rajul.svg",
       "english_book": "man"
     },
     {
       "arabic": "كِتَابٌ",
       "english": "book",
       "tag": "noun",
-      "image": "images/book.svg",
+      "image": "images/book_kitab.svg",
       "english_book": "book"
     },
     {
       "arabic": "أَسَاسِيٌّ",
       "english": "basic",
       "tag": "adjective",
-      "image": "images/basic.svg",
+      "image": "images/basic_asasiyy.svg",
       "english_book": "basic"
     },
     {
@@ -190,14 +190,14 @@
       "tag": "noun",
       "gender": "m",
       "note": "title (PhD)",
-      "image": "images/doctor.svg",
+      "image": "images/doctor_duktur.svg",
       "english_book": "doctor (PhD)"
     },
     {
       "arabic": "قَلَمٌ",
       "english": "pen",
       "tag": "noun",
-      "image": "images/pen.svg",
+      "image": "images/pen_qalam.svg",
       "english_book": "pen"
     },
     {
@@ -205,7 +205,7 @@
       "english": "paper",
       "tag": "noun",
       "gender": "f",
-      "image": "images/paper.svg",
+      "image": "images/paper_waraqa.svg",
       "english_book": "paper"
     },
     {
@@ -213,14 +213,14 @@
       "english": "table",
       "tag": "noun",
       "gender": "f",
-      "image": "images/table.svg",
+      "image": "images/table_tawila.svg",
       "english_book": "table"
     },
     {
       "arabic": "نَصٌّ",
       "english": "text",
       "tag": "noun",
-      "image": "images/text.svg",
+      "image": "images/text_nass.svg",
       "english_book": "text"
     }
   ]

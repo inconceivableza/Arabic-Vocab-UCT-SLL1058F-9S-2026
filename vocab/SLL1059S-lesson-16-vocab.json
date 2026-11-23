@@ -13,9 +13,9 @@
       "arabic": "أَهْلٌ",
       "english": "people",
       "tag": "noun",
-      "plural": "أَهَالٍ",
+      "arabic_plural": "أَهَالٍ",
       "note": "masculine plural in meaning: people, family",
-      "image": "images/people-2.svg",
+      "image": "images/people_ahl.svg",
       "english_book": "people (m. pl.)"
     },
     {
@@ -24,7 +24,7 @@
       "tag": "preposition",
       "governs": "أَنْ",
       "note": "with أَنْ before a verb",
-      "image": "images/before.svg",
+      "image": "images/before_qabl.svg",
       "arabic_book": "قَبْلَ (+ أَنْ)",
       "english_book": "before"
     },
@@ -34,7 +34,7 @@
       "tag": "preposition",
       "governs": "أَنْ",
       "note": "with أَنْ before a verb",
-      "image": "images/after.svg",
+      "image": "images/after_bad.svg",
       "arabic_book": "بَعْدَ (+ أَنْ)",
       "english_book": "after"
     },
@@ -43,25 +43,25 @@
       "english": "civilisation, culture",
       "tag": "noun",
       "gender": "f",
-      "image": "images/civilisation.svg",
+      "image": "images/civilisation_hadara.svg",
       "english_book": "civilisation, culture"
     },
     {
       "arabic": "مَظْهَرٌ",
       "english": "manifestation",
       "tag": "noun",
-      "plural": "مَظَاهِرُ",
+      "arabic_plural": "مَظَاهِرُ",
       "diptote": true,
-      "image": "images/manifestation.svg",
+      "image": "images/manifestation_mazhar.svg",
       "english_book": "manifestation"
     },
     {
       "arabic": "نَبَطٌ",
       "english": "Nabataeans",
       "tag": "proper noun",
-      "plural": "أَنْبَاطٌ",
+      "arabic_plural": "أَنْبَاطٌ",
       "note": "an ancient Near Eastern people",
-      "image": "images/nabataeans.svg",
+      "image": "images/nabataeans_nabat.svg",
       "english_book": "Nabatean (an ancient Near Eastern people)"
     },
     {
@@ -69,7 +69,7 @@
       "english": "Palmyra",
       "tag": "proper noun",
       "note": "ancient city in Syria",
-      "image": "images/palmyra.svg",
+      "image": "images/palmyra_tadmur.svg",
       "english_book": "Palmyra"
     },
     {
@@ -77,9 +77,9 @@
       "english": "capital",
       "tag": "noun",
       "gender": "f",
-      "plural": "عَوَاصِمُ",
+      "arabic_plural": "عَوَاصِمُ",
       "diptote": true,
-      "image": "images/capital.svg",
+      "image": "images/capital_asima.svg",
       "english_book": "capital"
     },
     {
@@ -87,15 +87,15 @@
       "english": "to surround",
       "tag": "verb",
       "verb_form": 4,
-      "image": "images/surround.svg",
+      "image": "images/surround_ahat-b.svg",
       "english_book": "to surround (4)"
     },
     {
       "arabic": "جَبَلٌ",
       "english": "mountain",
       "tag": "noun",
-      "plural": "جِبَالٌ",
-      "image": "images/mountain.svg",
+      "arabic_plural": "جِبَالٌ",
+      "image": "images/mountain_jabal.svg",
       "english_book": "mountain"
     },
     {
@@ -104,7 +104,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_tense": "يَبْنِي",
-      "image": "images/build.svg",
+      "image": "images/build_banaa.svg",
       "arabic_book": "بَنَى (يَبْنِي)",
       "english_book": "to build",
       "source_note": "present tense given in brackets"
@@ -113,7 +113,7 @@
       "arabic": "قَبْلَ الْمِيلَادِ",
       "english": "BC",
       "tag": "phrase",
-      "image": "images/bc.svg",
+      "image": "images/bc_qabl-almilad.svg",
       "english_book": "B.C."
     },
     {
@@ -122,7 +122,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_vowel": "u",
-      "image": "images/enter.svg",
+      "image": "images/enter_dakhal.svg",
       "arabic_book": "دَخَلَ (ـُ)",
       "english_book": "to enter"
     },
@@ -130,25 +130,25 @@
       "arabic": "هَيْكَلٌ",
       "english": "temple",
       "tag": "noun",
-      "plural": "هَيَاكِلُ",
+      "arabic_plural": "هَيَاكِلُ",
       "diptote": true,
-      "image": "images/temple.svg",
+      "image": "images/temple_haykal.svg",
       "english_book": "temple"
     },
     {
       "arabic": "قَصْرٌ",
       "english": "castle, palace, fort",
       "tag": "noun",
-      "plural": "قُصُورٌ",
-      "image": "images/castle.svg",
+      "arabic_plural": "قُصُورٌ",
+      "image": "images/castle_qasr.svg",
       "english_book": "castle, palace, fort"
     },
     {
       "arabic": "مُدَرَّجٌ",
       "english": "stairway",
       "tag": "noun",
-      "plural": "مُدَرَّجَاتٌ",
-      "image": "images/stairway.svg",
+      "arabic_plural": "مُدَرَّجَاتٌ",
+      "image": "images/stairway_mudarraj.svg",
       "english_book": "stairway",
       "source_note": "plural given as (-ات)"
     },
@@ -156,14 +156,14 @@
       "arabic": "مَنْحُوتٌ",
       "english": "carved, hewn",
       "tag": "adjective",
-      "image": "images/carved.svg",
+      "image": "images/carved_manhut.svg",
       "english_book": "carved, hewn"
     },
     {
       "arabic": "صَخْرٌ",
       "english": "rock, stone",
       "tag": "noun",
-      "image": "images/rock.svg",
+      "image": "images/rock_sakhr.svg",
       "english_book": "rock, stone"
     },
     {
@@ -173,7 +173,7 @@
       "verb_form": 1,
       "present_tense": "يَقْضِي",
       "note": "to spend (time)",
-      "image": "images/spend.svg",
+      "image": "images/spend_qadaa.svg",
       "arabic_book": "قَضَى (يَقْضِي)",
       "english_book": "to spend (time)",
       "source_note": "present tense given in brackets"
@@ -182,16 +182,16 @@
       "arabic": "بَيْنَ",
       "english": "between, among",
       "tag": "preposition",
-      "image": "images/between.svg",
+      "image": "images/between_bayn.svg",
       "english_book": "between, among"
     },
     {
       "arabic": "فُنْدُقٌ",
       "english": "hotel",
       "tag": "noun",
-      "plural": "فَنَادِقُ",
+      "arabic_plural": "فَنَادِقُ",
       "diptote": true,
-      "image": "images/hotel.svg",
+      "image": "images/hotel_funduq.svg",
       "english_book": "hotel"
     },
     {
@@ -200,7 +200,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_vowel": "u",
-      "image": "images/attend.svg",
+      "image": "images/attend_hadar.svg",
       "arabic_book": "حَضَرَ (ـُ)",
       "english_book": "to attend, be present"
     },
@@ -208,9 +208,9 @@
       "arabic": "شَارِعٌ",
       "english": "street",
       "tag": "noun",
-      "plural": "شَوَارِعُ",
+      "arabic_plural": "شَوَارِعُ",
       "diptote": true,
-      "image": "images/street.svg",
+      "image": "images/street_shari.svg",
       "english_book": "street"
     },
     {
@@ -218,7 +218,7 @@
       "english": "edition",
       "tag": "noun",
       "gender": "f",
-      "image": "images/edition.svg",
+      "image": "images/edition_taba.svg",
       "english_book": "edition",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -226,7 +226,7 @@
       "arabic": "قَامُوسٌ",
       "english": "dictionary",
       "tag": "noun",
-      "image": "images/dictionary.svg",
+      "image": "images/dictionary_qamus.svg",
       "english_book": "dictionary",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -234,7 +234,7 @@
       "arabic": "اِحْتِرَامٌ",
       "english": "respect",
       "tag": "noun",
-      "image": "images/respect.svg",
+      "image": "images/respect_aihtiram.svg",
       "english_book": "respect",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -242,7 +242,7 @@
       "arabic": "مُحْتَرَمٌ",
       "english": "respected",
       "tag": "adjective",
-      "image": "images/respected.svg",
+      "image": "images/respected_muhtaram.svg",
       "english_book": "respected",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -251,7 +251,7 @@
       "english": "periodical, newsletter",
       "tag": "noun",
       "gender": "f",
-      "image": "images/periodical.svg",
+      "image": "images/periodical_nashra.svg",
       "english_book": "periodical, newsletter",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -259,7 +259,7 @@
       "arabic": "صُدُورٌ",
       "english": "publication, appearance",
       "tag": "noun",
-      "image": "images/publication.svg",
+      "image": "images/publication_sudur.svg",
       "english_book": "publication, appearance",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -268,7 +268,7 @@
       "english": "to be able",
       "tag": "verb",
       "verb_form": 5,
-      "image": "images/be-able-3.svg",
+      "image": "images/be-able_tamakkan.svg",
       "english_book": "to be able",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -277,7 +277,7 @@
       "english": "August",
       "tag": "noun",
       "note": "month name (Levant)",
-      "image": "images/august.svg",
+      "image": "images/august_ab.svg",
       "arabic_book": "آب",
       "english_book": "August",
       "spelling_note": "printed without case ending (آب); standard آبُ",
@@ -289,7 +289,7 @@
       "tag": "noun",
       "gender": "f",
       "note": "used as an honorific in letters",
-      "image": "images/presence.svg",
+      "image": "images/presence_hadra.svg",
       "english_book": "presence",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -298,7 +298,7 @@
       "english": "greeting, greetings",
       "tag": "noun",
       "gender": "f",
-      "image": "images/greeting.svg",
+      "image": "images/greeting_tahiyya.svg",
       "english_book": "greeting(s)",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -307,8 +307,8 @@
       "english": "problem",
       "tag": "noun",
       "gender": "f",
-      "plural": "مَشَاكِلُ",
-      "image": "images/problem.svg",
+      "arabic_plural": "مَشَاكِلُ",
+      "image": "images/problem_mushkila.svg",
       "english_book": "problem",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -317,7 +317,7 @@
       "english": "bookshop, publishing house",
       "tag": "noun",
       "gender": "f",
-      "image": "images/library.svg",
+      "image": "images/library_maktaba.svg",
       "english_book": "bookshop, publishing house",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -325,7 +325,7 @@
       "arabic": "لِذٰلِكَ",
       "english": "therefore, for that reason",
       "tag": "adverb",
-      "image": "images/therefore.svg",
+      "image": "images/therefore_lidhalik.svg",
       "english_book": "therefore, for that reason",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -334,7 +334,7 @@
       "english": "to send",
       "tag": "verb",
       "verb_form": 4,
-      "image": "images/send.svg",
+      "image": "images/send_arsal.svg",
       "english_book": "to send",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -342,7 +342,7 @@
       "arabic": "شِيكٌ",
       "english": "cheque",
       "tag": "noun",
-      "image": "images/cheque.svg",
+      "image": "images/cheque_shik.svg",
       "english_book": "cheque",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -350,8 +350,8 @@
       "arabic": "ثَمَنٌ",
       "english": "price",
       "tag": "noun",
-      "plural": "أَثْمَانٌ",
-      "image": "images/price.svg",
+      "arabic_plural": "أَثْمَانٌ",
+      "image": "images/price_thaman.svg",
       "english_book": "price",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -360,8 +360,8 @@
       "english": "minute",
       "tag": "noun",
       "gender": "f",
-      "plural": "دَقَائِقُ",
-      "image": "images/minute.svg",
+      "arabic_plural": "دَقَائِقُ",
+      "image": "images/minute_daqiqa.svg",
       "english_book": "minute",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     },
@@ -370,7 +370,7 @@
       "english": "Alexandria",
       "tag": "proper noun",
       "note": "city",
-      "image": "images/alexandria.svg",
+      "image": "images/alexandria_aliskandariyya.svg",
       "english_book": "Alexandria",
       "source_note": "from the supplementary list on the following page (book p. 231)"
     }

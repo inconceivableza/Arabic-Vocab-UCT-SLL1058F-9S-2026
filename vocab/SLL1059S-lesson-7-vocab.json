@@ -17,7 +17,7 @@
       "verb_form": 3,
       "governs": "إِلَى",
       "note": "to travel to, leave for",
-      "image": "images/travel.svg",
+      "image": "images/travel_safar.svg",
       "arabic_book": "سَافَرَ (إِلَى)",
       "english_book": "to travel (to), leave (for) (3)"
     },
@@ -25,7 +25,7 @@
       "arabic": "عَدَدٌ مِنْ",
       "english": "a number of",
       "tag": "phrase",
-      "image": "images/number-of.svg",
+      "image": "images/number-of_adad-min.svg",
       "english_book": "a number of"
     },
     {
@@ -33,14 +33,14 @@
       "english": "students",
       "tag": "noun",
       "note": "plural of طَالِبٌ",
-      "image": "images/students.svg",
+      "image": "images/students_tullab.svg",
       "english_book": "students"
     },
     {
       "arabic": "أَثْنَاءَ",
       "english": "during",
       "tag": "preposition",
-      "image": "images/during.svg",
+      "image": "images/during_athna.svg",
       "english_book": "during"
     },
     {
@@ -48,7 +48,7 @@
       "english": "stay",
       "tag": "noun",
       "gender": "f",
-      "image": "images/stay.svg",
+      "image": "images/stay_iqama.svg",
       "english_book": "stay"
     },
     {
@@ -56,7 +56,7 @@
       "english": "Baalbek",
       "tag": "proper noun",
       "note": "town in Lebanon, famous for Roman ruins",
-      "image": "images/baalbek.svg",
+      "image": "images/baalbek_balabakku.svg",
       "english_book": "Baalbak"
     },
     {
@@ -64,7 +64,7 @@
       "english": "the Cedars",
       "tag": "proper noun",
       "note": "the Cedars of Lebanon",
-      "image": "images/cedars.svg",
+      "image": "images/cedars_alarz.svg",
       "english_book": "the Cedars"
     },
     {
@@ -72,7 +72,7 @@
       "english": "writer",
       "tag": "noun",
       "gender": "m",
-      "image": "images/writer.svg",
+      "image": "images/writer_katib.svg",
       "english_book": "writer"
     },
     {
@@ -80,7 +80,7 @@
       "english": "to ask",
       "tag": "verb",
       "verb_form": 1,
-      "image": "images/ask-2.svg",
+      "image": "images/ask_saal.svg",
       "english_book": "to ask"
     },
     {
@@ -88,7 +88,7 @@
       "english": "newspaper",
       "tag": "noun",
       "gender": "f",
-      "image": "images/newspaper.svg",
+      "image": "images/newspaper_jarida.svg",
       "english_book": "newspaper"
     },
     {
@@ -96,14 +96,14 @@
       "english": "to delight, to please",
       "tag": "verb",
       "verb_form": 4,
-      "image": "images/delight.svg",
+      "image": "images/delight_ajab.svg",
       "english_book": "to delight, please (4)"
     },
     {
       "arabic": "بَلَدٌ",
       "english": "country",
       "tag": "noun",
-      "image": "images/country.svg",
+      "image": "images/country_balad.svg",
       "english_book": "country"
     },
     {
@@ -111,7 +111,7 @@
       "english": "and, so",
       "tag": "prefix",
       "note": "prefixed conjunction",
-      "image": "images/and-2.svg",
+      "image": "images/and_f.svg",
       "english_book": "and, so"
     },
     {
@@ -119,7 +119,7 @@
       "english": "to say, he said",
       "tag": "verb",
       "verb_form": 1,
-      "image": "images/say.svg",
+      "image": "images/say_qal.svg",
       "english_book": "to say / he said"
     },
     {
@@ -128,21 +128,21 @@
       "tag": "verb",
       "verb_form": 1,
       "note": "3rd person masculine plural past of قَالَ",
-      "image": "images/they-said.svg",
+      "image": "images/they-said_qalua.svg",
       "english_book": "they said"
     },
     {
       "arabic": "جَمَالٌ",
       "english": "beauty",
       "tag": "noun",
-      "image": "images/beauty.svg",
+      "image": "images/beauty_jamal.svg",
       "english_book": "beauty"
     },
     {
       "arabic": "آثَارٌ",
       "english": "ruins, remains, monuments",
       "tag": "noun",
-      "image": "images/ruins.svg",
+      "image": "images/ruins_athar.svg",
       "english_book": "ruins, remains, monuments"
     },
     {
@@ -152,7 +152,7 @@
       "gender": "f",
       "governs": "إِلَى، لِ",
       "note": "a letter (to)",
-      "image": "images/letter.svg",
+      "image": "images/letter_risala.svg",
       "arabic_book": "رِسَالَةٌ (إِلَى، لِ)",
       "english_book": "a letter (to)"
     },
@@ -161,14 +161,14 @@
       "english": "April",
       "tag": "noun",
       "note": "month name (Levant)",
-      "image": "images/april.svg",
+      "image": "images/april_naysan.svg",
       "english_book": "April"
     },
     {
       "arabic": "عَزِيزٌ",
       "english": "dear",
       "tag": "adjective",
-      "image": "images/dear.svg",
+      "image": "images/dear_aziz.svg",
       "english_book": "dear"
     },
     {
@@ -177,7 +177,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_vowel": "u",
-      "image": "images/write-2.svg",
+      "image": "images/write_katab.svg",
       "arabic_book": "كَتَبَ (ـُ)",
       "english_book": "to write"
     },
@@ -186,7 +186,7 @@
       "english": "return",
       "tag": "noun",
       "gender": "f",
-      "image": "images/return-2.svg",
+      "image": "images/return_awda.svg",
       "english_book": "return"
     },
     {
@@ -195,7 +195,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_vowel": "u",
-      "image": "images/live.svg",
+      "image": "images/live_sakan.svg",
       "arabic_book": "سَكَنَ (ـُ)",
       "english_book": "to live"
     },
@@ -203,7 +203,7 @@
       "arabic": "اَلْآنَ",
       "english": "now",
       "tag": "adverb",
-      "image": "images/now.svg",
+      "image": "images/now_alan.svg",
       "english_book": "now"
     },
     {
@@ -211,7 +211,7 @@
       "english": "town, city",
       "tag": "noun",
       "gender": "f",
-      "image": "images/town.svg",
+      "image": "images/town_madina.svg",
       "english_book": "town, city"
     },
     {
@@ -220,7 +220,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_vowel": "a",
-      "image": "images/work.svg",
+      "image": "images/work_amil.svg",
       "arabic_book": "عَمِلَ (ـَ)",
       "english_book": "to work"
     },
@@ -229,7 +229,7 @@
       "english": "father",
       "tag": "noun",
       "gender": "m",
-      "image": "images/father-2.svg",
+      "image": "images/father_walid.svg",
       "english_book": "father"
     },
     {
@@ -237,7 +237,7 @@
       "english": "sister",
       "tag": "noun",
       "gender": "f",
-      "image": "images/sister-2.svg",
+      "image": "images/sister_ukht.svg",
       "english_book": "sister"
     },
     {
@@ -245,7 +245,7 @@
       "english": "education",
       "tag": "noun",
       "gender": "f",
-      "image": "images/education.svg",
+      "image": "images/education_tarbiya.svg",
       "english_book": "education"
     },
     {
@@ -254,7 +254,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_vowel": "u",
-      "image": "images/mention.svg",
+      "image": "images/mention_dhakar.svg",
       "arabic_book": "ذَكَرَ (ـُ)",
       "english_book": "to mention"
     },
@@ -262,7 +262,7 @@
       "arabic": "وُصُولٌ",
       "english": "arrival",
       "tag": "noun",
-      "image": "images/arrival.svg",
+      "image": "images/arrival_wusul.svg",
       "english_book": "arrival"
     },
     {
@@ -271,7 +271,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_vowel": "a",
-      "image": "images/look-for.svg",
+      "image": "images/look-for_bahath-an.svg",
       "arabic_book": "بَحَثَ (ـَ) عَنْ",
       "english_book": "to look for"
     },
@@ -279,28 +279,28 @@
       "arabic": "مُشْتَاقٌ",
       "english": "longing, yearning",
       "tag": "adjective",
-      "image": "images/longing.svg",
+      "image": "images/longing_mushtaq.svg",
       "english_book": "longing, yearning"
     },
     {
       "arabic": "سَلَامٌ",
       "english": "peace",
       "tag": "noun",
-      "image": "images/peace.svg",
+      "image": "images/peace_salam.svg",
       "english_book": "peace"
     },
     {
       "arabic": "مُخْلِصٌ",
       "english": "sincere",
       "tag": "adjective",
-      "image": "images/sincere.svg",
+      "image": "images/sincere_mukhlis.svg",
       "english_book": "sincere"
     },
     {
       "arabic": "قَادِمٌ",
       "english": "coming, next",
       "tag": "adjective",
-      "image": "images/coming.svg",
+      "image": "images/coming_qadim.svg",
       "english_book": "coming, next"
     },
     {
@@ -311,7 +311,7 @@
         "أُرُوبَّا"
       ],
       "note": "continent",
-      "image": "images/europe.svg",
+      "image": "images/europe_urubba.svg",
       "arabic_book": "أُرُوبَّا / أُورُوبَّا",
       "english_book": "Europe"
     },
@@ -320,14 +320,14 @@
       "english": "Africa",
       "tag": "proper noun",
       "note": "continent",
-      "image": "images/africa.svg",
+      "image": "images/africa_ifriqiya.svg",
       "english_book": "Africa"
     },
     {
       "arabic": "كَثِيرًا",
       "english": "frequently, often, a lot",
       "tag": "adverb",
-      "image": "images/frequently.svg",
+      "image": "images/frequently_kathira.svg",
       "english_book": "frequently, often, a lot"
     },
     {
@@ -335,7 +335,7 @@
       "english": "year",
       "tag": "noun",
       "gender": "f",
-      "image": "images/year.svg",
+      "image": "images/year_sana.svg",
       "english_book": "year"
     },
     {
@@ -344,35 +344,35 @@
       "tag": "noun",
       "gender": "f",
       "note": "plural of سَنَةٌ",
-      "image": "images/years.svg",
+      "image": "images/years_sanawat.svg",
       "english_book": "years"
     },
     {
       "arabic": "اَلسَّنَةُ الْقَادِمَةُ",
       "english": "next year",
       "tag": "phrase",
-      "image": "images/next-year.svg",
+      "image": "images/next-year_alssana-alqadima.svg",
       "english_book": "next year"
     },
     {
       "arabic": "قَصِيرٌ",
       "english": "short",
       "tag": "adjective",
-      "image": "images/short.svg",
+      "image": "images/short_qasir.svg",
       "english_book": "short"
     },
     {
       "arabic": "مِنْ قَبْلُ",
       "english": "beforehand, previously",
       "tag": "adverb",
-      "image": "images/beforehand.svg",
+      "image": "images/beforehand_min-qabl.svg",
       "english_book": "before(hand), previously"
     },
     {
       "arabic": "قَبْلَ",
       "english": "before",
       "tag": "preposition",
-      "image": "images/before.svg",
+      "image": "images/before_qabl.svg",
       "english_book": "before (preposition)"
     },
     {
@@ -380,7 +380,7 @@
       "english": "books",
       "tag": "noun",
       "note": "plural of كِتَابٌ",
-      "image": "images/write-2.svg",
+      "image": "images/books_kutub.svg",
       "english_book": "books"
     },
     {
@@ -389,7 +389,7 @@
       "tag": "proper noun",
       "gender": "m",
       "note": "male name",
-      "image": "images/on.svg",
+      "image": "images/ali_aliyy.svg",
       "english_book": "‘Ali (m. name)"
     },
     {
@@ -398,7 +398,7 @@
       "tag": "proper noun",
       "gender": "m",
       "note": "male name",
-      "image": "images/muhammad.svg",
+      "image": "images/muhammad_muhammad.svg",
       "english_book": "Muhammad (m. name)"
     },
     {
@@ -407,14 +407,14 @@
       "tag": "noun",
       "gender": "m",
       "note": "Turkish title, used especially in Egypt",
-      "image": "images/pasha.svg",
+      "image": "images/pasha_basha.svg",
       "english_book": "Pasha (Turkish title, used especially in Egypt)"
     },
     {
       "arabic": "اَلْآنَ",
       "english": "now",
       "tag": "adverb",
-      "image": "images/now.svg",
+      "image": "images/now_alan.svg",
       "english_book": "now"
     },
     {
@@ -422,7 +422,7 @@
       "english": "college, faculty",
       "tag": "noun",
       "gender": "f",
-      "image": "images/college.svg",
+      "image": "images/college_kulliyya.svg",
       "english_book": "college",
       "source_note": "handwritten gloss: faculty"
     },
@@ -430,7 +430,7 @@
       "arabic": "كَثِيرٌ",
       "english": "many, a lot",
       "tag": "adjective",
-      "image": "images/many.svg",
+      "image": "images/many_kathir.svg",
       "english_book": "many, a lot"
     },
     {
@@ -438,14 +438,14 @@
       "english": "big, old",
       "tag": "adjective",
       "note": "old (of people)",
-      "image": "images/big-2.svg",
+      "image": "images/big_kabir.svg",
       "english_book": "big, old (of people)"
     },
     {
       "arabic": "بَلَدٌ",
       "english": "village, town, country",
       "tag": "noun",
-      "image": "images/country.svg",
+      "image": "images/country_balad.svg",
       "english_book": "village, town, country"
     },
     {
@@ -453,7 +453,7 @@
       "english": "to meet, to receive, to welcome",
       "tag": "verb",
       "verb_form": 10,
-      "image": "images/meet.svg",
+      "image": "images/meet_aistaqbal.svg",
       "english_book": "to meet (10)",
       "source_note": "handwritten gloss: to receive, to welcome"
     }

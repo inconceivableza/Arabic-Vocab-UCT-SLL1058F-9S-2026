@@ -13,7 +13,7 @@
       "arabic": "مُوجَزٌ",
       "english": "summary, resume",
       "tag": "noun",
-      "image": "images/summary.svg",
+      "image": "images/summary_mujaz.svg",
       "english_book": "summary, resume"
     },
     {
@@ -23,7 +23,7 @@
       "verb_form": 1,
       "present_vowel": "u",
       "governs": "إِلَى",
-      "image": "images/transmit.svg",
+      "image": "images/transmit_naqal.svg",
       "arabic_book": "نَقَلَ (إِلَى) (ـُ)",
       "english_book": "transmit/transport (to)"
     },
@@ -32,9 +32,9 @@
       "english": "president",
       "tag": "noun",
       "gender": "m",
-      "plural": "رُؤَسَاءُ",
+      "arabic_plural": "رُؤَسَاءُ",
       "diptote": true,
-      "image": "images/president.svg",
+      "image": "images/president_rais.svg",
       "english_book": "president"
     },
     {
@@ -42,8 +42,8 @@
       "english": "nation, state",
       "tag": "noun",
       "gender": "f",
-      "plural": "دُوَلٌ",
-      "image": "images/nation.svg",
+      "arabic_plural": "دُوَلٌ",
+      "image": "images/nation_dawla.svg",
       "english_book": "nation, state"
     },
     {
@@ -52,7 +52,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_vowel": "a",
-      "image": "images/discuss.svg",
+      "image": "images/discuss_bahath.svg",
       "arabic_book": "بَحَثَ (ـَ)",
       "english_book": "to discuss"
     },
@@ -60,7 +60,7 @@
       "arabic": "وَضْعٌ",
       "english": "state, condition, situation",
       "tag": "noun",
-      "image": "images/state.svg",
+      "image": "images/state_wad.svg",
       "english_book": "state, condition",
       "source_note": "handwritten gloss: situation"
     },
@@ -68,21 +68,21 @@
       "arabic": "سِيَاسِيٌّ",
       "english": "political",
       "tag": "adjective",
-      "image": "images/political.svg",
+      "image": "images/political_siyasiyy.svg",
       "english_book": "political"
     },
     {
       "arabic": "حَاضِرٌ",
       "english": "current, present",
       "tag": "adjective",
-      "image": "images/current.svg",
+      "image": "images/current_hadir.svg",
       "english_book": "current, present"
     },
     {
       "arabic": "عَالَمٌ",
       "english": "world",
       "tag": "noun",
-      "image": "images/world.svg",
+      "image": "images/world_alam.svg",
       "english_book": "world"
     },
     {
@@ -90,26 +90,26 @@
       "english": "reporter",
       "tag": "noun",
       "gender": "m",
-      "plural": "مُرَاسِلُونَ",
-      "image": "images/reporter.svg",
+      "arabic_plural": "مُرَاسِلُونَ",
+      "image": "images/reporter_murasil.svg",
       "english_book": "reporter"
     },
     {
       "arabic": "أَجْنَبِيٌّ",
       "english": "foreigner, foreign",
       "tag": "noun",
-      "plural": "أَجَانِبُ",
+      "arabic_plural": "أَجَانِبُ",
       "diptote": true,
       "note": "also adjective: foreign",
-      "image": "images/foreigner.svg",
+      "image": "images/foreign_ajnabiyy.svg",
       "english_book": "foreigner; foreign (adj.)"
     },
     {
       "arabic": "بَلَدٌ",
       "english": "country",
       "tag": "noun",
-      "plural": "بِلَادٌ",
-      "image": "images/country.svg",
+      "arabic_plural": "بِلَادٌ",
+      "image": "images/country_balad.svg",
       "english_book": "country"
     },
     {
@@ -117,9 +117,9 @@
       "english": "minister",
       "tag": "noun",
       "gender": "m",
-      "plural": "وُزَرَاءُ",
+      "arabic_plural": "وُزَرَاءُ",
       "diptote": true,
-      "image": "images/minister.svg",
+      "image": "images/minister_wazir.svg",
       "english_book": "minister"
     },
     {
@@ -128,7 +128,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_vowel": "u",
-      "image": "images/publish.svg",
+      "image": "images/publish_nashar.svg",
       "arabic_book": "نَشَرَ (ـُ)",
       "english_book": "to publish"
     },
@@ -136,8 +136,8 @@
       "arabic": "اِسْمٌ",
       "english": "name",
       "tag": "noun",
-      "plural": "أَسْمَاءٌ",
-      "image": "images/name.svg",
+      "arabic_plural": "أَسْمَاءٌ",
+      "image": "images/name_aism.svg",
       "english_book": "name"
     },
     {
@@ -146,7 +146,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_vowel": "a",
-      "image": "images/hear.svg",
+      "image": "images/hear_sami.svg",
       "arabic_book": "سَمِعَ (ـَ)",
       "english_book": "to hear"
     },
@@ -154,17 +154,17 @@
       "arabic": "تَفْصِيلٌ",
       "english": "detail",
       "tag": "noun",
-      "plural": "تَفَاصِيلُ",
+      "arabic_plural": "تَفَاصِيلُ",
       "diptote": true,
-      "image": "images/detail.svg",
+      "image": "images/detail_tafsil.svg",
       "english_book": "detail"
     },
     {
       "arabic": "اِمْتِحَانٌ",
       "english": "exam",
       "tag": "noun",
-      "plural": "اِمْتِحَانَاتٌ",
-      "image": "images/exam.svg",
+      "arabic_plural": "اِمْتِحَانَاتٌ",
+      "image": "images/exam_aimtihan.svg",
       "english_book": "exam"
     },
     {
@@ -173,7 +173,7 @@
       "tag": "adjective",
       "governs": "لِ",
       "note": "ready for",
-      "image": "images/ready.svg",
+      "image": "images/ready_mustaidd.svg",
       "arabic_book": "مُسْتَعِدٌّ (لِ)",
       "english_book": "ready for"
     },
@@ -181,7 +181,7 @@
       "arabic": "اَلْيَوْمَ",
       "english": "today",
       "tag": "adverb",
-      "image": "images/today.svg",
+      "image": "images/today_alyawm.svg",
       "english_book": "today"
     },
     {
@@ -189,23 +189,23 @@
       "english": "sentence",
       "tag": "noun",
       "gender": "f",
-      "plural": "جُمَلٌ",
-      "image": "images/sentence.svg",
+      "arabic_plural": "جُمَلٌ",
+      "image": "images/sentence_jumla.svg",
       "english_book": "sentence"
     },
     {
       "arabic": "دَرْسٌ",
       "english": "lesson",
       "tag": "noun",
-      "plural": "دُرُوسٌ",
-      "image": "images/lesson.svg",
+      "arabic_plural": "دُرُوسٌ",
+      "image": "images/lesson_dars.svg",
       "english_book": "lesson"
     },
     {
       "arabic": "أَخِيرٌ",
       "english": "final, last",
       "tag": "adjective",
-      "image": "images/final.svg",
+      "image": "images/final_akhir.svg",
       "english_book": "final, last"
     },
     {
@@ -213,14 +213,14 @@
       "english": "most",
       "tag": "noun",
       "note": "most of",
-      "image": "images/most.svg",
+      "image": "images/most_muzam.svg",
       "english_book": "most (of)"
     },
     {
       "arabic": "غَدًا",
       "english": "tomorrow",
       "tag": "adverb",
-      "image": "images/tomorrow.svg",
+      "image": "images/tomorrow_ghada.svg",
       "english_book": "tomorrow"
     },
     {
@@ -229,35 +229,35 @@
       "tag": "noun",
       "diptote": true,
       "note": "rules (of grammar); plural of قَاعِدَةٌ",
-      "image": "images/rules.svg",
+      "image": "images/rules_qawaid.svg",
       "english_book": "rules (of grammar)"
     },
     {
       "arabic": "صَبَاحًا",
       "english": "in the morning",
       "tag": "adverb",
-      "image": "images/in-the-morning.svg",
+      "image": "images/in-the-morning_sabaha.svg",
       "english_book": "in the morning"
     },
     {
       "arabic": "ظُهْرٌ",
       "english": "noon",
       "tag": "noun",
-      "image": "images/noon.svg",
+      "image": "images/noon_zuhr.svg",
       "english_book": "noon"
     },
     {
       "arabic": "بَعْدَ الظُّهْرِ",
       "english": "in the afternoon",
       "tag": "phrase",
-      "image": "images/in-the-afternoon.svg",
+      "image": "images/in-the-afternoon_bad-alzzuhr.svg",
       "english_book": "in the afternoon"
     },
     {
       "arabic": "جَدْوَلٌ",
       "english": "timetable",
       "tag": "noun",
-      "image": "images/timetable.svg",
+      "image": "images/timetable_jadwal.svg",
       "english_book": "timetable"
     },
     {
@@ -266,7 +266,7 @@
       "tag": "adjective",
       "gender": "m",
       "diptote": true,
-      "image": "images/other.svg",
+      "image": "images/other_akhar.svg",
       "english_book": "other (m. sing.)"
     },
     {
@@ -274,14 +274,14 @@
       "english": "other",
       "tag": "adjective",
       "gender": "f",
-      "image": "images/other-2.svg",
+      "image": "images/other_ukhraa.svg",
       "english_book": "other (f. sing.)"
     },
     {
       "arabic": "ثُمَّ",
       "english": "then, moreover, and then",
       "tag": "conjunction",
-      "image": "images/and-then.svg",
+      "image": "images/and-then_thumma.svg",
       "english_book": "then, moreover, and then"
     },
     {
@@ -290,7 +290,7 @@
       "tag": "noun",
       "gender": "m",
       "note": "also adjective: responsible",
-      "image": "images/responsible.svg",
+      "image": "images/responsible_masul.svg",
       "english_book": "responsible, official (noun)"
     },
     {
@@ -299,7 +299,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_vowel": "a",
-      "image": "images/read.svg",
+      "image": "images/read_qara.svg",
       "arabic_book": "قَرَأَ (ـَ)",
       "english_book": "to read",
       "handwritten": true
@@ -310,7 +310,7 @@
       "tag": "noun",
       "governs": "فِي أَوْ عَلَى",
       "note": "influence (on)",
-      "image": "images/influence.svg",
+      "image": "images/influence_tathir.svg",
       "arabic_book": "تَأْثِيرٌ (فِي أَو عَلَى)",
       "english_book": "influence (on)"
     },
@@ -318,15 +318,15 @@
       "arabic": "سَلَامٌ",
       "english": "peace",
       "tag": "noun",
-      "image": "images/peace.svg",
+      "image": "images/peace_salam.svg",
       "english_book": "peace"
     },
     {
       "arabic": "جَدِيدٌ",
       "english": "new",
       "tag": "adjective",
-      "plural": "جُدُدٌ",
-      "image": "images/new.svg",
+      "arabic_plural": "جُدُدٌ",
+      "image": "images/new_jadid.svg",
       "english_book": "new"
     },
     {
@@ -335,7 +335,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_vowel": "a",
-      "image": "images/contain.svg",
+      "image": "images/contain_shamil.svg",
       "arabic_book": "شَمِلَ (ـَ)",
       "english_book": "to contain",
       "source_note": "handwritten gloss: include"
@@ -345,15 +345,15 @@
       "english": "lecture",
       "tag": "noun",
       "gender": "f",
-      "image": "images/lecture.svg",
+      "image": "images/lecture_muhadara.svg",
       "english_book": "lecture"
     },
     {
       "arabic": "خَبَرٌ",
       "english": "news",
       "tag": "noun",
-      "plural": "أَخْبَارٌ",
-      "image": "images/news.svg",
+      "arabic_plural": "أَخْبَارٌ",
+      "image": "images/news_khabar.svg",
       "english_book": "news"
     }
   ]

@@ -13,38 +13,38 @@
       "english": "to be",
       "tag": "verb",
       "verb_form": 1,
-      "image": "images/be.svg",
+      "image": "images/be_kan.svg",
       "english_book": "to be"
     },
     {
       "arabic": "يَوْمٌ",
       "english": "day",
       "tag": "noun",
-      "plural": "أَيَّامٌ",
-      "image": "images/day.svg",
+      "arabic_plural": "أَيَّامٌ",
+      "image": "images/day_yawm.svg",
       "english_book": "day"
     },
     {
       "arabic": "يَوْمًا",
       "english": "one day",
       "tag": "adverb",
-      "image": "images/one-day.svg",
+      "image": "images/one-day_yawma.svg",
       "english_book": "one day"
     },
     {
       "arabic": "مَقْهًى",
       "english": "coffee house",
       "tag": "noun",
-      "plural": "مَقَاهٍ",
-      "image": "images/coffee-house.svg",
+      "arabic_plural": "مَقَاهٍ",
+      "image": "images/coffee-house_maqha.svg",
       "english_book": "a coffee house"
     },
     {
       "arabic": "اَلْمَقْهَى",
       "english": "the coffee house",
       "tag": "noun",
-      "plural": "اَلْمَقَاهِي",
-      "image": "images/coffee-house-2.svg",
+      "arabic_plural": "اَلْمَقَاهِي",
+      "image": "images/coffee-house_almaqhaa.svg",
       "english_book": "the coffee house"
     },
     {
@@ -52,7 +52,7 @@
       "english": "to say",
       "tag": "verb",
       "verb_form": 1,
-      "image": "images/say.svg",
+      "image": "images/say_qal.svg",
       "english_book": "to say"
     },
     {
@@ -60,8 +60,8 @@
       "english": "story",
       "tag": "noun",
       "gender": "f",
-      "plural": "قِصَصٌ",
-      "image": "images/story.svg",
+      "arabic_plural": "قِصَصٌ",
+      "image": "images/story_qissa.svg",
       "english_book": "story"
     },
     {
@@ -69,14 +69,14 @@
       "english": "to converse",
       "tag": "verb",
       "verb_form": 5,
-      "image": "images/converse.svg",
+      "image": "images/converse_tahaddath.svg",
       "english_book": "to converse (5)"
     },
     {
       "arabic": "جَهْلٌ",
       "english": "ignorance",
       "tag": "noun",
-      "image": "images/ignorance.svg",
+      "image": "images/ignorance_jahl.svg",
       "english_book": "ignorance"
     },
     {
@@ -86,7 +86,7 @@
       "variants": [
         "إِذًا"
       ],
-      "image": "images/then.svg",
+      "image": "images/then_idhan.svg",
       "arabic_book": "إِذَنْ ، إِذًا",
       "english_book": "then, in that case"
     },
@@ -95,7 +95,7 @@
       "english": "knowledge",
       "tag": "noun",
       "gender": "f",
-      "image": "images/knowledge.svg",
+      "image": "images/knowledge_marifa.svg",
       "english_book": "knowledge"
     },
     {
@@ -104,7 +104,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_vowel": "a",
-      "image": "images/laugh.svg",
+      "image": "images/laugh_dahik.svg",
       "arabic_book": "ضَحِكَ (ـَ)",
       "english_book": "to laugh"
     },
@@ -113,7 +113,7 @@
       "english": "one who knows",
       "tag": "noun",
       "note": "active participle of عَرَفَ",
-      "image": "images/one-who-knows.svg",
+      "image": "images/one-who-knows_arif.svg",
       "english_book": "one who knows"
     },
     {
@@ -123,7 +123,7 @@
       "verb_form": 4,
       "governs": "بِ",
       "note": "to inform (of)",
-      "image": "images/inform.svg",
+      "image": "images/inform_akhbar.svg",
       "arabic_book": "أَخْبَرَ (بِ)",
       "english_book": "to inform (of) (4)"
     },
@@ -132,7 +132,7 @@
       "english": "one who is ignorant",
       "tag": "noun",
       "note": "active participle of جَهِلَ",
-      "image": "images/one-who-is-ignorant.svg",
+      "image": "images/one-who-is-ignorant_jahil.svg",
       "english_book": "one who is ignorant"
     },
     {
@@ -141,7 +141,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_vowel": "u",
-      "image": "images/visit-2.svg",
+      "image": "images/visit_zar.svg",
       "arabic_book": "زَارَ (ـُ)",
       "english_book": "to visit"
     },
@@ -151,7 +151,7 @@
       "tag": "verb",
       "verb_form": 1,
       "present_tense": "يَجِيءُ",
-      "image": "images/come.svg",
+      "image": "images/come_ja.svg",
       "arabic_book": "جَاءَ (يَجِيءُ)",
       "english_book": "to come",
       "source_note": "present tense given in brackets"
@@ -160,7 +160,7 @@
       "arabic": "عُرْسٌ",
       "english": "wedding",
       "tag": "noun",
-      "image": "images/wedding.svg",
+      "image": "images/wedding_urs.svg",
       "english_book": "wedding"
     },
     {
@@ -168,14 +168,14 @@
       "english": "party, celebration",
       "tag": "noun",
       "gender": "f",
-      "image": "images/party-2.svg",
+      "image": "images/party_hafla.svg",
       "english_book": "party, celebration"
     },
     {
       "arabic": "حَفْلَةُ عُرْسٍ",
       "english": "wedding celebration",
       "tag": "phrase",
-      "image": "images/wedding-celebration.svg",
+      "image": "images/wedding-celebration_hafla-urs.svg",
       "english_book": "wedding celebration"
     },
     {
@@ -183,23 +183,23 @@
       "english": "village",
       "tag": "noun",
       "gender": "f",
-      "plural": "قُرًى",
-      "image": "images/village.svg",
+      "arabic_plural": "قُرًى",
+      "image": "images/village_qarya.svg",
       "english_book": "village"
     },
     {
       "arabic": "أُرْدُنِّيٌّ",
       "english": "Jordanian",
       "tag": "adjective",
-      "image": "images/jordanian.svg",
+      "image": "images/jordanian_urdunniyy.svg",
       "english_book": "Jordanian"
     },
     {
       "arabic": "بَيْتٌ",
       "english": "house",
       "tag": "noun",
-      "plural": "بُيُوتٌ",
-      "image": "images/house.svg",
+      "arabic_plural": "بُيُوتٌ",
+      "image": "images/house_bayt.svg",
       "english_book": "house"
     },
     {
@@ -207,7 +207,7 @@
       "english": "bridegroom",
       "tag": "noun",
       "gender": "m",
-      "image": "images/bridegroom.svg",
+      "image": "images/bridegroom_aris.svg",
       "english_book": "bridegroom"
     },
     {
@@ -215,7 +215,7 @@
       "english": "bride",
       "tag": "noun",
       "gender": "f",
-      "image": "images/bride.svg",
+      "image": "images/bride_arus.svg",
       "english_book": "bride"
     },
     {
@@ -223,9 +223,9 @@
       "english": "period",
       "tag": "noun",
       "gender": "f",
-      "plural": "مُدَدٌ",
+      "arabic_plural": "مُدَدٌ",
       "note": "period (of time)",
-      "image": "images/period.svg",
+      "image": "images/period_mudda.svg",
       "english_book": "period (of time)"
     }
   ]

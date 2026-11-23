@@ -19,7 +19,7 @@ scanned course books:
       "verb_form": 1,
       "present_vowel": "u",
       "governs": "إِلَى",
-      "image": "images/transmit.svg",
+      "image": "images/transmit_naqal.svg",
       "arabic_book": "نَقَلَ (إِلَى) (ـُ)",
       "english_book": "transmit/transport (to)"
     }
@@ -44,7 +44,7 @@ remarks. Everything else the book prints is moved to the other keys.
 | `governs` | preposition or particle the word is used with (e.g. سَافَرَ + إِلَى) |
 | `definite` | definite form, for words like اِمْرَأَةٌ → اَلْمَرْأَةُ |
 | `feminine` | feminine form given alongside the headword |
-| `plural` | plural from the book's brackets (`(-ات)` expanded); alternatives separated by `،` |
+| `arabic_plural` | plural from the book's brackets (`(-ات)` expanded); alternatives separated by `،` |
 | `variants` | alternative spellings of the headword |
 | `diptote` | entry is marked `*` (diptote) in the book; in Part 2 this usually refers to the plural |
 | `note` | usage or grammar information removed from the gloss |
@@ -61,10 +61,19 @@ Entries are listed in the book's reading order (right-hand column first, then le
 ## Images
 
 `images/*.svg` are 64×64 icons in the same flat style as the flashcards in
-`index.html`. Icons for words already in `index.html` are copied from there.
-The rest are built from [Lucide](https://lucide.dev) icons (ISC licence, see
-`images/LICENSE-lucide.txt`): a pastel circle with the line icon drawn on top. The colour
-follows the word class (verbs teal, nouns blue, adjectives purple, proper
-nouns coral, function words green, and so on). Grammatical words with no
-sensible picture use a text glyph instead. A word that appears in more than
-one lesson shares one image file.
+`index.html`: a pastel circle with the motif in a darker shade, coloured by
+word class (verbs teal, nouns blue, adjectives purple, proper nouns coral,
+function words green, and so on).
+
+- Words already in `index.html` reuse its icons.
+- Personal names get a name card: a male figure (blue) or female figure
+  (pink), based on the person icons in `index.html`, with a ♂/♀ sign and
+  the name underneath.
+- Countries use their circular flag. Cities use the flag of their country.
+- Other icons come from open icon sets (Lucide, Tabler, Health Icons,
+  Game-icons.net). Grammatical words with no sensible picture use a text glyph.
+
+Each Arabic word has exactly one image, shared by every lesson it appears in.
+Files are named `{english}_{transliteration}.svg`, e.g. `year_sana.svg` and
+`year_am.svg`, so different words with the same gloss never clash.
+Sources and licences for every file are listed in `images/CREDITS.md`.
