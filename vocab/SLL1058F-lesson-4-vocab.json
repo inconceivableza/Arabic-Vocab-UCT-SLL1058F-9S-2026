@@ -1,0 +1,327 @@
+{
+  "course": "SLL1058F",
+  "lesson": 4,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_1.pdf",
+    "pdf_pages": [
+      70,
+      71
+    ]
+  },
+  "words": [
+    {
+      "arabic": "دِرَاسَةٌ",
+      "english": "studying",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/studying_dirasa.svg",
+      "english_book": "studying"
+    },
+    {
+      "arabic": "ذَهَبَ",
+      "english": "to go",
+      "tag": "verb",
+      "verb_form": 1,
+      "image": "images/go_dhahab.svg",
+      "english_book": "to go"
+    },
+    {
+      "arabic": "إِلَى",
+      "english": "to",
+      "tag": "preposition",
+      "image": "images/to_ilaa.svg",
+      "english_book": "to (preposition)"
+    },
+    {
+      "arabic": "دَرَسَ",
+      "english": "to study",
+      "tag": "verb",
+      "verb_form": 1,
+      "image": "images/study_daras.svg",
+      "english_book": "to study"
+    },
+    {
+      "arabic": "لُغَةٌ",
+      "english": "language",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/language_lugha.svg",
+      "english_book": "language"
+    },
+    {
+      "arabic": "عَرَبِيٌّ",
+      "english": "Arabic, an Arab",
+      "tag": "adjective",
+      "gender": "m",
+      "note": "also used as a noun: an Arab (man)",
+      "image": "images/arabic_arabiyy.svg",
+      "english_book": "Arabic; an Arab (man)"
+    },
+    {
+      "arabic": "اَللُّغَةُ الْعَرَبِيَّةُ",
+      "english": "the Arabic language",
+      "tag": "phrase",
+      "image": "images/arabic-language_allugha-alarabiyya.svg",
+      "english_book": "the Arabic language"
+    },
+    {
+      "arabic": "بَعْدَ",
+      "english": "after",
+      "tag": "preposition",
+      "image": "images/after_bad.svg",
+      "english_book": "after (preposition)"
+    },
+    {
+      "arabic": "رَجَعَ",
+      "english": "to return",
+      "tag": "verb",
+      "verb_form": 1,
+      "image": "images/return_raja.svg",
+      "english_book": "to return"
+    },
+    {
+      "arabic": "دَرَّسَ",
+      "english": "to teach",
+      "tag": "verb",
+      "verb_form": 2,
+      "image": "images/teach_darras.svg",
+      "english_book": "to teach"
+    },
+    {
+      "arabic": "صَدِيقَةٌ",
+      "english": "friend",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/friend_sadiqa.svg",
+      "english_book": "friend (girl)"
+    },
+    {
+      "arabic": "مَتْحَفٌ",
+      "english": "museum",
+      "tag": "noun",
+      "image": "images/museum_mathaf.svg",
+      "english_book": "museum"
+    },
+    {
+      "arabic": "وَطَنِيٌّ",
+      "english": "national",
+      "tag": "adjective",
+      "image": "images/national_wataniyy.svg",
+      "english_book": "national"
+    },
+    {
+      "arabic": "زَائِرٌ",
+      "english": "visitor",
+      "tag": "noun",
+      "image": "images/visitor_zair.svg",
+      "english_book": "visitor"
+    },
+    {
+      "arabic": "صَبَاحٌ",
+      "english": "morning",
+      "tag": "noun",
+      "image": "images/morning_sabah.svg",
+      "english_book": "morning"
+    },
+    {
+      "arabic": "صَبَاحَ الْخَيْرِ",
+      "english": "good morning",
+      "tag": "phrase",
+      "image": "images/good-morning_sabah-alkhayr.svg",
+      "english_book": "good morning"
+    },
+    {
+      "arabic": "فَتَاةٌ",
+      "english": "young woman",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/young-woman_fata.svg",
+      "english_book": "young woman"
+    },
+    {
+      "arabic": "بِنْتٌ",
+      "english": "girl, daughter",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/girl_bint.svg",
+      "english_book": "girl, daughter"
+    },
+    {
+      "arabic": "شُكْرًا",
+      "english": "thank you",
+      "tag": "interjection",
+      "image": "images/thank-you_shukra.svg",
+      "english_book": "thank you (shukran)"
+    },
+    {
+      "arabic": "عَفْوًا",
+      "english": "you're welcome",
+      "tag": "interjection",
+      "image": "images/you-re-welcome_afwa.svg",
+      "english_book": "you're welcome (‘afwan)"
+    },
+    {
+      "arabic": "بِنَاءٌ",
+      "english": "building",
+      "tag": "noun",
+      "image": "images/building_bina.svg",
+      "english_book": "building"
+    },
+    {
+      "arabic": "أَ",
+      "english": "interrogative particle",
+      "tag": "prefix",
+      "note": "prefixed question particle; english gloss is descriptive",
+      "image": "images/interrogative-particle_x.svg",
+      "english_book": "interrogative particle"
+    },
+    {
+      "arabic": "قَدِيمٌ",
+      "english": "old",
+      "tag": "adjective",
+      "image": "images/old_qadim.svg",
+      "english_book": "old"
+    },
+    {
+      "arabic": "ثَانَوِيٌّ",
+      "english": "secondary",
+      "tag": "adjective",
+      "image": "images/secondary_thanawiyy.svg",
+      "english_book": "secondary"
+    },
+    {
+      "arabic": "حَدِيثٌ",
+      "english": "new, modern",
+      "tag": "adjective",
+      "image": "images/new_hadith.svg",
+      "english_book": "new, modern"
+    },
+    {
+      "arabic": "أَمْ",
+      "english": "or",
+      "tag": "conjunction",
+      "note": "used in questions",
+      "image": "images/or_am.svg",
+      "english_book": "or"
+    },
+    {
+      "arabic": "لِ",
+      "english": "belonging to, for",
+      "tag": "prefix",
+      "note": "prefixed preposition; also expresses have/has",
+      "image": "images/belonging-to_l.svg",
+      "english_book": "belonging to, for; have/has"
+    },
+    {
+      "arabic": "سَيَّارَةٌ",
+      "english": "car",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/car_sayyara.svg",
+      "english_book": "car"
+    },
+    {
+      "arabic": "بَيْتٌ",
+      "english": "house",
+      "tag": "noun",
+      "image": "images/house_bayt.svg",
+      "english_book": "house"
+    },
+    {
+      "arabic": "هٰذَا",
+      "english": "this",
+      "tag": "demonstrative",
+      "gender": "m",
+      "feminine": "هٰذِهِ",
+      "image": "images/this_hadha.svg",
+      "arabic_book": "هٰذَا / هٰذِهِ",
+      "english_book": "this"
+    },
+    {
+      "arabic": "وَسَطٌ",
+      "english": "centre, middle",
+      "tag": "noun",
+      "note": "middle of",
+      "image": "images/centre_wasat.svg",
+      "english_book": "centre, middle of"
+    },
+    {
+      "arabic": "مَشْهُورٌ",
+      "english": "famous",
+      "tag": "adjective",
+      "image": "images/famous_mashhur.svg",
+      "english_book": "famous"
+    },
+    {
+      "arabic": "مُوَظَّفٌ",
+      "english": "employee",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/employee_muwazzaf.svg",
+      "english_book": "employee"
+    },
+    {
+      "arabic": "قَرِيبٌ",
+      "english": "near",
+      "tag": "adjective",
+      "governs": "مِنْ",
+      "image": "images/near_qarib.svg",
+      "arabic_book": "قَرِيبٌ (مِنْ)",
+      "english_book": "near (followed by مِنْ)"
+    },
+    {
+      "arabic": "اَلتَّارِيخُ",
+      "english": "history",
+      "tag": "noun",
+      "note": "as a subject of study",
+      "image": "images/history_alttarikh.svg",
+      "english_book": "history (subject of study)"
+    },
+    {
+      "arabic": "وَلَدٌ",
+      "english": "boy",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/boy_walad.svg",
+      "english_book": "boy"
+    },
+    {
+      "arabic": "كَرِيمٌ",
+      "english": "Karim",
+      "tag": "proper noun",
+      "gender": "m",
+      "note": "male name",
+      "image": "images/karim_karim.svg",
+      "english_book": "Karīm (m. name)"
+    },
+    {
+      "arabic": "زَيْنَبُ",
+      "english": "Zaynab",
+      "tag": "proper noun",
+      "gender": "f",
+      "diptote": true,
+      "note": "female name",
+      "image": "images/zaynab_zaynab.svg",
+      "english_book": "Zaynab (f. name)"
+    },
+    {
+      "arabic": "خَالِدٌ",
+      "english": "Khalid",
+      "tag": "proper noun",
+      "gender": "m",
+      "note": "male name",
+      "image": "images/khalid_khalid.svg",
+      "english_book": "Khālid (m. name)"
+    },
+    {
+      "arabic": "سَمِيرَةُ",
+      "english": "Samira",
+      "tag": "proper noun",
+      "gender": "f",
+      "diptote": true,
+      "note": "female name",
+      "image": "images/samira_samira.svg",
+      "english_book": "Samīra (f. name)"
+    }
+  ]
+}

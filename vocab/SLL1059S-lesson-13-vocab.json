@@ -1,0 +1,362 @@
+{
+  "course": "SLL1059S",
+  "lesson": 13,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_2.pdf",
+    "pdf_pages": [
+      94,
+      95
+    ]
+  },
+  "words": [
+    {
+      "arabic": "نَفْطٌ",
+      "english": "petrol",
+      "tag": "noun",
+      "note": "oil, petroleum",
+      "image": "images/petrol_naft.svg",
+      "english_book": "petrol"
+    },
+    {
+      "arabic": "اِمْتَازَ",
+      "english": "to be distinguished, to be characterised",
+      "tag": "verb",
+      "verb_form": 8,
+      "governs": "بِ",
+      "note": "to be distinguished by, characterised by",
+      "image": "images/be-distinguished_aimtaz.svg",
+      "english_book": "to be distinguished by, characterised by (8)"
+    },
+    {
+      "arabic": "غَنِيٌّ",
+      "english": "rich",
+      "tag": "adjective",
+      "governs": "بِ",
+      "note": "rich (in)",
+      "image": "images/rich_ghaniyy.svg",
+      "arabic_book": "غَنِيٌّ (بِ)",
+      "english_book": "rich (in)"
+    },
+    {
+      "arabic": "مَوْرِدٌ",
+      "english": "source, resource",
+      "tag": "noun",
+      "arabic_plural": "مَوَارِدُ",
+      "diptote": true,
+      "image": "images/source_mawrid.svg",
+      "english_book": "source, resource"
+    },
+    {
+      "arabic": "مَوْرِدُ النَّفْطِ",
+      "english": "oil well",
+      "tag": "phrase",
+      "image": "images/oil-well_mawrid-alnnaft.svg",
+      "english_book": "oil well"
+    },
+    {
+      "arabic": "عَامٌ",
+      "english": "year",
+      "tag": "noun",
+      "arabic_plural": "أَعْوَامٌ",
+      "image": "images/year_am.svg",
+      "english_book": "year"
+    },
+    {
+      "arabic": "اِزْدَادَ",
+      "english": "to grow, to increase",
+      "tag": "verb",
+      "verb_form": 8,
+      "image": "images/grow_aizdad.svg",
+      "english_book": "to grow, increase (8)"
+    },
+    {
+      "arabic": "إِنْتَاجٌ",
+      "english": "production",
+      "tag": "noun",
+      "note": "verbal noun",
+      "image": "images/production_intaj.svg",
+      "english_book": "production (verbal noun)"
+    },
+    {
+      "arabic": "اِسْتَفَادَ",
+      "english": "to benefit",
+      "tag": "verb",
+      "verb_form": 10,
+      "governs": "مِنْ",
+      "note": "to benefit (from)",
+      "image": "images/benefit_aistafad.svg",
+      "arabic_book": "اِسْتَفَادَ (مِنْ)",
+      "english_book": "to benefit (from) (10)"
+    },
+    {
+      "arabic": "دَوْلَةٌ",
+      "english": "state, nation",
+      "tag": "noun",
+      "gender": "f",
+      "arabic_plural": "دُوَلٌ",
+      "image": "images/nation_dawla.svg",
+      "english_book": "state, nation"
+    },
+    {
+      "arabic": "كَثِيرٌ",
+      "english": "much, abundant, many",
+      "tag": "adjective",
+      "arabic_plural": "كِثَارٌ",
+      "image": "images/many_kathir.svg",
+      "english_book": "much, abundant, many"
+    },
+    {
+      "arabic": "كَثِيرًا",
+      "english": "much, a lot",
+      "tag": "adverb",
+      "image": "images/frequently_kathira.svg",
+      "english_book": "much, a lot"
+    },
+    {
+      "arabic": "لَيْسَ",
+      "english": "is not",
+      "tag": "verb",
+      "note": "negative of the verb 'to be' in the present tense",
+      "image": "images/is-not_lays.svg",
+      "english_book": "negative of the verb 'to be' in the present tense"
+    },
+    {
+      "arabic": "اِحْتَاجَ إِلَى",
+      "english": "to need",
+      "tag": "verb",
+      "verb_form": 8,
+      "image": "images/need_aihtaj-ilaa.svg",
+      "english_book": "to need"
+    },
+    {
+      "arabic": "قَدْ",
+      "english": "already",
+      "tag": "particle",
+      "note": "followed by a past tense verb, indicates completeness of action; english gloss is the closest equivalent",
+      "image": "images/already_qad.svg",
+      "english_book": "(followed by past tense verb) this particle indicates completeness of action"
+    },
+    {
+      "arabic": "أَقَامَ",
+      "english": "to live, to set up, to found",
+      "tag": "verb",
+      "verb_form": 4,
+      "image": "images/live_aqam.svg",
+      "english_book": "to live, set up, found (4)"
+    },
+    {
+      "arabic": "مَصْنَعٌ",
+      "english": "factory",
+      "tag": "noun",
+      "arabic_plural": "مَصَانِعُ",
+      "diptote": true,
+      "image": "images/factory_masna.svg",
+      "english_book": "factory"
+    },
+    {
+      "arabic": "أَدَارَ",
+      "english": "to manage, to administer",
+      "tag": "verb",
+      "verb_form": 4,
+      "image": "images/manage_adar.svg",
+      "english_book": "to manage, administer (4)"
+    },
+    {
+      "arabic": "مُنَظَّمَةٌ",
+      "english": "organisation",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/organisation_munazzama.svg",
+      "english_book": "organisation"
+    },
+    {
+      "arabic": "أُمَّةٌ",
+      "english": "nation",
+      "tag": "noun",
+      "gender": "f",
+      "arabic_plural": "أُمَمٌ",
+      "image": "images/nation_umma.svg",
+      "english_book": "nation"
+    },
+    {
+      "arabic": "مُتَّحِدٌ",
+      "english": "united",
+      "tag": "adjective",
+      "image": "images/united_muttahid.svg",
+      "english_book": "united"
+    },
+    {
+      "arabic": "حَرْبٌ",
+      "english": "war",
+      "tag": "noun",
+      "gender": "f",
+      "arabic_plural": "حُرُوبٌ",
+      "image": "images/war_harb.svg",
+      "english_book": "war (f.)"
+    },
+    {
+      "arabic": "تَأْسِيسٌ",
+      "english": "establishing",
+      "tag": "noun",
+      "note": "verbal noun (Form 2)",
+      "image": "images/establishing_tasis.svg",
+      "english_book": "establishing (verbal noun, 2)"
+    },
+    {
+      "arabic": "وَضَعَ",
+      "english": "to place, to put",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_tense": "يَضَعُ",
+      "image": "images/place_wada.svg",
+      "arabic_book": "وَضَعَ (يَضَعُ)",
+      "english_book": "to place, put",
+      "source_note": "present tense given in brackets"
+    },
+    {
+      "arabic": "مِيثَاقٌ",
+      "english": "covenant, pact, charter",
+      "tag": "noun",
+      "arabic_plural": "مَوَاثِيقُ",
+      "diptote": true,
+      "image": "images/covenant_mithaq.svg",
+      "english_book": "covenant, pact, charter"
+    },
+    {
+      "arabic": "عَامٌّ",
+      "english": "general",
+      "tag": "adjective",
+      "image": "images/general_amm.svg",
+      "english_book": "general (adjective)"
+    },
+    {
+      "arabic": "مَنْدُوبٌ",
+      "english": "delegate",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/delegate_mandub.svg",
+      "english_book": "delegate"
+    },
+    {
+      "arabic": "عُضْوٌ",
+      "english": "member",
+      "tag": "noun",
+      "arabic_plural": "أَعْضَاءٌ",
+      "image": "images/member_udw.svg",
+      "english_book": "member"
+    },
+    {
+      "arabic": "هَدَفٌ",
+      "english": "target, aim, goal",
+      "tag": "noun",
+      "arabic_plural": "أَهْدَافٌ",
+      "image": "images/target_hadaf.svg",
+      "english_book": "target, aim, goal"
+    },
+    {
+      "arabic": "مُحَافَظَةٌ عَلَى",
+      "english": "preserving, maintaining, upholding",
+      "tag": "noun",
+      "note": "verbal noun",
+      "image": "images/preserving_muhafaza-alaa.svg",
+      "english_book": "preserving, maintaining, upholding (verbal noun)"
+    },
+    {
+      "arabic": "سَلَامٌ",
+      "english": "peace",
+      "tag": "noun",
+      "image": "images/peace_salam.svg",
+      "english_book": "peace"
+    },
+    {
+      "arabic": "إِنْسَانٌ",
+      "english": "man, human being, person",
+      "tag": "noun",
+      "image": "images/man_insan.svg",
+      "english_book": "man, human being, person"
+    },
+    {
+      "arabic": "لِذٰلِكَ",
+      "english": "therefore",
+      "tag": "adverb",
+      "image": "images/therefore_lidhalik.svg",
+      "english_book": "therefore"
+    },
+    {
+      "arabic": "ثِقَةٌ",
+      "english": "confidence, trust",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/confidence_thiqa.svg",
+      "english_book": "confidence, trust"
+    },
+    {
+      "arabic": "قَمْحٌ",
+      "english": "wheat",
+      "tag": "noun",
+      "image": "images/wheat_qamh.svg",
+      "english_book": "wheat"
+    },
+    {
+      "arabic": "حَفَرَ",
+      "english": "to dig",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "i",
+      "image": "images/dig_hafar.svg",
+      "arabic_book": "حَفَرَ (ـِ)",
+      "english_book": "to dig"
+    },
+    {
+      "arabic": "حُفْرَةٌ",
+      "english": "pit, hole",
+      "tag": "noun",
+      "gender": "f",
+      "arabic_plural": "حُفَرٌ",
+      "image": "images/pit_hufra.svg",
+      "english_book": "pit, hole"
+    },
+    {
+      "arabic": "سُؤَالٌ",
+      "english": "question",
+      "tag": "noun",
+      "arabic_plural": "أَسْئِلَةٌ",
+      "image": "images/question_sual.svg",
+      "english_book": "question"
+    },
+    {
+      "arabic": "مَعَ أَنَّ",
+      "english": "although",
+      "tag": "conjunction",
+      "image": "images/although_ma-anna.svg",
+      "english_book": "although"
+    },
+    {
+      "arabic": "أُخْتٌ",
+      "english": "sister",
+      "tag": "noun",
+      "gender": "f",
+      "arabic_plural": "أَخَوَاتٌ",
+      "note": "book glosses this entry as \"sisters\" (from the bracketed plural)",
+      "image": "images/sister_ukht.svg",
+      "english_book": "sisters"
+    },
+    {
+      "arabic": "عُطْلَةٌ",
+      "english": "holiday",
+      "tag": "noun",
+      "gender": "f",
+      "arabic_plural": "عُطْلَاتٌ، عُطَلٌ",
+      "image": "images/holiday_utla.svg",
+      "english_book": "holiday"
+    },
+    {
+      "arabic": "شَعْبٌ",
+      "english": "people, folk",
+      "tag": "noun",
+      "arabic_plural": "شُعُوبٌ",
+      "image": "images/people_shab.svg",
+      "english_book": "people, folk"
+    }
+  ]
+}

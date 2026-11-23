@@ -1,0 +1,326 @@
+{
+  "course": "SLL1059S",
+  "lesson": 15,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_2.pdf",
+    "pdf_pages": [
+      121,
+      122
+    ]
+  },
+  "words": [
+    {
+      "arabic": "فَنٌّ",
+      "english": "art",
+      "tag": "noun",
+      "arabic_plural": "فُنُونٌ",
+      "image": "images/art_fann.svg",
+      "english_book": "art"
+    },
+    {
+      "arabic": "مَعْهَدٌ",
+      "english": "institute",
+      "tag": "noun",
+      "arabic_plural": "مَعَاهِدُ",
+      "diptote": true,
+      "image": "images/institute_mahad.svg",
+      "english_book": "institute"
+    },
+    {
+      "arabic": "عِلْمٌ",
+      "english": "science, knowledge",
+      "tag": "noun",
+      "arabic_plural": "عُلُومٌ",
+      "image": "images/science_ilm.svg",
+      "english_book": "science, knowledge"
+    },
+    {
+      "arabic": "تَزَوَّجْ",
+      "english": "marry",
+      "tag": "verb",
+      "verb_form": 5,
+      "note": "masculine singular imperative of تَزَوَّجَ",
+      "image": "images/marry_tazawwaj.svg",
+      "arabic_book": "تَزَوَّجْ!",
+      "english_book": "(m.s. imperative) marry!"
+    },
+    {
+      "arabic": "صَعْبٌ",
+      "english": "difficult, hard",
+      "tag": "adjective",
+      "arabic_plural": "صِعَابٌ",
+      "image": "images/difficult_sab.svg",
+      "english_book": "difficult, hard"
+    },
+    {
+      "arabic": "لٰكِنَّ",
+      "english": "but",
+      "tag": "conjunction",
+      "image": "images/but_lakinna.svg",
+      "english_book": "but"
+    },
+    {
+      "arabic": "أَحَبَّ",
+      "english": "to love, to like",
+      "tag": "verb",
+      "verb_form": 4,
+      "image": "images/love_ahabba.svg",
+      "english_book": "to love, like (4)"
+    },
+    {
+      "arabic": "حِينٌ",
+      "english": "time",
+      "tag": "noun",
+      "arabic_plural": "أَحْيَانٌ",
+      "image": "images/time_hin.svg",
+      "english_book": "time"
+    },
+    {
+      "arabic": "أَخَذَ",
+      "english": "to take, to begin",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "u",
+      "note": "to begin when followed by a verb in the present tense",
+      "image": "images/take_akhadh.svg",
+      "arabic_book": "أَخَذَ (ـُ)",
+      "english_book": "to take (also: to begin (when followed by a verb in the present tense))"
+    },
+    {
+      "arabic": "تَرَاسَلَ",
+      "english": "to correspond",
+      "tag": "verb",
+      "verb_form": 6,
+      "image": "images/correspond_tarasal.svg",
+      "english_book": "to correspond (6)"
+    },
+    {
+      "arabic": "شَهْرٌ",
+      "english": "month",
+      "tag": "noun",
+      "arabic_plural": "أَشْهُرٌ",
+      "image": "images/month_shahr.svg",
+      "english_book": "month"
+    },
+    {
+      "arabic": "تَزَوَّجَ",
+      "english": "to marry",
+      "tag": "verb",
+      "verb_form": 5,
+      "image": "images/marry_tazawwaja.svg",
+      "english_book": "to marry (5)"
+    },
+    {
+      "arabic": "اِنْقَطَعَ",
+      "english": "to be cut off, to stop",
+      "tag": "verb",
+      "verb_form": 7,
+      "image": "images/be-cut-off_ainqata.svg",
+      "english_book": "to be cut off, stop (7)"
+    },
+    {
+      "arabic": "رِسَالَةٌ",
+      "english": "letter",
+      "tag": "noun",
+      "gender": "f",
+      "arabic_plural": "رَسَائِلُ",
+      "diptote": true,
+      "image": "images/letter_risala.svg",
+      "english_book": "letter"
+    },
+    {
+      "arabic": "فَكَّرَ",
+      "english": "to think about",
+      "tag": "verb",
+      "verb_form": 2,
+      "governs": "بِ",
+      "image": "images/think-about_fakkar.svg",
+      "arabic_book": "فَكَّرَ (بِ)",
+      "english_book": "to think about (2)"
+    },
+    {
+      "arabic": "غَالِبٌ",
+      "english": "most",
+      "tag": "noun",
+      "note": "most of",
+      "image": "images/most_ghalib.svg",
+      "english_book": "most of"
+    },
+    {
+      "arabic": "اَلْقُدْسُ",
+      "english": "Jerusalem",
+      "tag": "proper noun",
+      "note": "city",
+      "image": "images/jerusalem_alquds.svg",
+      "english_book": "Jerusalem"
+    },
+    {
+      "arabic": "مُقَدَّسٌ",
+      "english": "sanctified, holy",
+      "tag": "adjective",
+      "image": "images/sanctified_muqaddas.svg",
+      "english_book": "sanctified, holy"
+    },
+    {
+      "arabic": "عِنْدَمَا",
+      "english": "when, at that time",
+      "tag": "conjunction",
+      "image": "images/when_indama.svg",
+      "english_book": "when, at that time"
+    },
+    {
+      "arabic": "فُنْدُقٌ",
+      "english": "hotel",
+      "tag": "noun",
+      "arabic_plural": "فَنَادِقُ",
+      "diptote": true,
+      "image": "images/hotel_funduq.svg",
+      "english_book": "hotel"
+    },
+    {
+      "arabic": "غَدَاءٌ",
+      "english": "lunch, dinner",
+      "tag": "noun",
+      "note": "the noon meal, usually the main meal of the day",
+      "image": "images/lunch_ghada.svg",
+      "english_book": "the noon meal, usually the main meal of the day, lunch, dinner"
+    },
+    {
+      "arabic": "سَأَلَ",
+      "english": "to ask",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "a",
+      "governs": "عَنْ",
+      "note": "to ask (about)",
+      "image": "images/ask_saal.svg",
+      "arabic_book": "سَأَلَ (ـَ) (عَنْ)",
+      "english_book": "to ask (about)"
+    },
+    {
+      "arabic": "وَجَبَ",
+      "english": "to be necessary, must",
+      "tag": "verb",
+      "verb_form": 1,
+      "note": "with an أَنْ clause or verbal noun as subject: it is necessary that ..., must",
+      "image": "images/be-necessary_wajab.svg",
+      "english_book": "(with أَنْ clause or verbal noun as subject) it is necessary that, ... must"
+    },
+    {
+      "arabic": "وَعَدَ",
+      "english": "to promise",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "i",
+      "note": "followed by an أَنْ clause: to promise someone (to do something)",
+      "image": "images/promise_waad.svg",
+      "arabic_book": "وَعَدَ (ـِ)",
+      "english_book": "(followed by أَنْ clause) to promise s.o. (to do something)"
+    },
+    {
+      "arabic": "تَالٍ",
+      "english": "following",
+      "tag": "adjective",
+      "definite": "اَلتَّالِي",
+      "image": "images/following_tal.svg",
+      "arabic_book": "تَالٍ (اَلتَّالِي)",
+      "english_book": "following",
+      "source_note": "definite form given in brackets"
+    },
+    {
+      "arabic": "اَلْمَسْجِدُ ٱلْأَقْصَى",
+      "english": "al-Aqsa Mosque",
+      "tag": "proper noun",
+      "image": "images/al-aqsa-mosque_almasjid-alaqsaa.svg",
+      "english_book": "the Mosque of Aqṣā"
+    },
+    {
+      "arabic": "قُبَّةُ الصَّخْرَةِ",
+      "english": "the Dome of the Rock",
+      "tag": "proper noun",
+      "image": "images/dome-of-the-rock_qubba-alssakhra.svg",
+      "english_book": "the Dome of the Rock"
+    },
+    {
+      "arabic": "كَنِيسَةُ الْقِيَامَةِ",
+      "english": "the Church of the Holy Sepulchre",
+      "tag": "proper noun",
+      "image": "images/church-of-the-holy-sepulchre_kanisa-alqiyama.svg",
+      "english_book": "the Church of the Holy Sepulchre"
+    },
+    {
+      "arabic": "بَيْتُ لَحْمٍ",
+      "english": "Bethlehem",
+      "tag": "proper noun",
+      "note": "city",
+      "image": "images/bethlehem_bayt-lahm.svg",
+      "english_book": "Bethlehem"
+    },
+    {
+      "arabic": "اِسْتَمَرَّ",
+      "english": "to continue",
+      "tag": "verb",
+      "verb_form": 10,
+      "image": "images/continue_aistamarra.svg",
+      "english_book": "to continue (10)"
+    },
+    {
+      "arabic": "اِهْتَمَّ بِ",
+      "english": "to take care of, to look after",
+      "tag": "verb",
+      "verb_form": 8,
+      "image": "images/take-care-of_aihtamma-b.svg",
+      "english_book": "to take care of, look after (8)"
+    },
+    {
+      "arabic": "شَكَرَ",
+      "english": "to thank",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "u",
+      "governs": "عَلَى",
+      "note": "to thank (for)",
+      "image": "images/thank_shakar.svg",
+      "arabic_book": "شَكَرَ (ـُ) (عَلَى)",
+      "english_book": "to thank (for)"
+    },
+    {
+      "arabic": "شَرْقٌ",
+      "english": "east",
+      "tag": "noun",
+      "image": "images/east_sharq.svg",
+      "english_book": "east"
+    },
+    {
+      "arabic": "أَوْسَطُ",
+      "english": "middle",
+      "tag": "adjective",
+      "diptote": true,
+      "note": "elative",
+      "image": "images/middle_awsat.svg",
+      "english_book": "middle (elative)"
+    },
+    {
+      "arabic": "اَلشَّرْقُ ٱلْأَوْسَطُ",
+      "english": "the Middle East",
+      "tag": "proper noun",
+      "image": "images/middle-east_alshsharq-alawsat.svg",
+      "english_book": "the Middle East"
+    },
+    {
+      "arabic": "اَلْمَسْجِدُ ٱلنَّبَوِيُّ",
+      "english": "the Prophet's Mosque",
+      "tag": "proper noun",
+      "image": "images/prophet-s-mosque_almasjid-alnnabawiyyu.svg",
+      "english_book": "the Prophet's Mosque"
+    },
+    {
+      "arabic": "نَبِيٌّ",
+      "english": "prophet",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/prophet_nabiyy.svg",
+      "english_book": "prophet"
+    }
+  ]
+}

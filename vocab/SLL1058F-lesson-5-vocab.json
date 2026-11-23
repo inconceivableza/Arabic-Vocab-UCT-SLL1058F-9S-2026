@@ -1,0 +1,256 @@
+{
+  "course": "SLL1058F",
+  "lesson": 5,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_1.pdf",
+    "pdf_pages": [
+      79
+    ]
+  },
+  "words": [
+    {
+      "arabic": "مَسَاءٌ",
+      "english": "afternoon, evening",
+      "tag": "noun",
+      "image": "images/afternoon_masa.svg",
+      "english_book": "afternoon/evening"
+    },
+    {
+      "arabic": "مَسَاءَ الْخَيْرِ",
+      "english": "good afternoon, good evening",
+      "tag": "phrase",
+      "image": "images/good-afternoon_masa-alkhayr.svg",
+      "english_book": "good afternoon/evening"
+    },
+    {
+      "arabic": "حَمْدٌ",
+      "english": "praise",
+      "tag": "noun",
+      "image": "images/praise_hamd.svg",
+      "english_book": "praise"
+    },
+    {
+      "arabic": "لِلّٰهِ",
+      "english": "belonging to God",
+      "tag": "phrase",
+      "note": "لِ + اَللّٰه",
+      "image": "images/belonging-to-god_lillah.svg",
+      "arabic_book": "لِلّٰهِ (لِ + اَللّٰه)",
+      "english_book": "belonging to God"
+    },
+    {
+      "arabic": "إِنْكِلِيزِيٌّ",
+      "english": "English",
+      "tag": "adjective",
+      "image": "images/english_inkiliziyy.svg",
+      "arabic_book": "إِنْكلِيزِيٌّ",
+      "english_book": "English (adjective)",
+      "spelling_note": "scan lacks the kasra on the kāf; standard إِنْكِلِيزِيٌّ"
+    },
+    {
+      "arabic": "مَاذَا",
+      "english": "what",
+      "tag": "interrogative",
+      "note": "used in a verbal sentence",
+      "image": "images/what_madha.svg",
+      "english_book": "what (used in a verbal sentence)"
+    },
+    {
+      "arabic": "اَلْأَزْهَرُ",
+      "english": "al-Azhar",
+      "tag": "proper noun",
+      "note": "university and mosque in Cairo",
+      "image": "images/al-azhar_alazhar.svg",
+      "english_book": "al-Azhar (university and mosque in Cairo)"
+    },
+    {
+      "arabic": "تَارِيخٌ",
+      "english": "history, date",
+      "tag": "noun",
+      "image": "images/history_tarikh.svg",
+      "english_book": "history, date"
+    },
+    {
+      "arabic": "إِسْلَامِيٌّ",
+      "english": "Islamic",
+      "tag": "adjective",
+      "image": "images/islamic_islamiyy.svg",
+      "english_book": "Islamic"
+    },
+    {
+      "arabic": "هُنَاكَ",
+      "english": "there",
+      "tag": "adverb",
+      "image": "images/there_hunak.svg",
+      "english_book": "there"
+    },
+    {
+      "arabic": "أُسْرَةٌ",
+      "english": "family",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/family_usra.svg",
+      "english_book": "family"
+    },
+    {
+      "arabic": "مَعَ",
+      "english": "with",
+      "tag": "preposition",
+      "image": "images/with_ma.svg",
+      "english_book": "with"
+    },
+    {
+      "arabic": "وَالِدٌ",
+      "english": "father",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/father_walid.svg",
+      "english_book": "father"
+    },
+    {
+      "arabic": "وَالِدَةٌ",
+      "english": "mother",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/mother_walida.svg",
+      "english_book": "mother"
+    },
+    {
+      "arabic": "سَيِّدَةٌ",
+      "english": "lady",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/lady_sayyida.svg",
+      "english_book": "lady"
+    },
+    {
+      "arabic": "أَخٌ",
+      "english": "brother",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/brother_akh.svg",
+      "english_book": "brother"
+    },
+    {
+      "arabic": "أُخْتٌ",
+      "english": "sister",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/sister_ukht.svg",
+      "english_book": "sister"
+    },
+    {
+      "arabic": "اَلْكُوَيْتُ",
+      "english": "Kuwait",
+      "tag": "proper noun",
+      "note": "country",
+      "image": "images/kuwait_alkuwayt.svg",
+      "english_book": "Kuwait"
+    },
+    {
+      "arabic": "مُتَزَوِّجٌ",
+      "english": "married",
+      "tag": "adjective",
+      "image": "images/married_mutazawwij.svg",
+      "english_book": "married"
+    },
+    {
+      "arabic": "زَوْجٌ",
+      "english": "husband",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/husband_zawj.svg",
+      "english_book": "husband"
+    },
+    {
+      "arabic": "زَوْجَةٌ",
+      "english": "wife",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/wife_zawja.svg",
+      "english_book": "wife"
+    },
+    {
+      "arabic": "اِبْنَةٌ",
+      "english": "daughter",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/daughter_aibna.svg",
+      "english_book": "daughter"
+    },
+    {
+      "arabic": "طِفْلٌ",
+      "english": "child",
+      "tag": "noun",
+      "gender": "m",
+      "feminine": "طِفْلَةٌ",
+      "image": "images/child_tifl.svg",
+      "arabic_book": "طِفْلٌ / طِفْلَةٌ",
+      "english_book": "child (m/f)"
+    },
+    {
+      "arabic": "صَغِيرٌ",
+      "english": "small",
+      "tag": "adjective",
+      "image": "images/small_saghir.svg",
+      "english_book": "small"
+    },
+    {
+      "arabic": "اَلسِّيَاسَةُ",
+      "english": "politics",
+      "tag": "noun",
+      "image": "images/politics_alssiyasa.svg",
+      "english_book": "politics"
+    },
+    {
+      "arabic": "قَرَأَ",
+      "english": "to read",
+      "tag": "verb",
+      "verb_form": 1,
+      "image": "images/read_qara.svg",
+      "english_book": "to read"
+    },
+    {
+      "arabic": "كَتَبَ",
+      "english": "to write",
+      "tag": "verb",
+      "verb_form": 1,
+      "image": "images/write_katab.svg",
+      "english_book": "to write"
+    },
+    {
+      "arabic": "كِتَابٌ",
+      "english": "book",
+      "tag": "noun",
+      "image": "images/book_kitab.svg",
+      "english_book": "book"
+    },
+    {
+      "arabic": "اَلْفَلْسَفَةُ",
+      "english": "philosophy",
+      "tag": "noun",
+      "image": "images/philosophy_alfalsafa.svg",
+      "english_book": "philosophy"
+    },
+    {
+      "arabic": "اَلِاقْتِصَادُ",
+      "english": "economics",
+      "tag": "noun",
+      "image": "images/economics_aliaqtisad.svg",
+      "arabic_book": "اَلْاِقْتِصَادُ",
+      "english_book": "economics",
+      "spelling_note": "book prints اَلْاِقْتِصَادُ; standard spelling drops the vowel on the elided alif: اَلِاقْتِصَادُ"
+    },
+    {
+      "arabic": "لَنْدَنُ",
+      "english": "London",
+      "tag": "proper noun",
+      "note": "city",
+      "image": "images/london_landan.svg",
+      "arabic_book": "لَنْدَن",
+      "english_book": "London",
+      "spelling_note": "handwritten without case ending (لَنْدَن); standard diptote لَنْدَنُ",
+      "handwritten": true
+    }
+  ]
+}

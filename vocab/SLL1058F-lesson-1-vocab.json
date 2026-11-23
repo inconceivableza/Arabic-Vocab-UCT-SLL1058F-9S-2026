@@ -1,0 +1,263 @@
+{
+  "course": "SLL1058F",
+  "lesson": 1,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_1.pdf",
+    "pdf_pages": [
+      39,
+      40
+    ]
+  },
+  "words": [
+    {
+      "arabic": "أَنَا",
+      "english": "I",
+      "tag": "pronoun",
+      "image": "images/i_ana.svg",
+      "english_book": "I"
+    },
+    {
+      "arabic": "أَنْتَ",
+      "english": "you",
+      "tag": "pronoun",
+      "gender": "m",
+      "image": "images/you_ant.svg",
+      "english_book": "you (male)"
+    },
+    {
+      "arabic": "أَنْتِ",
+      "english": "you",
+      "tag": "pronoun",
+      "gender": "f",
+      "image": "images/you_anti.svg",
+      "english_book": "you (female)"
+    },
+    {
+      "arabic": "مَنْ",
+      "english": "who",
+      "tag": "interrogative",
+      "image": "images/who_man.svg",
+      "english_book": "who"
+    },
+    {
+      "arabic": "وَ",
+      "english": "and",
+      "tag": "conjunction",
+      "note": "prefixed directly to the following word",
+      "image": "images/and_w.svg",
+      "english_book": "and"
+    },
+    {
+      "arabic": "مِنْ",
+      "english": "from",
+      "tag": "preposition",
+      "image": "images/from_min.svg",
+      "english_book": "from"
+    },
+    {
+      "arabic": "أَيْنَ",
+      "english": "where",
+      "tag": "interrogative",
+      "image": "images/where_ayn.svg",
+      "english_book": "where"
+    },
+    {
+      "arabic": "نَعَمْ",
+      "english": "yes",
+      "tag": "particle",
+      "image": "images/yes_naam.svg",
+      "english_book": "yes"
+    },
+    {
+      "arabic": "لَا",
+      "english": "no",
+      "tag": "particle",
+      "image": "images/no_la.svg",
+      "english_book": "no"
+    },
+    {
+      "arabic": "أَيْضًا",
+      "english": "also",
+      "tag": "adverb",
+      "image": "images/also_ayda.svg",
+      "arabic_book": "أَيْضاً",
+      "english_book": "also",
+      "spelling_note": "book prints tanwīn on the alif (أَيْضاً); standardised to أَيْضًا"
+    },
+    {
+      "arabic": "يَا",
+      "english": "O",
+      "tag": "particle",
+      "note": "vocative particle used when addressing a person directly",
+      "image": "images/o_ya.svg",
+      "english_book": "a word used when addressing a person directly"
+    },
+    {
+      "arabic": "سَلِيمٌ",
+      "english": "Salim",
+      "tag": "proper noun",
+      "gender": "m",
+      "note": "male name",
+      "image": "images/salim_salim.svg",
+      "arabic_book": "سَلِيم",
+      "english_book": "Salīm (male name)",
+      "spelling_note": "tanwīn not visible on scan; standard form سَلِيمٌ"
+    },
+    {
+      "arabic": "سَامِي",
+      "english": "Sami",
+      "tag": "proper noun",
+      "gender": "m",
+      "note": "male name",
+      "image": "images/sami_sami.svg",
+      "english_book": "Sāmī (male name)"
+    },
+    {
+      "arabic": "وِدَادُ",
+      "english": "Widad",
+      "tag": "proper noun",
+      "gender": "f",
+      "diptote": true,
+      "note": "female name",
+      "image": "images/widad_widad.svg",
+      "english_book": "Widād (female name)"
+    },
+    {
+      "arabic": "نَبِيلَةُ",
+      "english": "Nabila",
+      "tag": "proper noun",
+      "gender": "f",
+      "diptote": true,
+      "note": "female name",
+      "image": "images/nabila_nabila.svg",
+      "english_book": "Nabīla (female name)"
+    },
+    {
+      "arabic": "لُبْنَانُ",
+      "english": "Lebanon",
+      "tag": "proper noun",
+      "diptote": true,
+      "note": "country",
+      "image": "images/lebanon_lubnan.svg",
+      "english_book": "Lebanon"
+    },
+    {
+      "arabic": "تُونِسُ",
+      "english": "Tunisia",
+      "tag": "proper noun",
+      "diptote": true,
+      "note": "country",
+      "image": "images/tunisia_tunis.svg",
+      "english_book": "Tunisia"
+    },
+    {
+      "arabic": "كَنَدَا",
+      "english": "Canada",
+      "tag": "proper noun",
+      "note": "country",
+      "image": "images/canada_kanada.svg",
+      "english_book": "Canada"
+    },
+    {
+      "arabic": "أَمْرِيكَا",
+      "english": "America",
+      "tag": "proper noun",
+      "note": "country",
+      "image": "images/america_amrika.svg",
+      "english_book": "America"
+    },
+    {
+      "arabic": "فَرَنْسَا",
+      "english": "France",
+      "tag": "proper noun",
+      "note": "country",
+      "image": "images/france_faransa.svg",
+      "english_book": "France"
+    },
+    {
+      "arabic": "لِيبِيَا",
+      "english": "Libya",
+      "tag": "proper noun",
+      "note": "country",
+      "image": "images/libya_libiya.svg",
+      "english_book": "Libya"
+    },
+    {
+      "arabic": "سُورِيَا",
+      "english": "Syria",
+      "tag": "proper noun",
+      "note": "country",
+      "image": "images/syria_suriya.svg",
+      "english_book": "Syria"
+    },
+    {
+      "arabic": "إِيرَانُ",
+      "english": "Iran",
+      "tag": "proper noun",
+      "diptote": true,
+      "note": "country",
+      "image": "images/iran_iran.svg",
+      "english_book": "Iran"
+    },
+    {
+      "arabic": "تُرْكِيَا",
+      "english": "Turkey",
+      "tag": "proper noun",
+      "note": "country",
+      "image": "images/turkey_turkiya.svg",
+      "english_book": "Turkey"
+    },
+    {
+      "arabic": "مِصْرُ",
+      "english": "Egypt",
+      "tag": "proper noun",
+      "diptote": true,
+      "note": "country",
+      "image": "images/egypt_misr.svg",
+      "english_book": "Egypt"
+    },
+    {
+      "arabic": "بَرِيطَانِيَا",
+      "english": "Britain",
+      "tag": "proper noun",
+      "note": "country",
+      "image": "images/britain_baritaniya.svg",
+      "english_book": "Britain"
+    },
+    {
+      "arabic": "إِنْجِلْتَرَا",
+      "english": "England",
+      "tag": "proper noun",
+      "note": "country",
+      "image": "images/england_injiltara.svg",
+      "english_book": "England"
+    },
+    {
+      "arabic": "إِسْكُتْلَنْدَا",
+      "english": "Scotland",
+      "tag": "proper noun",
+      "note": "country",
+      "image": "images/scotland_iskutlanda.svg",
+      "english_book": "Scotland"
+    },
+    {
+      "arabic": "إِيرْلَنْدَا",
+      "english": "Ireland",
+      "tag": "proper noun",
+      "note": "country",
+      "image": "images/ireland_irlanda.svg",
+      "english_book": "Ireland"
+    },
+    {
+      "arabic": "جَنُوبُ إِفْرِيقِيَا",
+      "english": "South Africa",
+      "tag": "proper noun",
+      "note": "country",
+      "image": "images/south-africa_janub-ifriqiya.svg",
+      "arabic_book": "جَنُوب إِفْرِيقِيَا",
+      "english_book": "South Africa",
+      "spelling_note": "handwritten without final vowel (جَنُوب); standard جَنُوبُ إِفْرِيقِيَا",
+      "handwritten": true
+    }
+  ]
+}

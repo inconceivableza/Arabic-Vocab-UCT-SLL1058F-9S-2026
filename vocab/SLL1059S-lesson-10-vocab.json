@@ -1,0 +1,370 @@
+{
+  "course": "SLL1059S",
+  "lesson": 10,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_2.pdf",
+    "pdf_pages": [
+      51,
+      52
+    ]
+  },
+  "words": [
+    {
+      "arabic": "اَلنِّيلُ",
+      "english": "the Nile",
+      "tag": "proper noun",
+      "note": "river",
+      "image": "images/nile_alnnil.svg",
+      "english_book": "the Nile"
+    },
+    {
+      "arabic": "نَهْرٌ",
+      "english": "river",
+      "tag": "noun",
+      "arabic_plural": "أَنْهَارٌ",
+      "image": "images/river_nahr.svg",
+      "english_book": "river"
+    },
+    {
+      "arabic": "طَوِيلٌ",
+      "english": "long",
+      "tag": "adjective",
+      "image": "images/long_tawil.svg",
+      "english_book": "long"
+    },
+    {
+      "arabic": "جِدًّا",
+      "english": "very, much",
+      "tag": "adverb",
+      "image": "images/very_jidda.svg",
+      "english_book": "very, much"
+    },
+    {
+      "arabic": "بَلْ",
+      "english": "rather, indeed",
+      "tag": "particle",
+      "image": "images/rather_bal.svg",
+      "english_book": "rather, indeed"
+    },
+    {
+      "arabic": "أَطْوَلُ",
+      "english": "longer",
+      "tag": "adjective",
+      "governs": "مِنْ",
+      "diptote": true,
+      "note": "elative of طَوِيلٌ; longer (than)",
+      "image": "images/longer_atwal.svg",
+      "arabic_book": "أَطْوَلُ (مِنْ)",
+      "english_book": "longer (than)"
+    },
+    {
+      "arabic": "أَكْبَرُ",
+      "english": "bigger",
+      "tag": "adjective",
+      "governs": "مِنْ",
+      "diptote": true,
+      "note": "elative of كَبِيرٌ; bigger (than)",
+      "image": "images/bigger_akbar.svg",
+      "arabic_book": "أَكْبَرُ (مِنْ)",
+      "english_book": "bigger (than)"
+    },
+    {
+      "arabic": "سَدٌّ",
+      "english": "dam",
+      "tag": "noun",
+      "arabic_plural": "سُدُودٌ",
+      "image": "images/dam_sadd.svg",
+      "english_book": "dam"
+    },
+    {
+      "arabic": "اَلسَّدُّ الْعَالِي",
+      "english": "the High Dam",
+      "tag": "proper noun",
+      "note": "High Dam of Aswan",
+      "image": "images/high-dam_alssaddu-alali.svg",
+      "english_book": "High Dam (of Aswan)"
+    },
+    {
+      "arabic": "بَذَلَ",
+      "english": "to exert",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "u",
+      "image": "images/exert_badhal.svg",
+      "arabic_book": "بَذَلَ (ـُ)",
+      "english_book": "to exert",
+      "handwritten": true
+    },
+    {
+      "arabic": "جَهْدٌ",
+      "english": "effort",
+      "tag": "noun",
+      "arabic_plural": "جُهُودٌ",
+      "image": "images/effort_jahd.svg",
+      "english_book": "effort"
+    },
+    {
+      "arabic": "بَذَلَ جُهُودًا",
+      "english": "to exert great efforts",
+      "tag": "phrase",
+      "image": "images/exert-great-efforts_badhal-juhuda.svg",
+      "english_book": "to exert (great) efforts"
+    },
+    {
+      "arabic": "بِنَاءٌ",
+      "english": "building",
+      "tag": "noun",
+      "note": "verbal noun of بَنَى",
+      "image": "images/building_bina.svg",
+      "english_book": "building (verbal noun)"
+    },
+    {
+      "arabic": "شَارَكَ",
+      "english": "to participate",
+      "tag": "verb",
+      "verb_form": 3,
+      "governs": "فِي",
+      "note": "to participate (in)",
+      "image": "images/participate_sharak.svg",
+      "arabic_book": "شَارَكَ (فِي)",
+      "english_book": "to participate (in) (3)"
+    },
+    {
+      "arabic": "سَاعَدَ",
+      "english": "to help",
+      "tag": "verb",
+      "verb_form": 3,
+      "image": "images/help_saad.svg",
+      "english_book": "to help (3)"
+    },
+    {
+      "arabic": "اِقْتِصَادٌ",
+      "english": "economy",
+      "tag": "noun",
+      "image": "images/economy_aiqtisad.svg",
+      "english_book": "economy"
+    },
+    {
+      "arabic": "حَيَاةٌ",
+      "english": "life",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/life_haya.svg",
+      "english_book": "life"
+    },
+    {
+      "arabic": "بَدَوِيٌّ",
+      "english": "Bedouin",
+      "tag": "noun",
+      "arabic_plural": "بَدْوٌ",
+      "image": "images/bedouin_badawiyy.svg",
+      "english_book": "Bedouin"
+    },
+    {
+      "arabic": "خَيْمَةٌ",
+      "english": "tent",
+      "tag": "noun",
+      "gender": "f",
+      "arabic_plural": "خِيَامٌ",
+      "image": "images/tent_khayma.svg",
+      "english_book": "tent"
+    },
+    {
+      "arabic": "رَحَلَ",
+      "english": "to set out, to move about, to travel around",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "a",
+      "image": "images/set-out_rahal.svg",
+      "arabic_book": "رَحَلَ (ـَ)",
+      "english_book": "to set out, move about, travel around"
+    },
+    {
+      "arabic": "صَحْرَاءُ",
+      "english": "desert",
+      "tag": "noun",
+      "gender": "f",
+      "arabic_plural": "صَحَارَى",
+      "diptote": true,
+      "image": "images/desert_sahra.svg",
+      "english_book": "desert"
+    },
+    {
+      "arabic": "مَكَانٌ",
+      "english": "place",
+      "tag": "noun",
+      "arabic_plural": "أَمَاكِنُ",
+      "diptote": true,
+      "image": "images/place_makan.svg",
+      "english_book": "place"
+    },
+    {
+      "arabic": "أَقْبَلَ",
+      "english": "to approach",
+      "tag": "verb",
+      "verb_form": 4,
+      "present_vowel": "i",
+      "governs": "عَلَى",
+      "image": "images/approach_aqbal.svg",
+      "arabic_book": "أَقْبَلَ (عَلَى) (ـِ)",
+      "english_book": "to approach (4)"
+    },
+    {
+      "arabic": "زَائِرٌ",
+      "english": "visitor",
+      "tag": "noun",
+      "arabic_plural": "زُوَّارٌ",
+      "image": "images/visitor_zair.svg",
+      "english_book": "visitor"
+    },
+    {
+      "arabic": "أَظْهَرَ",
+      "english": "to show, to demonstrate",
+      "tag": "verb",
+      "verb_form": 4,
+      "present_vowel": "i",
+      "image": "images/show_azhar.svg",
+      "arabic_book": "أَظْهَرَ (ـِ)",
+      "english_book": "to show, demonstrate (4)"
+    },
+    {
+      "arabic": "اَلتَّرْحِيبُ",
+      "english": "welcome",
+      "tag": "noun",
+      "image": "images/welcome_alttarhib.svg",
+      "english_book": "welcome"
+    },
+    {
+      "arabic": "أَظْهَرَ ٱلتَّرْحِيبَ لِ",
+      "english": "to show a great welcome to",
+      "tag": "phrase",
+      "image": "images/show-a-great-welcome-to_azhar-alttarhib-l.svg",
+      "english_book": "to show a great welcome to"
+    },
+    {
+      "arabic": "أَكْرَمَ",
+      "english": "to honour",
+      "tag": "verb",
+      "verb_form": 4,
+      "present_vowel": "i",
+      "image": "images/honour_akram.svg",
+      "arabic_book": "أَكْرَمَ (ـِ)",
+      "english_book": "to honour (4)"
+    },
+    {
+      "arabic": "أَعْجَبَ",
+      "english": "to please",
+      "tag": "verb",
+      "verb_form": 4,
+      "present_vowel": "i",
+      "image": "images/delight_ajab.svg",
+      "arabic_book": "أَعْجَبَ (ـِ)",
+      "english_book": "to please (4)"
+    },
+    {
+      "arabic": "لِأَنَّ",
+      "english": "because",
+      "tag": "conjunction",
+      "image": "images/because_lianna.svg",
+      "english_book": "because"
+    },
+    {
+      "arabic": "مُخْتَلِفٌ",
+      "english": "different",
+      "tag": "adjective",
+      "image": "images/different_mukhtalif.svg",
+      "english_book": "different"
+    },
+    {
+      "arabic": "فَتَاةٌ",
+      "english": "young woman",
+      "tag": "noun",
+      "gender": "f",
+      "arabic_plural": "فَتَيَاتٌ",
+      "image": "images/young-woman_fata.svg",
+      "english_book": "young woman"
+    },
+    {
+      "arabic": "سَنَةٌ",
+      "english": "year",
+      "tag": "noun",
+      "gender": "f",
+      "arabic_plural": "سَنَوَاتٌ",
+      "image": "images/year_sana.svg",
+      "english_book": "year"
+    },
+    {
+      "arabic": "حَضَارَةٌ",
+      "english": "civilisation",
+      "tag": "noun",
+      "gender": "f",
+      "arabic_plural": "حَضَارَاتٌ",
+      "image": "images/civilisation_hadara.svg",
+      "english_book": "civilisation",
+      "source_note": "plural given as (-ات)"
+    },
+    {
+      "arabic": "اَلْإِسْلَامُ",
+      "english": "Islam",
+      "tag": "proper noun",
+      "image": "images/islam_alislam.svg",
+      "english_book": "Islam"
+    },
+    {
+      "arabic": "ثُمَّ",
+      "english": "then, and then",
+      "tag": "conjunction",
+      "image": "images/and-then_thumma.svg",
+      "english_book": "(and) then"
+    },
+    {
+      "arabic": "قَبْلَ",
+      "english": "before",
+      "tag": "preposition",
+      "image": "images/before_qabl.svg",
+      "english_book": "before"
+    },
+    {
+      "arabic": "هِبَةٌ",
+      "english": "gift",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/gift_hiba.svg",
+      "english_book": "gift"
+    },
+    {
+      "arabic": "أَرْجَعَ",
+      "english": "to take back",
+      "tag": "verb",
+      "verb_form": 4,
+      "image": "images/take-back_arja.svg",
+      "english_book": "to take back (4)"
+    },
+    {
+      "arabic": "زَوْجٌ",
+      "english": "husband",
+      "tag": "noun",
+      "gender": "m",
+      "arabic_plural": "أَزْوَاجٌ",
+      "image": "images/husband_zawj.svg",
+      "english_book": "husband"
+    },
+    {
+      "arabic": "مَرِيضٌ",
+      "english": "ill",
+      "tag": "adjective",
+      "image": "images/ill_marid.svg",
+      "english_book": "ill"
+    },
+    {
+      "arabic": "سَمِعَ",
+      "english": "to hear",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "a",
+      "image": "images/hear_sami.svg",
+      "arabic_book": "سَمِعَ (ـَ)",
+      "english_book": "to hear"
+    }
+  ]
+}
