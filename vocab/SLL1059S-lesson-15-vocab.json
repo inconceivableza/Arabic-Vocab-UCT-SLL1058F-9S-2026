@@ -1,0 +1,174 @@
+{
+  "course": "SLL1059S",
+  "lesson": 15,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_2.pdf",
+    "pdf_pages": [
+      121,
+      122
+    ]
+  },
+  "words": [
+    {
+      "arabic": "فَنٌّ",
+      "plural": "فُنُونٌ",
+      "english": "art"
+    },
+    {
+      "arabic": "مَعْهَدٌ",
+      "plural": "مَعَاهِدُ",
+      "english": "institute",
+      "diptote": true
+    },
+    {
+      "arabic": "عِلْمٌ",
+      "plural": "عُلُومٌ",
+      "english": "science, knowledge"
+    },
+    {
+      "arabic": "تَزَوَّجْ!",
+      "english": "(m.s. imperative) marry!"
+    },
+    {
+      "arabic": "صَعْبٌ",
+      "plural": "صِعَابٌ",
+      "english": "difficult, hard"
+    },
+    {
+      "arabic": "لٰكِنَّ",
+      "english": "but"
+    },
+    {
+      "arabic": "أَحَبَّ",
+      "english": "to love, like (4)"
+    },
+    {
+      "arabic": "حِينٌ",
+      "plural": "أَحْيَانٌ",
+      "english": "time"
+    },
+    {
+      "arabic": "أَخَذَ (ـُ)",
+      "english": "to take (also: to begin (when followed by a verb in the present tense))"
+    },
+    {
+      "arabic": "تَرَاسَلَ",
+      "english": "to correspond (6)"
+    },
+    {
+      "arabic": "شَهْرٌ",
+      "plural": "أَشْهُرٌ",
+      "english": "month"
+    },
+    {
+      "arabic": "تَزَوَّجَ",
+      "english": "to marry (5)"
+    },
+    {
+      "arabic": "اِنْقَطَعَ",
+      "english": "to be cut off, stop (7)"
+    },
+    {
+      "arabic": "رِسَالَةٌ",
+      "plural": "رَسَائِلُ",
+      "english": "letter",
+      "diptote": true
+    },
+    {
+      "arabic": "فَكَّرَ (بِ)",
+      "english": "to think about (2)"
+    },
+    {
+      "arabic": "غَالِبٌ",
+      "english": "most of"
+    },
+    {
+      "arabic": "اَلْقُدْسُ",
+      "english": "Jerusalem"
+    },
+    {
+      "arabic": "مُقَدَّسٌ",
+      "english": "sanctified, holy"
+    },
+    {
+      "arabic": "عِنْدَمَا",
+      "english": "when, at that time"
+    },
+    {
+      "arabic": "فُنْدُقٌ",
+      "plural": "فَنَادِقُ",
+      "english": "hotel",
+      "diptote": true
+    },
+    {
+      "arabic": "غَدَاءٌ",
+      "english": "the noon meal, usually the main meal of the day, lunch, dinner"
+    },
+    {
+      "arabic": "سَأَلَ (ـَ) (عَنْ)",
+      "english": "to ask (about)"
+    },
+    {
+      "arabic": "وَجَبَ",
+      "english": "(with أَنْ clause or verbal noun as subject) it is necessary that, ... must"
+    },
+    {
+      "arabic": "وَعَدَ (ـِ)",
+      "english": "(followed by أَنْ clause) to promise s.o. (to do something)"
+    },
+    {
+      "arabic": "تَالٍ (اَلتَّالِي)",
+      "english": "following",
+      "note": "definite form given in brackets"
+    },
+    {
+      "arabic": "اَلْمَسْجِدُ ٱلْأَقْصَى",
+      "english": "the Mosque of Aqṣā"
+    },
+    {
+      "arabic": "قُبَّةُ الصَّخْرَةِ",
+      "english": "the Dome of the Rock"
+    },
+    {
+      "arabic": "كَنِيسَةُ الْقِيَامَةِ",
+      "english": "the Church of the Holy Sepulchre"
+    },
+    {
+      "arabic": "بَيْتُ لَحْمٍ",
+      "english": "Bethlehem"
+    },
+    {
+      "arabic": "اِسْتَمَرَّ",
+      "english": "to continue (10)"
+    },
+    {
+      "arabic": "اِهْتَمَّ بِ",
+      "english": "to take care of, look after (8)"
+    },
+    {
+      "arabic": "شَكَرَ (ـُ) (عَلَى)",
+      "english": "to thank (for)"
+    },
+    {
+      "arabic": "شَرْقٌ",
+      "english": "east"
+    },
+    {
+      "arabic": "أَوْسَطُ",
+      "english": "middle (elative)",
+      "diptote": true
+    },
+    {
+      "arabic": "اَلشَّرْقُ ٱلْأَوْسَطُ",
+      "english": "the Middle East"
+    },
+    {
+      "arabic": "اَلْمَسْجِدُ ٱلنَّبَوِيُّ",
+      "english": "the Prophet's Mosque"
+    },
+    {
+      "arabic": "نَبِيٌّ",
+      "english": "prophet"
+    }
+  ]
+}

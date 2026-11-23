@@ -1,0 +1,121 @@
+{
+  "course": "SLL1058F",
+  "lesson": 2,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_1.pdf",
+    "pdf_pages": [
+      49
+    ]
+  },
+  "words": [
+    {
+      "arabic": "هٰذَا",
+      "english": "this (m.)"
+    },
+    {
+      "arabic": "هٰذِهِ",
+      "english": "this (f.)"
+    },
+    {
+      "arabic": "طَالِبٌ",
+      "english": "student (m.)"
+    },
+    {
+      "arabic": "طَالِبَةٌ",
+      "english": "student (f.)"
+    },
+    {
+      "arabic": "بَيْرُوتُ",
+      "english": "Beirut",
+      "diptote": true
+    },
+    {
+      "arabic": "سُوزَانُ",
+      "english": "Suzanne",
+      "diptote": true
+    },
+    {
+      "arabic": "بَارِيسُ",
+      "english": "Paris",
+      "diptote": true
+    },
+    {
+      "arabic": "مُدَرِّسٌ",
+      "english": "teacher (m.)"
+    },
+    {
+      "arabic": "مُدَرِّسَةٌ",
+      "english": "teacher (f.)"
+    },
+    {
+      "arabic": "مَدْرَسَةٌ",
+      "english": "school"
+    },
+    {
+      "arabic": "صَفٌّ",
+      "english": "class"
+    },
+    {
+      "arabic": "ذٰلِكَ",
+      "english": "that (m.)"
+    },
+    {
+      "arabic": "تِلْكَ",
+      "english": "that (f.)"
+    },
+    {
+      "arabic": "مُدِيرٌ",
+      "english": "director, boss (m.)"
+    },
+    {
+      "arabic": "مُدِيرَةٌ",
+      "english": "director, boss (f.)"
+    },
+    {
+      "arabic": "هُنَا",
+      "english": "here"
+    },
+    {
+      "arabic": "هِنْدُ",
+      "english": "Hind (female name)",
+      "diptote": true
+    },
+    {
+      "arabic": "سَيِّدٌ",
+      "english": "Mr."
+    },
+    {
+      "arabic": "نَجِيبُ",
+      "english": "Najīb (male name)",
+      "diptote": true
+    },
+    {
+      "arabic": "اَلْقَاهِرَةُ",
+      "english": "Cairo"
+    },
+    {
+      "arabic": "سِكْرِتِيرَةٌ",
+      "english": "secretary"
+    },
+    {
+      "arabic": "آنِسَةٌ",
+      "english": "Miss; unmarried woman"
+    },
+    {
+      "arabic": "اَلْخَرْطُومُ",
+      "english": "Khartoum"
+    },
+    {
+      "arabic": "فِي",
+      "english": "in"
+    },
+    {
+      "arabic": "اَلسُّودَانُ",
+      "english": "Sudan"
+    },
+    {
+      "arabic": "مَكْتَبٌ",
+      "english": "office"
+    }
+  ]
+}

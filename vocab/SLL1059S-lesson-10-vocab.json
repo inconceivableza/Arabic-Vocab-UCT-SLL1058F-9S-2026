@@ -1,0 +1,199 @@
+{
+  "course": "SLL1059S",
+  "lesson": 10,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_2.pdf",
+    "pdf_pages": [
+      51,
+      52
+    ]
+  },
+  "words": [
+    {
+      "arabic": "اَلنِّيلُ",
+      "english": "the Nile"
+    },
+    {
+      "arabic": "نَهْرٌ",
+      "plural": "أَنْهَارٌ",
+      "english": "river"
+    },
+    {
+      "arabic": "طَوِيلٌ",
+      "english": "long"
+    },
+    {
+      "arabic": "جِدًّا",
+      "english": "very, much"
+    },
+    {
+      "arabic": "بَلْ",
+      "english": "rather, indeed"
+    },
+    {
+      "arabic": "أَطْوَلُ (مِنْ)",
+      "english": "longer (than)",
+      "diptote": true
+    },
+    {
+      "arabic": "أَكْبَرُ (مِنْ)",
+      "english": "bigger (than)",
+      "diptote": true
+    },
+    {
+      "arabic": "سَدٌّ",
+      "plural": "سُدُودٌ",
+      "english": "dam"
+    },
+    {
+      "arabic": "اَلسَّدُّ الْعَالِي",
+      "english": "High Dam (of Aswan)"
+    },
+    {
+      "arabic": "بَذَلَ (ـُ)",
+      "english": "to exert",
+      "handwritten": true
+    },
+    {
+      "arabic": "جَهْدٌ",
+      "plural": "جُهُودٌ",
+      "english": "effort"
+    },
+    {
+      "arabic": "بَذَلَ جُهُودًا",
+      "english": "to exert (great) efforts"
+    },
+    {
+      "arabic": "بِنَاءٌ",
+      "english": "building (verbal noun)"
+    },
+    {
+      "arabic": "شَارَكَ (فِي)",
+      "english": "to participate (in) (3)"
+    },
+    {
+      "arabic": "سَاعَدَ",
+      "english": "to help (3)"
+    },
+    {
+      "arabic": "اِقْتِصَادٌ",
+      "english": "economy"
+    },
+    {
+      "arabic": "حَيَاةٌ",
+      "english": "life"
+    },
+    {
+      "arabic": "بَدَوِيٌّ",
+      "plural": "بَدْوٌ",
+      "english": "Bedouin"
+    },
+    {
+      "arabic": "خَيْمَةٌ",
+      "plural": "خِيَامٌ",
+      "english": "tent"
+    },
+    {
+      "arabic": "رَحَلَ (ـَ)",
+      "english": "to set out, move about, travel around"
+    },
+    {
+      "arabic": "صَحْرَاءُ",
+      "plural": "صَحَارَى",
+      "english": "desert",
+      "diptote": true
+    },
+    {
+      "arabic": "مَكَانٌ",
+      "plural": "أَمَاكِنُ",
+      "english": "place",
+      "diptote": true
+    },
+    {
+      "arabic": "أَقْبَلَ (عَلَى) (ـِ)",
+      "english": "to approach (4)"
+    },
+    {
+      "arabic": "زَائِرٌ",
+      "plural": "زُوَّارٌ",
+      "english": "visitor"
+    },
+    {
+      "arabic": "أَظْهَرَ (ـِ)",
+      "english": "to show, demonstrate (4)"
+    },
+    {
+      "arabic": "اَلتَّرْحِيبُ",
+      "english": "welcome"
+    },
+    {
+      "arabic": "أَظْهَرَ ٱلتَّرْحِيبَ لِ",
+      "english": "to show a great welcome to"
+    },
+    {
+      "arabic": "أَكْرَمَ (ـِ)",
+      "english": "to honour (4)"
+    },
+    {
+      "arabic": "أَعْجَبَ (ـِ)",
+      "english": "to please (4)"
+    },
+    {
+      "arabic": "لِأَنَّ",
+      "english": "because"
+    },
+    {
+      "arabic": "مُخْتَلِفٌ",
+      "english": "different"
+    },
+    {
+      "arabic": "فَتَاةٌ",
+      "plural": "فَتَيَاتٌ",
+      "english": "young woman"
+    },
+    {
+      "arabic": "سَنَةٌ",
+      "plural": "سَنَوَاتٌ",
+      "english": "year"
+    },
+    {
+      "arabic": "حَضَارَةٌ",
+      "plural": "حَضَارَاتٌ",
+      "english": "civilisation",
+      "note": "plural given as (-ات)"
+    },
+    {
+      "arabic": "اَلْإِسْلَامُ",
+      "english": "Islam"
+    },
+    {
+      "arabic": "ثُمَّ",
+      "english": "(and) then"
+    },
+    {
+      "arabic": "قَبْلَ",
+      "english": "before"
+    },
+    {
+      "arabic": "هِبَةٌ",
+      "english": "gift"
+    },
+    {
+      "arabic": "أَرْجَعَ",
+      "english": "to take back (4)"
+    },
+    {
+      "arabic": "زَوْجٌ",
+      "plural": "أَزْوَاجٌ",
+      "english": "husband"
+    },
+    {
+      "arabic": "مَرِيضٌ",
+      "english": "ill"
+    },
+    {
+      "arabic": "سَمِعَ (ـَ)",
+      "english": "to hear"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "course": "SLL1058F",
+  "lesson": 5,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_1.pdf",
+    "pdf_pages": [
+      79
+    ]
+  },
+  "words": [
+    {
+      "arabic": "مَسَاءٌ",
+      "english": "afternoon/evening"
+    },
+    {
+      "arabic": "مَسَاءَ الْخَيْرِ",
+      "english": "good afternoon/evening"
+    },
+    {
+      "arabic": "حَمْدٌ",
+      "english": "praise"
+    },
+    {
+      "arabic": "لِلّٰهِ (لِ + اَللّٰه)",
+      "english": "belonging to God"
+    },
+    {
+      "arabic": "إِنْكلِيزِيٌّ",
+      "english": "English (adjective)"
+    },
+    {
+      "arabic": "مَاذَا",
+      "english": "what (used in a verbal sentence)"
+    },
+    {
+      "arabic": "اَلْأَزْهَرُ",
+      "english": "al-Azhar (university and mosque in Cairo)"
+    },
+    {
+      "arabic": "تَارِيخٌ",
+      "english": "history, date"
+    },
+    {
+      "arabic": "إِسْلَامِيٌّ",
+      "english": "Islamic"
+    },
+    {
+      "arabic": "هُنَاكَ",
+      "english": "there"
+    },
+    {
+      "arabic": "أُسْرَةٌ",
+      "english": "family"
+    },
+    {
+      "arabic": "مَعَ",
+      "english": "with"
+    },
+    {
+      "arabic": "وَالِدٌ",
+      "english": "father"
+    },
+    {
+      "arabic": "وَالِدَةٌ",
+      "english": "mother"
+    },
+    {
+      "arabic": "سَيِّدَةٌ",
+      "english": "lady"
+    },
+    {
+      "arabic": "أَخٌ",
+      "english": "brother"
+    },
+    {
+      "arabic": "أُخْتٌ",
+      "english": "sister"
+    },
+    {
+      "arabic": "اَلْكُوَيْتُ",
+      "english": "Kuwait"
+    },
+    {
+      "arabic": "مُتَزَوِّجٌ",
+      "english": "married"
+    },
+    {
+      "arabic": "زَوْجٌ",
+      "english": "husband"
+    },
+    {
+      "arabic": "زَوْجَةٌ",
+      "english": "wife"
+    },
+    {
+      "arabic": "اِبْنَةٌ",
+      "english": "daughter"
+    },
+    {
+      "arabic": "طِفْلٌ / طِفْلَةٌ",
+      "english": "child (m/f)"
+    },
+    {
+      "arabic": "صَغِيرٌ",
+      "english": "small"
+    },
+    {
+      "arabic": "اَلسِّيَاسَةُ",
+      "english": "politics"
+    },
+    {
+      "arabic": "قَرَأَ",
+      "english": "to read"
+    },
+    {
+      "arabic": "كَتَبَ",
+      "english": "to write"
+    },
+    {
+      "arabic": "كِتَابٌ",
+      "english": "book"
+    },
+    {
+      "arabic": "اَلْفَلْسَفَةُ",
+      "english": "philosophy"
+    },
+    {
+      "arabic": "اَلْاِقْتِصَادُ",
+      "english": "economics"
+    },
+    {
+      "arabic": "لَنْدَن",
+      "english": "London",
+      "handwritten": true
+    }
+  ]
+}

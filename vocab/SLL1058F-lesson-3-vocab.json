@@ -1,0 +1,129 @@
+{
+  "course": "SLL1058F",
+  "lesson": 3,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_1.pdf",
+    "pdf_pages": [
+      58
+    ]
+  },
+  "words": [
+    {
+      "arabic": "مَرْحَبًا",
+      "english": "welcome"
+    },
+    {
+      "arabic": "كَيْفَ",
+      "english": "how"
+    },
+    {
+      "arabic": "حَالٌ",
+      "english": "condition, state"
+    },
+    {
+      "arabic": "بِ",
+      "english": "(prefix) in"
+    },
+    {
+      "arabic": "خَيْرٌ",
+      "english": "(noun) well-being"
+    },
+    {
+      "arabic": "أُسْتَاذٌ",
+      "english": "professor"
+    },
+    {
+      "arabic": "مَوْجُودٌ",
+      "english": "present"
+    },
+    {
+      "arabic": "مَكْتَبَةٌ",
+      "english": "library"
+    },
+    {
+      "arabic": "قَرِيبٌ",
+      "english": "near, close"
+    },
+    {
+      "arabic": "جِدًّا",
+      "english": "very"
+    },
+    {
+      "arabic": "جَدِيدٌ",
+      "english": "new"
+    },
+    {
+      "arabic": "اَلْعِرَاقُ",
+      "english": "Iraq"
+    },
+    {
+      "arabic": "بَغْدَادُ",
+      "english": "Baghdad",
+      "diptote": true
+    },
+    {
+      "arabic": "جَامِعَةٌ",
+      "english": "university"
+    },
+    {
+      "arabic": "كَبِيرٌ",
+      "english": "big"
+    },
+    {
+      "arabic": "جَمِيلٌ",
+      "english": "beautiful"
+    },
+    {
+      "arabic": "دَرْسٌ",
+      "english": "lesson"
+    },
+    {
+      "arabic": "سَهْلٌ",
+      "english": "easy"
+    },
+    {
+      "arabic": "صَعْبٌ",
+      "english": "difficult"
+    },
+    {
+      "arabic": "أَجْنَبِيٌّ",
+      "english": "foreign"
+    },
+    {
+      "arabic": "مَشْهُورٌ",
+      "english": "famous"
+    },
+    {
+      "arabic": "رَجُلٌ",
+      "english": "man"
+    },
+    {
+      "arabic": "كِتَابٌ",
+      "english": "book"
+    },
+    {
+      "arabic": "أَسَاسِيٌّ",
+      "english": "basic"
+    },
+    {
+      "arabic": "دُكْتُورٌ",
+      "english": "doctor (PhD)"
+    },
+    {
+      "arabic": "قَلَمٌ",
+      "english": "pen"
+    },
+    {
+      "arabic": "وَرَقَةٌ",
+      "english": "paper"
+    },
+    {
+      "arabic": "طَاوِلَةٌ",
+      "english": "table"
+    },
+    {
+      "arabic": "نَصٌّ",
+      "english": "text"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "course": "SLL1059S",
+  "lesson": 13,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_2.pdf",
+    "pdf_pages": [
+      94,
+      95
+    ]
+  },
+  "words": [
+    {
+      "arabic": "نَفْطٌ",
+      "english": "petrol"
+    },
+    {
+      "arabic": "اِمْتَازَ",
+      "english": "to be distinguished by, characterised by (8)"
+    },
+    {
+      "arabic": "غَنِيٌّ (بِ)",
+      "english": "rich (in)"
+    },
+    {
+      "arabic": "مَوْرِدٌ",
+      "plural": "مَوَارِدُ",
+      "english": "source, resource",
+      "diptote": true
+    },
+    {
+      "arabic": "مَوْرِدُ النَّفْطِ",
+      "english": "oil well"
+    },
+    {
+      "arabic": "عَامٌ",
+      "plural": "أَعْوَامٌ",
+      "english": "year"
+    },
+    {
+      "arabic": "اِزْدَادَ",
+      "english": "to grow, increase (8)"
+    },
+    {
+      "arabic": "إِنْتَاجٌ",
+      "english": "production (verbal noun)"
+    },
+    {
+      "arabic": "اِسْتَفَادَ (مِنْ)",
+      "english": "to benefit (from) (10)"
+    },
+    {
+      "arabic": "دَوْلَةٌ",
+      "plural": "دُوَلٌ",
+      "english": "state, nation"
+    },
+    {
+      "arabic": "كَثِيرٌ",
+      "plural": "كِثَارٌ",
+      "english": "much, abundant, many"
+    },
+    {
+      "arabic": "كَثِيرًا",
+      "english": "much, a lot"
+    },
+    {
+      "arabic": "لَيْسَ",
+      "english": "negative of the verb 'to be' in the present tense"
+    },
+    {
+      "arabic": "اِحْتَاجَ إِلَى",
+      "english": "to need"
+    },
+    {
+      "arabic": "قَدْ",
+      "english": "(followed by past tense verb) this particle indicates completeness of action"
+    },
+    {
+      "arabic": "أَقَامَ",
+      "english": "to live, set up, found (4)"
+    },
+    {
+      "arabic": "مَصْنَعٌ",
+      "plural": "مَصَانِعُ",
+      "english": "factory",
+      "diptote": true
+    },
+    {
+      "arabic": "أَدَارَ",
+      "english": "to manage, administer (4)"
+    },
+    {
+      "arabic": "مُنَظَّمَةٌ",
+      "english": "organisation"
+    },
+    {
+      "arabic": "أُمَّةٌ",
+      "plural": "أُمَمٌ",
+      "english": "nation"
+    },
+    {
+      "arabic": "مُتَّحِدٌ",
+      "english": "united"
+    },
+    {
+      "arabic": "حَرْبٌ",
+      "plural": "حُرُوبٌ",
+      "english": "war (f.)"
+    },
+    {
+      "arabic": "تَأْسِيسٌ",
+      "english": "establishing (verbal noun, 2)"
+    },
+    {
+      "arabic": "وَضَعَ (يَضَعُ)",
+      "english": "to place, put",
+      "note": "present tense given in brackets"
+    },
+    {
+      "arabic": "مِيثَاقٌ",
+      "plural": "مَوَاثِيقُ",
+      "english": "covenant, pact, charter",
+      "diptote": true
+    },
+    {
+      "arabic": "عَامٌّ",
+      "english": "general (adjective)"
+    },
+    {
+      "arabic": "مَنْدُوبٌ",
+      "english": "delegate"
+    },
+    {
+      "arabic": "عُضْوٌ",
+      "plural": "أَعْضَاءٌ",
+      "english": "member"
+    },
+    {
+      "arabic": "هَدَفٌ",
+      "plural": "أَهْدَافٌ",
+      "english": "target, aim, goal"
+    },
+    {
+      "arabic": "مُحَافَظَةٌ عَلَى",
+      "english": "preserving, maintaining, upholding (verbal noun)"
+    },
+    {
+      "arabic": "سَلَامٌ",
+      "english": "peace"
+    },
+    {
+      "arabic": "إِنْسَانٌ",
+      "english": "man, human being, person"
+    },
+    {
+      "arabic": "لِذٰلِكَ",
+      "english": "therefore"
+    },
+    {
+      "arabic": "ثِقَةٌ",
+      "english": "confidence, trust"
+    },
+    {
+      "arabic": "قَمْحٌ",
+      "english": "wheat"
+    },
+    {
+      "arabic": "حَفَرَ (ـِ)",
+      "english": "to dig"
+    },
+    {
+      "arabic": "حُفْرَةٌ",
+      "plural": "حُفَرٌ",
+      "english": "pit, hole"
+    },
+    {
+      "arabic": "سُؤَالٌ",
+      "plural": "أَسْئِلَةٌ",
+      "english": "question"
+    },
+    {
+      "arabic": "مَعَ أَنَّ",
+      "english": "although"
+    },
+    {
+      "arabic": "أُخْتٌ",
+      "plural": "أَخَوَاتٌ",
+      "english": "sisters"
+    },
+    {
+      "arabic": "عُطْلَةٌ",
+      "plural": "عُطْلَاتٌ و عُطَلٌ",
+      "english": "holiday"
+    },
+    {
+      "arabic": "شَعْبٌ",
+      "plural": "شُعُوبٌ",
+      "english": "people, folk"
+    }
+  ]
+}

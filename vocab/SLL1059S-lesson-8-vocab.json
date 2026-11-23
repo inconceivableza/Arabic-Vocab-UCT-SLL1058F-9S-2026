@@ -1,0 +1,199 @@
+{
+  "course": "SLL1059S",
+  "lesson": 8,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_2.pdf",
+    "pdf_pages": [
+      28,
+      29
+    ]
+  },
+  "words": [
+    {
+      "arabic": "مُوجَزٌ",
+      "english": "summary, resume"
+    },
+    {
+      "arabic": "نَقَلَ (إِلَى) (ـُ)",
+      "english": "transmit/transport (to)"
+    },
+    {
+      "arabic": "رَئِيسٌ",
+      "plural": "رُؤَسَاءُ",
+      "english": "president",
+      "diptote": true
+    },
+    {
+      "arabic": "دَوْلَةٌ",
+      "plural": "دُوَلٌ",
+      "english": "nation, state"
+    },
+    {
+      "arabic": "بَحَثَ (ـَ)",
+      "english": "to discuss"
+    },
+    {
+      "arabic": "وَضْعٌ",
+      "english": "state, condition",
+      "note": "handwritten gloss: situation"
+    },
+    {
+      "arabic": "سِيَاسِيٌّ",
+      "english": "political"
+    },
+    {
+      "arabic": "حَاضِرٌ",
+      "english": "current, present"
+    },
+    {
+      "arabic": "عَالَمٌ",
+      "english": "world"
+    },
+    {
+      "arabic": "مُرَاسِلٌ",
+      "plural": "مُرَاسِلُونَ",
+      "english": "reporter"
+    },
+    {
+      "arabic": "أَجْنَبِيٌّ",
+      "plural": "أَجَانِبُ",
+      "english": "foreigner; foreign (adj.)",
+      "diptote": true
+    },
+    {
+      "arabic": "بَلَدٌ",
+      "plural": "بِلَادٌ",
+      "english": "country"
+    },
+    {
+      "arabic": "وَزِيرٌ",
+      "plural": "وُزَرَاءُ",
+      "english": "minister",
+      "diptote": true
+    },
+    {
+      "arabic": "نَشَرَ (ـُ)",
+      "english": "to publish"
+    },
+    {
+      "arabic": "اِسْمٌ",
+      "plural": "أَسْمَاءٌ",
+      "english": "name"
+    },
+    {
+      "arabic": "سَمِعَ (ـَ)",
+      "english": "to hear"
+    },
+    {
+      "arabic": "تَفْصِيلٌ",
+      "plural": "تَفَاصِيلُ",
+      "english": "detail",
+      "diptote": true
+    },
+    {
+      "arabic": "اِمْتِحَانٌ",
+      "plural": "اِمْتِحَانَاتٌ",
+      "english": "exam"
+    },
+    {
+      "arabic": "مُسْتَعِدٌّ (لِ)",
+      "english": "ready for"
+    },
+    {
+      "arabic": "اَلْيَوْمَ",
+      "english": "today"
+    },
+    {
+      "arabic": "جُمْلَةٌ",
+      "plural": "جُمَلٌ",
+      "english": "sentence"
+    },
+    {
+      "arabic": "دَرْسٌ",
+      "plural": "دُرُوسٌ",
+      "english": "lesson"
+    },
+    {
+      "arabic": "أَخِيرٌ",
+      "english": "final, last"
+    },
+    {
+      "arabic": "مُعْظَمُ",
+      "english": "most (of)"
+    },
+    {
+      "arabic": "غَدًا",
+      "english": "tomorrow"
+    },
+    {
+      "arabic": "قَوَاعِدُ",
+      "english": "rules (of grammar)",
+      "diptote": true
+    },
+    {
+      "arabic": "صَبَاحًا",
+      "english": "in the morning"
+    },
+    {
+      "arabic": "ظُهْرٌ",
+      "english": "noon"
+    },
+    {
+      "arabic": "بَعْدَ الظُّهْرِ",
+      "english": "in the afternoon"
+    },
+    {
+      "arabic": "جَدْوَلٌ",
+      "english": "timetable"
+    },
+    {
+      "arabic": "آخَرُ",
+      "english": "other (m. sing.)",
+      "diptote": true
+    },
+    {
+      "arabic": "أُخْرَى",
+      "english": "other (f. sing.)"
+    },
+    {
+      "arabic": "ثُمَّ",
+      "english": "then, moreover, and then"
+    },
+    {
+      "arabic": "مَسْؤُولٌ",
+      "english": "responsible, official (noun)"
+    },
+    {
+      "arabic": "قَرَأَ (ـَ)",
+      "english": "to read",
+      "handwritten": true
+    },
+    {
+      "arabic": "تَأْثِيرٌ (فِي أَو عَلَى)",
+      "english": "influence (on)"
+    },
+    {
+      "arabic": "سَلَامٌ",
+      "english": "peace"
+    },
+    {
+      "arabic": "جَدِيدٌ",
+      "plural": "جُدُدٌ",
+      "english": "new"
+    },
+    {
+      "arabic": "شَمِلَ (ـَ)",
+      "english": "to contain",
+      "note": "handwritten gloss: include"
+    },
+    {
+      "arabic": "مُحَاضَرَةٌ",
+      "english": "lecture"
+    },
+    {
+      "arabic": "خَبَرٌ",
+      "plural": "أَخْبَارٌ",
+      "english": "news"
+    }
+  ]
+}

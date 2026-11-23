@@ -1,0 +1,223 @@
+{
+  "course": "SLL1059S",
+  "lesson": 11,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_2.pdf",
+    "pdf_pages": [
+      68,
+      69
+    ]
+  },
+  "words": [
+    {
+      "arabic": "تَقَدَّمَ بِ",
+      "english": "to submit, present (5)"
+    },
+    {
+      "arabic": "طَلَبٌ (لِ)",
+      "english": "a request (for)"
+    },
+    {
+      "arabic": "تَقَابَلَ (مَعَ)",
+      "english": "to get together (with), have a meeting (with) (6)"
+    },
+    {
+      "arabic": "مُقَابَلَةٌ",
+      "english": "interview"
+    },
+    {
+      "arabic": "عَرَفَ (ـِ)",
+      "english": "to find out, learn",
+      "note": "handwritten gloss: know"
+    },
+    {
+      "arabic": "لُغَةٌ",
+      "plural": "لُغَاتٌ",
+      "english": "language"
+    },
+    {
+      "arabic": "حَاجَةٌ",
+      "plural": "حَاجَاتٌ",
+      "english": "need",
+      "note": "plural given as (-ات)"
+    },
+    {
+      "arabic": "فِي حَاجَةٍ إِلَى",
+      "english": "in need of"
+    },
+    {
+      "arabic": "بِحَاجَةٍ إِلَى",
+      "english": "in need of"
+    },
+    {
+      "arabic": "تَكَلَّمَ",
+      "english": "to speak (5)"
+    },
+    {
+      "arabic": "جَيِّدًا",
+      "english": "well (adverb)"
+    },
+    {
+      "arabic": "عَمِلَ (ـَ)",
+      "english": "to work, to do"
+    },
+    {
+      "arabic": "تَنَاوَلَ",
+      "english": "to deal with, treat (6)"
+    },
+    {
+      "arabic": "مَقَالَةٌ",
+      "plural": "مَقَالَاتٌ",
+      "english": "essay, article",
+      "note": "plural given as (-ات)"
+    },
+    {
+      "arabic": "بِلَادٌ",
+      "plural": "بُلْدَانٌ",
+      "english": "country (f. s.)"
+    },
+    {
+      "arabic": "نَظَرَ (ـُ) فِي",
+      "english": "to look into, consider"
+    },
+    {
+      "arabic": "تَمَكَّنَ مِنْ",
+      "english": "to be able, can (5)"
+    },
+    {
+      "arabic": "أَنَّ",
+      "english": "that (conjunction)"
+    },
+    {
+      "arabic": "اِنْتِخَابٌ",
+      "plural": "اِنْتِخَابَاتٌ",
+      "english": "election, electing (Form 8 verbal noun)",
+      "note": "plural given as (-ات)"
+    },
+    {
+      "arabic": "اِنْتَخَبَ",
+      "english": "to elect (8)"
+    },
+    {
+      "arabic": "حِزْبٌ",
+      "plural": "أَحْزَابٌ",
+      "english": "(political) party"
+    },
+    {
+      "arabic": "رَئِيسِيٌّ",
+      "english": "principal, main"
+    },
+    {
+      "arabic": "مُرَشَّحٌ",
+      "english": "candidate"
+    },
+    {
+      "arabic": "سَ",
+      "english": "prefix to a present tense verb, indicating action in the future"
+    },
+    {
+      "arabic": "شَعْبٌ",
+      "plural": "شُعُوبٌ",
+      "english": "a people, nation"
+    },
+    {
+      "arabic": "أَحَدٌ",
+      "english": "one, someone (m.)"
+    },
+    {
+      "arabic": "إِحْدَى",
+      "english": "one, someone (f.)"
+    },
+    {
+      "arabic": "عَقَدَ (ـِ)",
+      "english": "to hold (a meeting)"
+    },
+    {
+      "arabic": "مُؤْتَمَرٌ",
+      "plural": "مُؤْتَمَرَاتٌ",
+      "english": "conference",
+      "note": "plural given as (-ات)"
+    },
+    {
+      "arabic": "اِعْتَقَدَ",
+      "english": "to believe (8)"
+    },
+    {
+      "arabic": "حَدَثٌ",
+      "plural": "أَحْدَاثٌ",
+      "english": "event"
+    },
+    {
+      "arabic": "اِسْتَقْبَلَ",
+      "english": "to receive, meet (10)"
+    },
+    {
+      "arabic": "اِهْتِمَامٌ",
+      "english": "concern, interest (Form 8 verbal noun)"
+    },
+    {
+      "arabic": "اِنْصَرَفَ",
+      "english": "to leave, go away (7)"
+    },
+    {
+      "arabic": "مُحَاضِرٌ",
+      "english": "lecturer"
+    },
+    {
+      "arabic": "إِعْلَانٌ",
+      "plural": "إِعْلَانَاتٌ",
+      "english": "advertisement (Form 4 verbal noun)"
+    },
+    {
+      "arabic": "أُسْبُوعٌ",
+      "plural": "أَسَابِيعُ",
+      "english": "week",
+      "diptote": true
+    },
+    {
+      "arabic": "قَدَمٌ",
+      "english": "foot",
+      "note": "Parts of the body (those which come in pairs are feminine)"
+    },
+    {
+      "arabic": "رِجْلٌ",
+      "english": "leg",
+      "note": "Parts of the body (those which come in pairs are feminine)"
+    },
+    {
+      "arabic": "يَدٌ",
+      "english": "hand",
+      "note": "Parts of the body (those which come in pairs are feminine)"
+    },
+    {
+      "arabic": "ذِرَاعٌ",
+      "english": "arm",
+      "note": "Parts of the body (those which come in pairs are feminine)"
+    },
+    {
+      "arabic": "أَنْفٌ",
+      "english": "nose",
+      "note": "Parts of the body (those which come in pairs are feminine)"
+    },
+    {
+      "arabic": "فَمٌ",
+      "english": "mouth",
+      "note": "Parts of the body (those which come in pairs are feminine)"
+    },
+    {
+      "arabic": "أُذُنٌ",
+      "english": "ear",
+      "note": "Parts of the body (those which come in pairs are feminine)"
+    },
+    {
+      "arabic": "عَيْنٌ",
+      "english": "eye",
+      "note": "Parts of the body (those which come in pairs are feminine)"
+    },
+    {
+      "arabic": "شَفَةٌ",
+      "english": "lip",
+      "note": "Parts of the body (those which come in pairs are feminine)"
+    }
+  ]
+}

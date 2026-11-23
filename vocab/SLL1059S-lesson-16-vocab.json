@@ -1,0 +1,216 @@
+{
+  "course": "SLL1059S",
+  "lesson": 16,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_2.pdf",
+    "pdf_pages": [
+      134,
+      135
+    ]
+  },
+  "words": [
+    {
+      "arabic": "أَهْلٌ",
+      "plural": "أَهَالٍ",
+      "english": "people (m. pl.)"
+    },
+    {
+      "arabic": "قَبْلَ (+ أَنْ)",
+      "english": "before"
+    },
+    {
+      "arabic": "بَعْدَ (+ أَنْ)",
+      "english": "after"
+    },
+    {
+      "arabic": "حَضَارَةٌ",
+      "english": "civilisation, culture"
+    },
+    {
+      "arabic": "مَظْهَرٌ",
+      "plural": "مَظَاهِرُ",
+      "english": "manifestation",
+      "diptote": true
+    },
+    {
+      "arabic": "نَبَطٌ",
+      "plural": "أَنْبَاطٌ",
+      "english": "Nabatean (an ancient Near Eastern people)"
+    },
+    {
+      "arabic": "تَدْمُرُ",
+      "english": "Palmyra"
+    },
+    {
+      "arabic": "عَاصِمَةٌ",
+      "plural": "عَوَاصِمُ",
+      "english": "capital",
+      "diptote": true
+    },
+    {
+      "arabic": "أَحَاطَ بِ",
+      "english": "to surround (4)"
+    },
+    {
+      "arabic": "جَبَلٌ",
+      "plural": "جِبَالٌ",
+      "english": "mountain"
+    },
+    {
+      "arabic": "بَنَى (يَبْنِي)",
+      "english": "to build",
+      "note": "present tense given in brackets"
+    },
+    {
+      "arabic": "قَبْلَ الْمِيلَادِ",
+      "english": "B.C."
+    },
+    {
+      "arabic": "دَخَلَ (ـُ)",
+      "english": "to enter"
+    },
+    {
+      "arabic": "هَيْكَلٌ",
+      "plural": "هَيَاكِلُ",
+      "english": "temple",
+      "diptote": true
+    },
+    {
+      "arabic": "قَصْرٌ",
+      "plural": "قُصُورٌ",
+      "english": "castle, palace, fort"
+    },
+    {
+      "arabic": "مُدَرَّجٌ",
+      "plural": "مُدَرَّجَاتٌ",
+      "english": "stairway",
+      "note": "plural given as (-ات)"
+    },
+    {
+      "arabic": "مَنْحُوتٌ",
+      "english": "carved, hewn"
+    },
+    {
+      "arabic": "صَخْرٌ",
+      "english": "rock, stone"
+    },
+    {
+      "arabic": "قَضَى (يَقْضِي)",
+      "english": "to spend (time)",
+      "note": "present tense given in brackets"
+    },
+    {
+      "arabic": "بَيْنَ",
+      "english": "between, among"
+    },
+    {
+      "arabic": "فُنْدُقٌ",
+      "plural": "فَنَادِقُ",
+      "english": "hotel",
+      "diptote": true
+    },
+    {
+      "arabic": "حَضَرَ (ـُ)",
+      "english": "to attend, be present"
+    },
+    {
+      "arabic": "شَارِعٌ",
+      "plural": "شَوَارِعُ",
+      "english": "street",
+      "diptote": true
+    },
+    {
+      "arabic": "طَبْعَةٌ",
+      "english": "edition",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "قَامُوسٌ",
+      "english": "dictionary",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "اِحْتِرَامٌ",
+      "english": "respect",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "مُحْتَرَمٌ",
+      "english": "respected",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "نَشْرَةٌ",
+      "english": "periodical, newsletter",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "صُدُورٌ",
+      "english": "publication, appearance",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "تَمَكَّنَ",
+      "english": "to be able",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "آب",
+      "english": "August",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "حَضْرَةٌ",
+      "english": "presence",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "تَحِيَّةٌ",
+      "english": "greeting(s)",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "مُشْكِلَةٌ",
+      "plural": "مَشَاكِلُ",
+      "english": "problem",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "مَكْتَبَةٌ",
+      "english": "bookshop, publishing house",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "لِذٰلِكَ",
+      "english": "therefore, for that reason",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "أَرْسَلَ",
+      "english": "to send",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "شِيكٌ",
+      "english": "cheque",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "ثَمَنٌ",
+      "plural": "أَثْمَانٌ",
+      "english": "price",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "دَقِيقَةٌ",
+      "plural": "دَقَائِقُ",
+      "english": "minute",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    },
+    {
+      "arabic": "اَلْإِسْكَنْدَرِيَّةُ",
+      "english": "Alexandria",
+      "note": "from the supplementary list on the following page (book p. 231)"
+    }
+  ]
+}

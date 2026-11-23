@@ -1,0 +1,140 @@
+{
+  "course": "SLL1058F",
+  "lesson": 1,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_1.pdf",
+    "pdf_pages": [
+      39,
+      40
+    ]
+  },
+  "words": [
+    {
+      "arabic": "أَنَا",
+      "english": "I"
+    },
+    {
+      "arabic": "أَنْتَ",
+      "english": "you (male)"
+    },
+    {
+      "arabic": "أَنْتِ",
+      "english": "you (female)"
+    },
+    {
+      "arabic": "مَنْ",
+      "english": "who"
+    },
+    {
+      "arabic": "وَ",
+      "english": "and"
+    },
+    {
+      "arabic": "مِنْ",
+      "english": "from"
+    },
+    {
+      "arabic": "أَيْنَ",
+      "english": "where"
+    },
+    {
+      "arabic": "نَعَمْ",
+      "english": "yes"
+    },
+    {
+      "arabic": "لَا",
+      "english": "no"
+    },
+    {
+      "arabic": "أَيْضاً",
+      "english": "also"
+    },
+    {
+      "arabic": "يَا",
+      "english": "a word used when addressing a person directly"
+    },
+    {
+      "arabic": "سَلِيم",
+      "english": "Salīm (male name)"
+    },
+    {
+      "arabic": "سَامِي",
+      "english": "Sāmī (male name)"
+    },
+    {
+      "arabic": "وِدَادُ",
+      "english": "Widād (female name)",
+      "diptote": true
+    },
+    {
+      "arabic": "نَبِيلَةُ",
+      "english": "Nabīla (female name)",
+      "diptote": true
+    },
+    {
+      "arabic": "لُبْنَانُ",
+      "english": "Lebanon",
+      "diptote": true
+    },
+    {
+      "arabic": "تُونِسُ",
+      "english": "Tunisia",
+      "diptote": true
+    },
+    {
+      "arabic": "كَنَدَا",
+      "english": "Canada"
+    },
+    {
+      "arabic": "أَمْرِيكَا",
+      "english": "America"
+    },
+    {
+      "arabic": "فَرَنْسَا",
+      "english": "France"
+    },
+    {
+      "arabic": "لِيبِيَا",
+      "english": "Libya"
+    },
+    {
+      "arabic": "سُورِيَا",
+      "english": "Syria"
+    },
+    {
+      "arabic": "إِيرَانُ",
+      "english": "Iran",
+      "diptote": true
+    },
+    {
+      "arabic": "تُرْكِيَا",
+      "english": "Turkey"
+    },
+    {
+      "arabic": "مِصْرُ",
+      "english": "Egypt",
+      "diptote": true
+    },
+    {
+      "arabic": "بَرِيطَانِيَا",
+      "english": "Britain"
+    },
+    {
+      "arabic": "إِنْجِلْتَرَا",
+      "english": "England"
+    },
+    {
+      "arabic": "إِسْكُتْلَنْدَا",
+      "english": "Scotland"
+    },
+    {
+      "arabic": "إِيرْلَنْدَا",
+      "english": "Ireland"
+    },
+    {
+      "arabic": "جَنُوب إِفْرِيقِيَا",
+      "english": "South Africa",
+      "handwritten": true
+    }
+  ]
+}

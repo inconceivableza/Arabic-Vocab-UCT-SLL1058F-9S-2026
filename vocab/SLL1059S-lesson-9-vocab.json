@@ -1,0 +1,228 @@
+{
+  "course": "SLL1059S",
+  "lesson": 9,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_2.pdf",
+    "pdf_pages": [
+      37,
+      38
+    ]
+  },
+  "words": [
+    {
+      "arabic": "تَعْلِيمٌ",
+      "english": "instruction"
+    },
+    {
+      "arabic": "مَرْحَلَةٌ",
+      "plural": "مَرَاحِلُ",
+      "english": "stage",
+      "diptote": true
+    },
+    {
+      "arabic": "اِبْتِدَائِيٌّ",
+      "english": "elementary"
+    },
+    {
+      "arabic": "إِعْدَادِيٌّ",
+      "english": "preparatory, intermediate"
+    },
+    {
+      "arabic": "قَرَّرَ",
+      "english": "to decide (2)"
+    },
+    {
+      "arabic": "وِزَارَةٌ",
+      "plural": "وِزَارَاتٌ",
+      "english": "ministry",
+      "note": "plural given as (-ات)"
+    },
+    {
+      "arabic": "مَنْهَجٌ",
+      "plural": "مَنَاهِجُ",
+      "english": "programme",
+      "diptote": true
+    },
+    {
+      "arabic": "عَيَّنَ",
+      "english": "to appoint (2)"
+    },
+    {
+      "arabic": "مَدْرَسَةٌ",
+      "plural": "مَدَارِسُ",
+      "english": "school",
+      "diptote": true
+    },
+    {
+      "arabic": "حُكُومِيٌّ",
+      "english": "governmental"
+    },
+    {
+      "arabic": "دَرَّسَ",
+      "english": "to teach (2)"
+    },
+    {
+      "arabic": "إِلَى جَانِبِ",
+      "english": "beside",
+      "note": "handwritten gloss: in addition to"
+    },
+    {
+      "arabic": "مَوْضُوعٌ",
+      "plural": "مَوَاضِيعُ",
+      "english": "subject"
+    },
+    {
+      "arabic": "اِمْرَأَةٌ (اَلْمَرْأَةُ)",
+      "english": "woman",
+      "note": "definite form given in brackets"
+    },
+    {
+      "arabic": "نِسَاءٌ",
+      "english": "women"
+    },
+    {
+      "arabic": "مَكَانَةٌ",
+      "english": "position, status"
+    },
+    {
+      "arabic": "حَقٌّ",
+      "plural": "حُقُوقٌ",
+      "english": "right"
+    },
+    {
+      "arabic": "رَجُلٌ",
+      "plural": "رِجَالٌ",
+      "english": "man"
+    },
+    {
+      "arabic": "وَاجِبٌ",
+      "plural": "وَاجِبَاتٌ",
+      "english": "duty"
+    },
+    {
+      "arabic": "حَصَلَ (ـُ) عَلَى",
+      "english": "to obtain, acquire"
+    },
+    {
+      "arabic": "شَهَادَةٌ",
+      "plural": "شَهَادَاتٌ",
+      "english": "degree",
+      "note": "plural given as (-ات)"
+    },
+    {
+      "arabic": "عَالِيَةٌ",
+      "english": "high (f.)"
+    },
+    {
+      "arabic": "طَبِيبٌ",
+      "plural": "أَطِبَّاءُ",
+      "english": "physician",
+      "diptote": true
+    },
+    {
+      "arabic": "مُمَرِّضَةٌ",
+      "english": "nurse"
+    },
+    {
+      "arabic": "غَيْرُ",
+      "english": "other than"
+    },
+    {
+      "arabic": "قَدَّمَ",
+      "english": "to offer, present (2)"
+    },
+    {
+      "arabic": "مُجْتَمَعٌ",
+      "english": "society, community"
+    },
+    {
+      "arabic": "خِدْمَةٌ",
+      "plural": "خِدْمَاتٌ",
+      "english": "service"
+    },
+    {
+      "arabic": "تَقَدُّمٌ",
+      "english": "progress, achievement"
+    },
+    {
+      "arabic": "عَمِلَ (ـَ) عَلَى",
+      "english": "to work for"
+    },
+    {
+      "arabic": "اَلْمُسَاوَاةُ",
+      "english": "equality"
+    },
+    {
+      "arabic": "حَدِيقَةٌ",
+      "plural": "حَدَائِقُ",
+      "english": "garden",
+      "diptote": true
+    },
+    {
+      "arabic": "حُجْرَةٌ",
+      "plural": "حُجُرَاتٌ",
+      "english": "room"
+    },
+    {
+      "arabic": "جَلَسَ (ـِ)",
+      "english": "to sit"
+    },
+    {
+      "arabic": "وَصَلَ إِلَى",
+      "english": "to arrive (at)",
+      "note": "إِلَى added by hand"
+    },
+    {
+      "arabic": "جُلُوسٌ",
+      "english": "sitting"
+    },
+    {
+      "arabic": "طَعَامٌ",
+      "english": "food"
+    },
+    {
+      "arabic": "حَمَّامٌ",
+      "plural": "حَمَّامَاتٌ",
+      "english": "bathroom"
+    },
+    {
+      "arabic": "مَطْبَخٌ",
+      "plural": "مَطَابِخُ",
+      "english": "kitchen",
+      "diptote": true
+    },
+    {
+      "arabic": "نَوْمٌ",
+      "english": "sleep"
+    },
+    {
+      "arabic": "نَظَّفَ",
+      "english": "to clean (2)"
+    },
+    {
+      "arabic": "نَظَّمَ",
+      "english": "to organise, arrange (2)"
+    },
+    {
+      "arabic": "مَعًا",
+      "english": "together"
+    },
+    {
+      "arabic": "وَلَدٌ",
+      "plural": "أَوْلَادٌ",
+      "english": "child, son"
+    },
+    {
+      "arabic": "مَالٌ",
+      "english": "property, money"
+    },
+    {
+      "arabic": "أَبٌ",
+      "english": "father"
+    },
+    {
+      "arabic": "هَامٌّ",
+      "english": "important"
+    }
+  ]
+}

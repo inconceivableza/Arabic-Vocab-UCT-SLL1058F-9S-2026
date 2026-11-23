@@ -1,0 +1,124 @@
+{
+  "course": "SLL1059S",
+  "lesson": 12,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_2.pdf",
+    "pdf_pages": [
+      82
+    ]
+  },
+  "words": [
+    {
+      "arabic": "كَانَ",
+      "english": "to be"
+    },
+    {
+      "arabic": "يَوْمٌ",
+      "plural": "أَيَّامٌ",
+      "english": "day"
+    },
+    {
+      "arabic": "يَوْمًا",
+      "english": "one day"
+    },
+    {
+      "arabic": "مَقْهًى",
+      "plural": "مَقَاهٍ",
+      "english": "a coffee house"
+    },
+    {
+      "arabic": "اَلْمَقْهَى",
+      "plural": "اَلْمَقَاهِي",
+      "english": "the coffee house"
+    },
+    {
+      "arabic": "قَالَ",
+      "english": "to say"
+    },
+    {
+      "arabic": "قِصَّةٌ",
+      "plural": "قِصَصٌ",
+      "english": "story"
+    },
+    {
+      "arabic": "تَحَدَّثَ",
+      "english": "to converse (5)"
+    },
+    {
+      "arabic": "جَهْلٌ",
+      "english": "ignorance"
+    },
+    {
+      "arabic": "إِذَنْ ، إِذًا",
+      "english": "then, in that case"
+    },
+    {
+      "arabic": "مَعْرِفَةٌ",
+      "english": "knowledge"
+    },
+    {
+      "arabic": "ضَحِكَ (ـَ)",
+      "english": "to laugh"
+    },
+    {
+      "arabic": "عَارِفٌ",
+      "english": "one who knows"
+    },
+    {
+      "arabic": "أَخْبَرَ (بِ)",
+      "english": "to inform (of) (4)"
+    },
+    {
+      "arabic": "جَاهِلٌ",
+      "english": "one who is ignorant"
+    },
+    {
+      "arabic": "زَارَ (ـُ)",
+      "english": "to visit"
+    },
+    {
+      "arabic": "جَاءَ (يَجِيءُ)",
+      "english": "to come",
+      "note": "present tense given in brackets"
+    },
+    {
+      "arabic": "عُرْسٌ",
+      "english": "wedding"
+    },
+    {
+      "arabic": "حَفْلَةٌ",
+      "english": "party, celebration"
+    },
+    {
+      "arabic": "حَفْلَةُ عُرْسٍ",
+      "english": "wedding celebration"
+    },
+    {
+      "arabic": "قَرْيَةٌ",
+      "plural": "قُرًى",
+      "english": "village"
+    },
+    {
+      "arabic": "أُرْدُنِّيٌّ",
+      "english": "Jordanian"
+    },
+    {
+      "arabic": "بَيْتٌ",
+      "plural": "بُيُوتٌ",
+      "english": "house"
+    },
+    {
+      "arabic": "عَرِيسٌ",
+      "english": "bridegroom"
+    },
+    {
+      "arabic": "عَرُوسٌ",
+      "english": "bride"
+    },
+    {
+      "arabic": "مُدَّةٌ",
+      "plural": "مُدَدٌ",
+      "english": "period (of time)"
+    }
+  ]
+}

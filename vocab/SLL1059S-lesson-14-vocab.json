@@ -1,0 +1,199 @@
+{
+  "course": "SLL1059S",
+  "lesson": 14,
+  "source": {
+    "file": "INITIAL_ARABIC_TEXTBOOK_PART_2.pdf",
+    "pdf_pages": [
+      106,
+      107
+    ]
+  },
+  "words": [
+    {
+      "arabic": "مُذَكِّرَةٌ",
+      "english": "reminder, note, remark"
+    },
+    {
+      "arabic": "إِنَّ",
+      "english": "intensifying article found at the beginning of a sentence, left untranslated; also used after قَالَ"
+    },
+    {
+      "arabic": "قَائِدٌ",
+      "plural": "قُوَّادٌ",
+      "english": "leader"
+    },
+    {
+      "arabic": "اَلَّذِي",
+      "english": "relative pronoun: m.s."
+    },
+    {
+      "arabic": "اَلَّتِي",
+      "english": "relative pronoun: f.s."
+    },
+    {
+      "arabic": "اَلَّذِينَ",
+      "english": "relative pronoun: m.pl."
+    },
+    {
+      "arabic": "اَللَّوَاتِي",
+      "english": "relative pronoun: f.pl."
+    },
+    {
+      "arabic": "فَتَحَ (ـَ)",
+      "english": "to open, conquer"
+    },
+    {
+      "arabic": "اَلْأَنْدَلُسُ",
+      "english": "Andalusia (Muslim Spain)"
+    },
+    {
+      "arabic": "مُفَكِّرٌ",
+      "english": "thinker"
+    },
+    {
+      "arabic": "قَوْمِيَّةٌ",
+      "english": "nationalism"
+    },
+    {
+      "arabic": "فِكْرَةٌ",
+      "english": "thought, idea, concept"
+    },
+    {
+      "arabic": "مَعًا",
+      "english": "together"
+    },
+    {
+      "arabic": "جَمَعَ (ـَ)",
+      "english": "to collect"
+    },
+    {
+      "arabic": "اِعْتَرَفَ بِ",
+      "english": "to recognise, acknowledge (8)"
+    },
+    {
+      "arabic": "فَضْلٌ",
+      "english": "meritorious service"
+    },
+    {
+      "arabic": "عَجَمٌ",
+      "english": "non-Arabs"
+    },
+    {
+      "arabic": "ثَقَافَةٌ",
+      "english": "culture"
+    },
+    {
+      "arabic": "نَهْضَةٌ",
+      "plural": "نَهَضَاتٌ",
+      "english": "awakening (esp. national), renaissance, (spiritual) movement"
+    },
+    {
+      "arabic": "أَدِيبٌ",
+      "plural": "أُدَبَاءُ",
+      "english": "man of letters",
+      "diptote": true
+    },
+    {
+      "arabic": "نِسَائِيٌّ",
+      "english": "feminist, women's"
+    },
+    {
+      "arabic": "أَدَبٌ",
+      "english": "literature"
+    },
+    {
+      "arabic": "مَا",
+      "english": "negative particle before perfect verb"
+    },
+    {
+      "arabic": "أَلَّفَ",
+      "english": "to compose, write, compile (2)"
+    },
+    {
+      "arabic": "قَرْنٌ",
+      "plural": "قُرُونٌ",
+      "english": "century"
+    },
+    {
+      "arabic": "هِجْرِيٌّ",
+      "english": "of the Hegira; in the Muslim era (which began in 622 AD); AH"
+    },
+    {
+      "arabic": "تَمَّ",
+      "english": "to be completed, accomplished"
+    },
+    {
+      "arabic": "تَأْلِيفٌ",
+      "english": "composing, composition, compilation (Form 2 verbal noun)"
+    },
+    {
+      "arabic": "اِسْتَطَاعَ",
+      "english": "(with أَنْ plus subjunctive) to be able, can (10)"
+    },
+    {
+      "arabic": "مُؤَلِّفٌ",
+      "plural": "مُؤَلِّفُونَ",
+      "english": "composer, author"
+    },
+    {
+      "arabic": "مُغَنٍّ (اَلْمُغَنِّي)",
+      "plural": "مُغَنُّونَ",
+      "english": "singer",
+      "note": "definite form given in brackets"
+    },
+    {
+      "arabic": "قَدِيمٌ",
+      "plural": "قُدَمَاءُ",
+      "english": "old, ancient",
+      "diptote": true
+    },
+    {
+      "arabic": "مُعَاصِرٌ",
+      "english": "contemporary"
+    },
+    {
+      "arabic": "عَدَّ",
+      "english": "(with two acc.) to count, consider sth. as"
+    },
+    {
+      "arabic": "مَصْدَرٌ",
+      "plural": "مَصَادِرُ",
+      "english": "source",
+      "diptote": true
+    },
+    {
+      "arabic": "وَدَّ",
+      "english": "(with أَنْ plus subjunctive or with verbal noun) to wish, want (to do sth)"
+    },
+    {
+      "arabic": "بَاحِثٌ",
+      "english": "researcher"
+    },
+    {
+      "arabic": "مَجْهُولٌ",
+      "english": "unknown"
+    },
+    {
+      "arabic": "فَارِسُ",
+      "english": "Persia"
+    },
+    {
+      "arabic": "فَارِسِيٌّ",
+      "english": "Persian"
+    },
+    {
+      "arabic": "تَرْجَمَ (ـِ)",
+      "english": "to translate (quadrilateral verb - in imperfect, vocalised as Form 2 triliteral)"
+    },
+    {
+      "arabic": "تَرْجَمَةٌ",
+      "plural": "تَرَاجِمُ",
+      "english": "translation",
+      "diptote": true
+    },
+    {
+      "arabic": "مُؤَرِّخٌ",
+      "english": "historian"
+    }
+  ]
+}
