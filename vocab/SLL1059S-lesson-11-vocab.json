@@ -11,213 +11,403 @@
   "words": [
     {
       "arabic": "تَقَدَّمَ بِ",
-      "english": "to submit, present (5)"
+      "english": "to submit, to present",
+      "tag": "verb",
+      "verb_form": 5,
+      "image": "images/submit.svg",
+      "english_book": "to submit, present (5)"
     },
     {
-      "arabic": "طَلَبٌ (لِ)",
-      "english": "a request (for)"
+      "arabic": "طَلَبٌ",
+      "english": "request",
+      "tag": "noun",
+      "governs": "لِ",
+      "note": "a request (for)",
+      "image": "images/request.svg",
+      "arabic_book": "طَلَبٌ (لِ)",
+      "english_book": "a request (for)"
     },
     {
-      "arabic": "تَقَابَلَ (مَعَ)",
-      "english": "to get together (with), have a meeting (with) (6)"
+      "arabic": "تَقَابَلَ",
+      "english": "to get together, to have a meeting",
+      "tag": "verb",
+      "verb_form": 6,
+      "governs": "مَعَ",
+      "note": "to get together (with), have a meeting (with)",
+      "image": "images/get-together.svg",
+      "arabic_book": "تَقَابَلَ (مَعَ)",
+      "english_book": "to get together (with), have a meeting (with) (6)"
     },
     {
       "arabic": "مُقَابَلَةٌ",
-      "english": "interview"
+      "english": "interview",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/interview.svg",
+      "english_book": "interview"
     },
     {
-      "arabic": "عَرَفَ (ـِ)",
-      "english": "to find out, learn",
-      "note": "handwritten gloss: know"
+      "arabic": "عَرَفَ",
+      "english": "to find out, to learn, to know",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "i",
+      "image": "images/find-out.svg",
+      "arabic_book": "عَرَفَ (ـِ)",
+      "english_book": "to find out, learn",
+      "source_note": "handwritten gloss: know"
     },
     {
       "arabic": "لُغَةٌ",
+      "english": "language",
+      "tag": "noun",
+      "gender": "f",
       "plural": "لُغَاتٌ",
-      "english": "language"
+      "image": "images/language.svg",
+      "english_book": "language"
     },
     {
       "arabic": "حَاجَةٌ",
-      "plural": "حَاجَاتٌ",
       "english": "need",
-      "note": "plural given as (-ات)"
+      "tag": "noun",
+      "gender": "f",
+      "plural": "حَاجَاتٌ",
+      "image": "images/need.svg",
+      "english_book": "need",
+      "source_note": "plural given as (-ات)"
     },
     {
       "arabic": "فِي حَاجَةٍ إِلَى",
-      "english": "in need of"
+      "english": "in need of",
+      "tag": "phrase",
+      "image": "images/in-need-of.svg",
+      "english_book": "in need of"
     },
     {
       "arabic": "بِحَاجَةٍ إِلَى",
-      "english": "in need of"
+      "english": "in need of",
+      "tag": "phrase",
+      "image": "images/in-need-of-2.svg",
+      "english_book": "in need of"
     },
     {
       "arabic": "تَكَلَّمَ",
-      "english": "to speak (5)"
+      "english": "to speak",
+      "tag": "verb",
+      "verb_form": 5,
+      "image": "images/speak.svg",
+      "english_book": "to speak (5)"
     },
     {
       "arabic": "جَيِّدًا",
-      "english": "well (adverb)"
+      "english": "well",
+      "tag": "adverb",
+      "image": "images/well.svg",
+      "english_book": "well (adverb)"
     },
     {
-      "arabic": "عَمِلَ (ـَ)",
-      "english": "to work, to do"
+      "arabic": "عَمِلَ",
+      "english": "to work, to do",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "a",
+      "image": "images/work.svg",
+      "arabic_book": "عَمِلَ (ـَ)",
+      "english_book": "to work, to do"
     },
     {
       "arabic": "تَنَاوَلَ",
-      "english": "to deal with, treat (6)"
+      "english": "to deal with, to treat",
+      "tag": "verb",
+      "verb_form": 6,
+      "image": "images/deal-with.svg",
+      "english_book": "to deal with, treat (6)"
     },
     {
       "arabic": "مَقَالَةٌ",
-      "plural": "مَقَالَاتٌ",
       "english": "essay, article",
-      "note": "plural given as (-ات)"
+      "tag": "noun",
+      "gender": "f",
+      "plural": "مَقَالَاتٌ",
+      "image": "images/essay.svg",
+      "english_book": "essay, article",
+      "source_note": "plural given as (-ات)"
     },
     {
       "arabic": "بِلَادٌ",
+      "english": "country",
+      "tag": "noun",
+      "gender": "f",
       "plural": "بُلْدَانٌ",
-      "english": "country (f. s.)"
+      "note": "feminine singular",
+      "image": "images/country-2.svg",
+      "english_book": "country (f. s.)"
     },
     {
-      "arabic": "نَظَرَ (ـُ) فِي",
-      "english": "to look into, consider"
+      "arabic": "نَظَرَ فِي",
+      "english": "to look into, to consider",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "u",
+      "image": "images/look-into.svg",
+      "arabic_book": "نَظَرَ (ـُ) فِي",
+      "english_book": "to look into, consider"
     },
     {
       "arabic": "تَمَكَّنَ مِنْ",
-      "english": "to be able, can (5)"
+      "english": "to be able, can",
+      "tag": "verb",
+      "verb_form": 5,
+      "image": "images/be-able.svg",
+      "english_book": "to be able, can (5)"
     },
     {
       "arabic": "أَنَّ",
-      "english": "that (conjunction)"
+      "english": "that",
+      "tag": "conjunction",
+      "image": "images/that-3.svg",
+      "english_book": "that (conjunction)"
     },
     {
       "arabic": "اِنْتِخَابٌ",
+      "english": "election, electing",
+      "tag": "noun",
       "plural": "اِنْتِخَابَاتٌ",
-      "english": "election, electing (Form 8 verbal noun)",
-      "note": "plural given as (-ات)"
+      "note": "Form 8 verbal noun",
+      "image": "images/election.svg",
+      "english_book": "election, electing (Form 8 verbal noun)",
+      "source_note": "plural given as (-ات)"
     },
     {
       "arabic": "اِنْتَخَبَ",
-      "english": "to elect (8)"
+      "english": "to elect",
+      "tag": "verb",
+      "verb_form": 8,
+      "image": "images/elect.svg",
+      "english_book": "to elect (8)"
     },
     {
       "arabic": "حِزْبٌ",
+      "english": "party",
+      "tag": "noun",
       "plural": "أَحْزَابٌ",
-      "english": "(political) party"
+      "note": "political party",
+      "image": "images/party.svg",
+      "english_book": "(political) party"
     },
     {
       "arabic": "رَئِيسِيٌّ",
-      "english": "principal, main"
+      "english": "principal, main",
+      "tag": "adjective",
+      "image": "images/principal.svg",
+      "english_book": "principal, main"
     },
     {
       "arabic": "مُرَشَّحٌ",
-      "english": "candidate"
+      "english": "candidate",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/candidate.svg",
+      "english_book": "candidate"
     },
     {
       "arabic": "سَ",
-      "english": "prefix to a present tense verb, indicating action in the future"
+      "english": "will",
+      "tag": "prefix",
+      "note": "prefix to a present tense verb, indicating action in the future; english gloss is the closest equivalent",
+      "image": "images/will.svg",
+      "english_book": "prefix to a present tense verb, indicating action in the future"
     },
     {
       "arabic": "شَعْبٌ",
+      "english": "a people, nation",
+      "tag": "noun",
       "plural": "شُعُوبٌ",
-      "english": "a people, nation"
+      "image": "images/people.svg",
+      "english_book": "a people, nation"
     },
     {
       "arabic": "أَحَدٌ",
-      "english": "one, someone (m.)"
+      "english": "one, someone",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/one.svg",
+      "english_book": "one, someone (m.)"
     },
     {
       "arabic": "إِحْدَى",
-      "english": "one, someone (f.)"
+      "english": "one, someone",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/one-2.svg",
+      "english_book": "one, someone (f.)"
     },
     {
-      "arabic": "عَقَدَ (ـِ)",
-      "english": "to hold (a meeting)"
+      "arabic": "عَقَدَ",
+      "english": "to hold",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "i",
+      "note": "to hold (a meeting)",
+      "image": "images/hold.svg",
+      "arabic_book": "عَقَدَ (ـِ)",
+      "english_book": "to hold (a meeting)"
     },
     {
       "arabic": "مُؤْتَمَرٌ",
-      "plural": "مُؤْتَمَرَاتٌ",
       "english": "conference",
-      "note": "plural given as (-ات)"
+      "tag": "noun",
+      "plural": "مُؤْتَمَرَاتٌ",
+      "image": "images/conference.svg",
+      "english_book": "conference",
+      "source_note": "plural given as (-ات)"
     },
     {
       "arabic": "اِعْتَقَدَ",
-      "english": "to believe (8)"
+      "english": "to believe",
+      "tag": "verb",
+      "verb_form": 8,
+      "image": "images/believe.svg",
+      "english_book": "to believe (8)"
     },
     {
       "arabic": "حَدَثٌ",
+      "english": "event",
+      "tag": "noun",
       "plural": "أَحْدَاثٌ",
-      "english": "event"
+      "image": "images/event.svg",
+      "english_book": "event"
     },
     {
       "arabic": "اِسْتَقْبَلَ",
-      "english": "to receive, meet (10)"
+      "english": "to receive, to meet",
+      "tag": "verb",
+      "verb_form": 10,
+      "image": "images/meet.svg",
+      "english_book": "to receive, meet (10)"
     },
     {
       "arabic": "اِهْتِمَامٌ",
-      "english": "concern, interest (Form 8 verbal noun)"
+      "english": "concern, interest",
+      "tag": "noun",
+      "note": "Form 8 verbal noun",
+      "image": "images/concern.svg",
+      "english_book": "concern, interest (Form 8 verbal noun)"
     },
     {
       "arabic": "اِنْصَرَفَ",
-      "english": "to leave, go away (7)"
+      "english": "to leave, to go away",
+      "tag": "verb",
+      "verb_form": 7,
+      "image": "images/leave-2.svg",
+      "english_book": "to leave, go away (7)"
     },
     {
       "arabic": "مُحَاضِرٌ",
-      "english": "lecturer"
+      "english": "lecturer",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/lecturer.svg",
+      "english_book": "lecturer"
     },
     {
       "arabic": "إِعْلَانٌ",
+      "english": "advertisement",
+      "tag": "noun",
       "plural": "إِعْلَانَاتٌ",
-      "english": "advertisement (Form 4 verbal noun)"
+      "note": "Form 4 verbal noun",
+      "image": "images/advertisement.svg",
+      "english_book": "advertisement (Form 4 verbal noun)"
     },
     {
       "arabic": "أُسْبُوعٌ",
-      "plural": "أَسَابِيعُ",
       "english": "week",
-      "diptote": true
+      "tag": "noun",
+      "plural": "أَسَابِيعُ",
+      "diptote": true,
+      "image": "images/week.svg",
+      "english_book": "week"
     },
     {
       "arabic": "قَدَمٌ",
       "english": "foot",
-      "note": "Parts of the body (those which come in pairs are feminine)"
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/foot.svg",
+      "english_book": "foot",
+      "source_note": "Parts of the body (those which come in pairs are feminine)"
     },
     {
       "arabic": "رِجْلٌ",
       "english": "leg",
-      "note": "Parts of the body (those which come in pairs are feminine)"
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/man.svg",
+      "english_book": "leg",
+      "source_note": "Parts of the body (those which come in pairs are feminine)"
     },
     {
       "arabic": "يَدٌ",
       "english": "hand",
-      "note": "Parts of the body (those which come in pairs are feminine)"
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/hand.svg",
+      "english_book": "hand",
+      "source_note": "Parts of the body (those which come in pairs are feminine)"
     },
     {
       "arabic": "ذِرَاعٌ",
       "english": "arm",
-      "note": "Parts of the body (those which come in pairs are feminine)"
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/arm.svg",
+      "english_book": "arm",
+      "source_note": "Parts of the body (those which come in pairs are feminine)"
     },
     {
       "arabic": "أَنْفٌ",
       "english": "nose",
-      "note": "Parts of the body (those which come in pairs are feminine)"
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/nose.svg",
+      "english_book": "nose",
+      "source_note": "Parts of the body (those which come in pairs are feminine)"
     },
     {
       "arabic": "فَمٌ",
       "english": "mouth",
-      "note": "Parts of the body (those which come in pairs are feminine)"
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/mouth.svg",
+      "english_book": "mouth",
+      "source_note": "Parts of the body (those which come in pairs are feminine)"
     },
     {
       "arabic": "أُذُنٌ",
       "english": "ear",
-      "note": "Parts of the body (those which come in pairs are feminine)"
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/ear.svg",
+      "english_book": "ear",
+      "source_note": "Parts of the body (those which come in pairs are feminine)"
     },
     {
       "arabic": "عَيْنٌ",
       "english": "eye",
-      "note": "Parts of the body (those which come in pairs are feminine)"
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/eye.svg",
+      "english_book": "eye",
+      "source_note": "Parts of the body (those which come in pairs are feminine)"
     },
     {
       "arabic": "شَفَةٌ",
       "english": "lip",
-      "note": "Parts of the body (those which come in pairs are feminine)"
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/lip.svg",
+      "english_book": "lip",
+      "source_note": "Parts of the body (those which come in pairs are feminine)"
     }
   ]
 }

@@ -10,115 +10,223 @@
   "words": [
     {
       "arabic": "كَانَ",
-      "english": "to be"
+      "english": "to be",
+      "tag": "verb",
+      "verb_form": 1,
+      "image": "images/be.svg",
+      "english_book": "to be"
     },
     {
       "arabic": "يَوْمٌ",
+      "english": "day",
+      "tag": "noun",
       "plural": "أَيَّامٌ",
-      "english": "day"
+      "image": "images/day.svg",
+      "english_book": "day"
     },
     {
       "arabic": "يَوْمًا",
-      "english": "one day"
+      "english": "one day",
+      "tag": "adverb",
+      "image": "images/one-day.svg",
+      "english_book": "one day"
     },
     {
       "arabic": "مَقْهًى",
+      "english": "coffee house",
+      "tag": "noun",
       "plural": "مَقَاهٍ",
-      "english": "a coffee house"
+      "image": "images/coffee-house.svg",
+      "english_book": "a coffee house"
     },
     {
       "arabic": "اَلْمَقْهَى",
+      "english": "the coffee house",
+      "tag": "noun",
       "plural": "اَلْمَقَاهِي",
-      "english": "the coffee house"
+      "image": "images/coffee-house-2.svg",
+      "english_book": "the coffee house"
     },
     {
       "arabic": "قَالَ",
-      "english": "to say"
+      "english": "to say",
+      "tag": "verb",
+      "verb_form": 1,
+      "image": "images/say.svg",
+      "english_book": "to say"
     },
     {
       "arabic": "قِصَّةٌ",
+      "english": "story",
+      "tag": "noun",
+      "gender": "f",
       "plural": "قِصَصٌ",
-      "english": "story"
+      "image": "images/story.svg",
+      "english_book": "story"
     },
     {
       "arabic": "تَحَدَّثَ",
-      "english": "to converse (5)"
+      "english": "to converse",
+      "tag": "verb",
+      "verb_form": 5,
+      "image": "images/converse.svg",
+      "english_book": "to converse (5)"
     },
     {
       "arabic": "جَهْلٌ",
-      "english": "ignorance"
+      "english": "ignorance",
+      "tag": "noun",
+      "image": "images/ignorance.svg",
+      "english_book": "ignorance"
     },
     {
-      "arabic": "إِذَنْ ، إِذًا",
-      "english": "then, in that case"
+      "arabic": "إِذَنْ",
+      "english": "then, in that case",
+      "tag": "adverb",
+      "variants": [
+        "إِذًا"
+      ],
+      "image": "images/then.svg",
+      "arabic_book": "إِذَنْ ، إِذًا",
+      "english_book": "then, in that case"
     },
     {
       "arabic": "مَعْرِفَةٌ",
-      "english": "knowledge"
+      "english": "knowledge",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/knowledge.svg",
+      "english_book": "knowledge"
     },
     {
-      "arabic": "ضَحِكَ (ـَ)",
-      "english": "to laugh"
+      "arabic": "ضَحِكَ",
+      "english": "to laugh",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "a",
+      "image": "images/laugh.svg",
+      "arabic_book": "ضَحِكَ (ـَ)",
+      "english_book": "to laugh"
     },
     {
       "arabic": "عَارِفٌ",
-      "english": "one who knows"
+      "english": "one who knows",
+      "tag": "noun",
+      "note": "active participle of عَرَفَ",
+      "image": "images/one-who-knows.svg",
+      "english_book": "one who knows"
     },
     {
-      "arabic": "أَخْبَرَ (بِ)",
-      "english": "to inform (of) (4)"
+      "arabic": "أَخْبَرَ",
+      "english": "to inform",
+      "tag": "verb",
+      "verb_form": 4,
+      "governs": "بِ",
+      "note": "to inform (of)",
+      "image": "images/inform.svg",
+      "arabic_book": "أَخْبَرَ (بِ)",
+      "english_book": "to inform (of) (4)"
     },
     {
       "arabic": "جَاهِلٌ",
-      "english": "one who is ignorant"
+      "english": "one who is ignorant",
+      "tag": "noun",
+      "note": "active participle of جَهِلَ",
+      "image": "images/one-who-is-ignorant.svg",
+      "english_book": "one who is ignorant"
     },
     {
-      "arabic": "زَارَ (ـُ)",
-      "english": "to visit"
+      "arabic": "زَارَ",
+      "english": "to visit",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "u",
+      "image": "images/visit-2.svg",
+      "arabic_book": "زَارَ (ـُ)",
+      "english_book": "to visit"
     },
     {
-      "arabic": "جَاءَ (يَجِيءُ)",
+      "arabic": "جَاءَ",
       "english": "to come",
-      "note": "present tense given in brackets"
+      "tag": "verb",
+      "verb_form": 1,
+      "present_tense": "يَجِيءُ",
+      "image": "images/come.svg",
+      "arabic_book": "جَاءَ (يَجِيءُ)",
+      "english_book": "to come",
+      "source_note": "present tense given in brackets"
     },
     {
       "arabic": "عُرْسٌ",
-      "english": "wedding"
+      "english": "wedding",
+      "tag": "noun",
+      "image": "images/wedding.svg",
+      "english_book": "wedding"
     },
     {
       "arabic": "حَفْلَةٌ",
-      "english": "party, celebration"
+      "english": "party, celebration",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/party-2.svg",
+      "english_book": "party, celebration"
     },
     {
       "arabic": "حَفْلَةُ عُرْسٍ",
-      "english": "wedding celebration"
+      "english": "wedding celebration",
+      "tag": "phrase",
+      "image": "images/wedding-celebration.svg",
+      "english_book": "wedding celebration"
     },
     {
       "arabic": "قَرْيَةٌ",
+      "english": "village",
+      "tag": "noun",
+      "gender": "f",
       "plural": "قُرًى",
-      "english": "village"
+      "image": "images/village.svg",
+      "english_book": "village"
     },
     {
       "arabic": "أُرْدُنِّيٌّ",
-      "english": "Jordanian"
+      "english": "Jordanian",
+      "tag": "adjective",
+      "image": "images/jordanian.svg",
+      "english_book": "Jordanian"
     },
     {
       "arabic": "بَيْتٌ",
+      "english": "house",
+      "tag": "noun",
       "plural": "بُيُوتٌ",
-      "english": "house"
+      "image": "images/house.svg",
+      "english_book": "house"
     },
     {
       "arabic": "عَرِيسٌ",
-      "english": "bridegroom"
+      "english": "bridegroom",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/bridegroom.svg",
+      "english_book": "bridegroom"
     },
     {
       "arabic": "عَرُوسٌ",
-      "english": "bride"
+      "english": "bride",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/bride.svg",
+      "english_book": "bride"
     },
     {
       "arabic": "مُدَّةٌ",
+      "english": "period",
+      "tag": "noun",
+      "gender": "f",
       "plural": "مُدَدٌ",
-      "english": "period (of time)"
+      "note": "period (of time)",
+      "image": "images/period.svg",
+      "english_book": "period (of time)"
     }
   ]
 }

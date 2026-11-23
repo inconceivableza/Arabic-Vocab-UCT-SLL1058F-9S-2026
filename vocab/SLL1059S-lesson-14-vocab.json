@@ -11,189 +11,365 @@
   "words": [
     {
       "arabic": "مُذَكِّرَةٌ",
-      "english": "reminder, note, remark"
+      "english": "reminder, note, remark",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/reminder.svg",
+      "english_book": "reminder, note, remark"
     },
     {
       "arabic": "إِنَّ",
-      "english": "intensifying article found at the beginning of a sentence, left untranslated; also used after قَالَ"
+      "english": "indeed",
+      "tag": "particle",
+      "note": "intensifying particle at the beginning of a sentence, usually left untranslated; also used after قَالَ",
+      "image": "images/indeed.svg",
+      "english_book": "intensifying article found at the beginning of a sentence, left untranslated; also used after قَالَ"
     },
     {
       "arabic": "قَائِدٌ",
+      "english": "leader",
+      "tag": "noun",
+      "gender": "m",
       "plural": "قُوَّادٌ",
-      "english": "leader"
+      "image": "images/leader.svg",
+      "english_book": "leader"
     },
     {
       "arabic": "اَلَّذِي",
-      "english": "relative pronoun: m.s."
+      "english": "who, which",
+      "tag": "pronoun",
+      "gender": "m",
+      "note": "relative pronoun, masculine singular",
+      "image": "images/who-2.svg",
+      "english_book": "relative pronoun: m.s."
     },
     {
       "arabic": "اَلَّتِي",
-      "english": "relative pronoun: f.s."
+      "english": "who, which",
+      "tag": "pronoun",
+      "gender": "f",
+      "note": "relative pronoun, feminine singular",
+      "image": "images/who-3.svg",
+      "english_book": "relative pronoun: f.s."
     },
     {
       "arabic": "اَلَّذِينَ",
-      "english": "relative pronoun: m.pl."
+      "english": "who, which",
+      "tag": "pronoun",
+      "gender": "m",
+      "note": "relative pronoun, masculine plural",
+      "image": "images/who-4.svg",
+      "english_book": "relative pronoun: m.pl."
     },
     {
       "arabic": "اَللَّوَاتِي",
-      "english": "relative pronoun: f.pl."
+      "english": "who, which",
+      "tag": "pronoun",
+      "gender": "f",
+      "note": "relative pronoun, feminine plural",
+      "image": "images/who-5.svg",
+      "english_book": "relative pronoun: f.pl."
     },
     {
-      "arabic": "فَتَحَ (ـَ)",
-      "english": "to open, conquer"
+      "arabic": "فَتَحَ",
+      "english": "to open, to conquer",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "a",
+      "image": "images/open.svg",
+      "arabic_book": "فَتَحَ (ـَ)",
+      "english_book": "to open, conquer"
     },
     {
       "arabic": "اَلْأَنْدَلُسُ",
-      "english": "Andalusia (Muslim Spain)"
+      "english": "Andalusia",
+      "tag": "proper noun",
+      "note": "Muslim Spain",
+      "image": "images/andalusia.svg",
+      "english_book": "Andalusia (Muslim Spain)"
     },
     {
       "arabic": "مُفَكِّرٌ",
-      "english": "thinker"
+      "english": "thinker",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/thinker.svg",
+      "english_book": "thinker"
     },
     {
       "arabic": "قَوْمِيَّةٌ",
-      "english": "nationalism"
+      "english": "nationalism",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/nationalism.svg",
+      "english_book": "nationalism"
     },
     {
       "arabic": "فِكْرَةٌ",
-      "english": "thought, idea, concept"
+      "english": "thought, idea, concept",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/thought.svg",
+      "english_book": "thought, idea, concept"
     },
     {
       "arabic": "مَعًا",
-      "english": "together"
+      "english": "together",
+      "tag": "adverb",
+      "image": "images/together.svg",
+      "english_book": "together"
     },
     {
-      "arabic": "جَمَعَ (ـَ)",
-      "english": "to collect"
+      "arabic": "جَمَعَ",
+      "english": "to collect",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "a",
+      "image": "images/collect.svg",
+      "arabic_book": "جَمَعَ (ـَ)",
+      "english_book": "to collect"
     },
     {
       "arabic": "اِعْتَرَفَ بِ",
-      "english": "to recognise, acknowledge (8)"
+      "english": "to recognise, to acknowledge",
+      "tag": "verb",
+      "verb_form": 8,
+      "image": "images/recognise.svg",
+      "english_book": "to recognise, acknowledge (8)"
     },
     {
       "arabic": "فَضْلٌ",
-      "english": "meritorious service"
+      "english": "meritorious service",
+      "tag": "noun",
+      "image": "images/meritorious-service.svg",
+      "english_book": "meritorious service"
     },
     {
       "arabic": "عَجَمٌ",
-      "english": "non-Arabs"
+      "english": "non-Arabs",
+      "tag": "noun",
+      "image": "images/non-arabs.svg",
+      "english_book": "non-Arabs"
     },
     {
       "arabic": "ثَقَافَةٌ",
-      "english": "culture"
+      "english": "culture",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/culture.svg",
+      "english_book": "culture"
     },
     {
       "arabic": "نَهْضَةٌ",
+      "english": "awakening, renaissance, movement",
+      "tag": "noun",
+      "gender": "f",
       "plural": "نَهَضَاتٌ",
-      "english": "awakening (esp. national), renaissance, (spiritual) movement"
+      "note": "esp. national awakening; (spiritual) movement",
+      "image": "images/awakening.svg",
+      "english_book": "awakening (esp. national), renaissance, (spiritual) movement"
     },
     {
       "arabic": "أَدِيبٌ",
-      "plural": "أُدَبَاءُ",
       "english": "man of letters",
-      "diptote": true
+      "tag": "noun",
+      "gender": "m",
+      "plural": "أُدَبَاءُ",
+      "diptote": true,
+      "image": "images/man-of-letters.svg",
+      "english_book": "man of letters"
     },
     {
       "arabic": "نِسَائِيٌّ",
-      "english": "feminist, women's"
+      "english": "feminist, women's",
+      "tag": "adjective",
+      "image": "images/feminist.svg",
+      "english_book": "feminist, women's"
     },
     {
       "arabic": "أَدَبٌ",
-      "english": "literature"
+      "english": "literature",
+      "tag": "noun",
+      "image": "images/literature.svg",
+      "english_book": "literature"
     },
     {
       "arabic": "مَا",
-      "english": "negative particle before perfect verb"
+      "english": "not",
+      "tag": "particle",
+      "note": "negative particle before a perfect (past tense) verb",
+      "image": "images/not.svg",
+      "english_book": "negative particle before perfect verb"
     },
     {
       "arabic": "أَلَّفَ",
-      "english": "to compose, write, compile (2)"
+      "english": "to compose, to write, to compile",
+      "tag": "verb",
+      "verb_form": 2,
+      "image": "images/compose.svg",
+      "english_book": "to compose, write, compile (2)"
     },
     {
       "arabic": "قَرْنٌ",
+      "english": "century",
+      "tag": "noun",
       "plural": "قُرُونٌ",
-      "english": "century"
+      "image": "images/century.svg",
+      "english_book": "century"
     },
     {
       "arabic": "هِجْرِيٌّ",
-      "english": "of the Hegira; in the Muslim era (which began in 622 AD); AH"
+      "english": "of the Hegira, AH",
+      "tag": "adjective",
+      "note": "in the Muslim era (which began in 622 AD)",
+      "image": "images/of-the-hegira.svg",
+      "english_book": "of the Hegira; in the Muslim era (which began in 622 AD); AH"
     },
     {
       "arabic": "تَمَّ",
-      "english": "to be completed, accomplished"
+      "english": "to be completed, to be accomplished",
+      "tag": "verb",
+      "verb_form": 1,
+      "image": "images/be-completed.svg",
+      "english_book": "to be completed, accomplished"
     },
     {
       "arabic": "تَأْلِيفٌ",
-      "english": "composing, composition, compilation (Form 2 verbal noun)"
+      "english": "composing, composition, compilation",
+      "tag": "noun",
+      "note": "Form 2 verbal noun",
+      "image": "images/composing.svg",
+      "english_book": "composing, composition, compilation (Form 2 verbal noun)"
     },
     {
       "arabic": "اِسْتَطَاعَ",
-      "english": "(with أَنْ plus subjunctive) to be able, can (10)"
+      "english": "to be able, can",
+      "tag": "verb",
+      "verb_form": 10,
+      "note": "with أَنْ plus subjunctive",
+      "image": "images/be-able-2.svg",
+      "english_book": "(with أَنْ plus subjunctive) to be able, can (10)"
     },
     {
       "arabic": "مُؤَلِّفٌ",
+      "english": "composer, author",
+      "tag": "noun",
+      "gender": "m",
       "plural": "مُؤَلِّفُونَ",
-      "english": "composer, author"
+      "image": "images/composer.svg",
+      "english_book": "composer, author"
     },
     {
-      "arabic": "مُغَنٍّ (اَلْمُغَنِّي)",
-      "plural": "مُغَنُّونَ",
+      "arabic": "مُغَنٍّ",
       "english": "singer",
-      "note": "definite form given in brackets"
+      "tag": "noun",
+      "gender": "m",
+      "definite": "اَلْمُغَنِّي",
+      "plural": "مُغَنُّونَ",
+      "image": "images/singer.svg",
+      "arabic_book": "مُغَنٍّ (اَلْمُغَنِّي)",
+      "english_book": "singer",
+      "source_note": "definite form given in brackets"
     },
     {
       "arabic": "قَدِيمٌ",
-      "plural": "قُدَمَاءُ",
       "english": "old, ancient",
-      "diptote": true
+      "tag": "adjective",
+      "plural": "قُدَمَاءُ",
+      "diptote": true,
+      "image": "images/old.svg",
+      "english_book": "old, ancient"
     },
     {
       "arabic": "مُعَاصِرٌ",
-      "english": "contemporary"
+      "english": "contemporary",
+      "tag": "adjective",
+      "image": "images/contemporary.svg",
+      "english_book": "contemporary"
     },
     {
       "arabic": "عَدَّ",
-      "english": "(with two acc.) to count, consider sth. as"
+      "english": "to count, to consider",
+      "tag": "verb",
+      "verb_form": 1,
+      "note": "with two accusatives: to count/consider something as",
+      "image": "images/count.svg",
+      "english_book": "(with two acc.) to count, consider sth. as"
     },
     {
       "arabic": "مَصْدَرٌ",
-      "plural": "مَصَادِرُ",
       "english": "source",
-      "diptote": true
+      "tag": "noun",
+      "plural": "مَصَادِرُ",
+      "diptote": true,
+      "image": "images/source-2.svg",
+      "english_book": "source"
     },
     {
       "arabic": "وَدَّ",
-      "english": "(with أَنْ plus subjunctive or with verbal noun) to wish, want (to do sth)"
+      "english": "to wish, to want",
+      "tag": "verb",
+      "verb_form": 1,
+      "note": "with أَنْ plus subjunctive, or with a verbal noun: to wish, want (to do something)",
+      "image": "images/wish.svg",
+      "english_book": "(with أَنْ plus subjunctive or with verbal noun) to wish, want (to do sth)"
     },
     {
       "arabic": "بَاحِثٌ",
-      "english": "researcher"
+      "english": "researcher",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/researcher.svg",
+      "english_book": "researcher"
     },
     {
       "arabic": "مَجْهُولٌ",
-      "english": "unknown"
+      "english": "unknown",
+      "tag": "adjective",
+      "image": "images/unknown.svg",
+      "english_book": "unknown"
     },
     {
       "arabic": "فَارِسُ",
-      "english": "Persia"
+      "english": "Persia",
+      "tag": "proper noun",
+      "image": "images/persia.svg",
+      "english_book": "Persia"
     },
     {
       "arabic": "فَارِسِيٌّ",
-      "english": "Persian"
+      "english": "Persian",
+      "tag": "adjective",
+      "image": "images/persian.svg",
+      "english_book": "Persian"
     },
     {
-      "arabic": "تَرْجَمَ (ـِ)",
-      "english": "to translate (quadrilateral verb - in imperfect, vocalised as Form 2 triliteral)"
+      "arabic": "تَرْجَمَ",
+      "english": "to translate",
+      "tag": "verb",
+      "present_vowel": "i",
+      "note": "quadrilateral verb; in the imperfect vocalised like a Form 2 triliteral",
+      "image": "images/translate.svg",
+      "arabic_book": "تَرْجَمَ (ـِ)",
+      "english_book": "to translate (quadrilateral verb - in imperfect, vocalised as Form 2 triliteral)"
     },
     {
       "arabic": "تَرْجَمَةٌ",
-      "plural": "تَرَاجِمُ",
       "english": "translation",
-      "diptote": true
+      "tag": "noun",
+      "gender": "f",
+      "plural": "تَرَاجِمُ",
+      "diptote": true,
+      "image": "images/translation.svg",
+      "english_book": "translation"
     },
     {
       "arabic": "مُؤَرِّخٌ",
-      "english": "historian"
+      "english": "historian",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/historian.svg",
+      "english_book": "historian"
     }
   ]
 }

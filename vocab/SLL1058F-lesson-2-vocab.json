@@ -10,112 +10,215 @@
   "words": [
     {
       "arabic": "هٰذَا",
-      "english": "this (m.)"
+      "english": "this",
+      "tag": "demonstrative",
+      "gender": "m",
+      "image": "images/this.svg",
+      "english_book": "this (m.)"
     },
     {
       "arabic": "هٰذِهِ",
-      "english": "this (f.)"
+      "english": "this",
+      "tag": "demonstrative",
+      "gender": "f",
+      "image": "images/this-2.svg",
+      "english_book": "this (f.)"
     },
     {
       "arabic": "طَالِبٌ",
-      "english": "student (m.)"
+      "english": "student",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/student.svg",
+      "english_book": "student (m.)"
     },
     {
       "arabic": "طَالِبَةٌ",
-      "english": "student (f.)"
+      "english": "student",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/student-2.svg",
+      "english_book": "student (f.)"
     },
     {
       "arabic": "بَيْرُوتُ",
       "english": "Beirut",
-      "diptote": true
+      "tag": "proper noun",
+      "diptote": true,
+      "note": "city",
+      "image": "images/beirut.svg",
+      "english_book": "Beirut"
     },
     {
       "arabic": "سُوزَانُ",
       "english": "Suzanne",
-      "diptote": true
+      "tag": "proper noun",
+      "gender": "f",
+      "diptote": true,
+      "note": "female name",
+      "image": "images/suzanne.svg",
+      "english_book": "Suzanne"
     },
     {
       "arabic": "بَارِيسُ",
       "english": "Paris",
-      "diptote": true
+      "tag": "proper noun",
+      "diptote": true,
+      "note": "city",
+      "image": "images/paris.svg",
+      "english_book": "Paris"
     },
     {
       "arabic": "مُدَرِّسٌ",
-      "english": "teacher (m.)"
+      "english": "teacher",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/teacher.svg",
+      "english_book": "teacher (m.)"
     },
     {
       "arabic": "مُدَرِّسَةٌ",
-      "english": "teacher (f.)"
+      "english": "teacher",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/teacher-2.svg",
+      "english_book": "teacher (f.)"
     },
     {
       "arabic": "مَدْرَسَةٌ",
-      "english": "school"
+      "english": "school",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/school.svg",
+      "english_book": "school"
     },
     {
       "arabic": "صَفٌّ",
-      "english": "class"
+      "english": "class",
+      "tag": "noun",
+      "image": "images/class.svg",
+      "english_book": "class"
     },
     {
       "arabic": "ذٰلِكَ",
-      "english": "that (m.)"
+      "english": "that",
+      "tag": "demonstrative",
+      "gender": "m",
+      "image": "images/that.svg",
+      "english_book": "that (m.)"
     },
     {
       "arabic": "تِلْكَ",
-      "english": "that (f.)"
+      "english": "that",
+      "tag": "demonstrative",
+      "gender": "f",
+      "image": "images/that-2.svg",
+      "english_book": "that (f.)"
     },
     {
       "arabic": "مُدِيرٌ",
-      "english": "director, boss (m.)"
+      "english": "director, boss",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/director.svg",
+      "english_book": "director, boss (m.)"
     },
     {
       "arabic": "مُدِيرَةٌ",
-      "english": "director, boss (f.)"
+      "english": "director, boss",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/director-2.svg",
+      "english_book": "director, boss (f.)"
     },
     {
       "arabic": "هُنَا",
-      "english": "here"
+      "english": "here",
+      "tag": "adverb",
+      "image": "images/here.svg",
+      "english_book": "here"
     },
     {
       "arabic": "هِنْدُ",
-      "english": "Hind (female name)",
-      "diptote": true
+      "english": "Hind",
+      "tag": "proper noun",
+      "gender": "f",
+      "diptote": true,
+      "note": "female name",
+      "image": "images/hind.svg",
+      "english_book": "Hind (female name)"
     },
     {
       "arabic": "سَيِّدٌ",
-      "english": "Mr."
+      "english": "Mr",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/mr.svg",
+      "english_book": "Mr."
     },
     {
       "arabic": "نَجِيبُ",
-      "english": "Najīb (male name)",
-      "diptote": true
+      "english": "Najib",
+      "tag": "proper noun",
+      "gender": "m",
+      "diptote": true,
+      "note": "male name",
+      "image": "images/najib.svg",
+      "english_book": "Najīb (male name)"
     },
     {
       "arabic": "اَلْقَاهِرَةُ",
-      "english": "Cairo"
+      "english": "Cairo",
+      "tag": "proper noun",
+      "note": "city",
+      "image": "images/cairo.svg",
+      "english_book": "Cairo"
     },
     {
       "arabic": "سِكْرِتِيرَةٌ",
-      "english": "secretary"
+      "english": "secretary",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/secretary.svg",
+      "english_book": "secretary"
     },
     {
       "arabic": "آنِسَةٌ",
-      "english": "Miss; unmarried woman"
+      "english": "Miss, unmarried woman",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/miss.svg",
+      "english_book": "Miss; unmarried woman"
     },
     {
       "arabic": "اَلْخَرْطُومُ",
-      "english": "Khartoum"
+      "english": "Khartoum",
+      "tag": "proper noun",
+      "note": "city",
+      "image": "images/khartoum.svg",
+      "english_book": "Khartoum"
     },
     {
       "arabic": "فِي",
-      "english": "in"
+      "english": "in",
+      "tag": "preposition",
+      "image": "images/in.svg",
+      "english_book": "in"
     },
     {
       "arabic": "اَلسُّودَانُ",
-      "english": "Sudan"
+      "english": "Sudan",
+      "tag": "proper noun",
+      "note": "country",
+      "image": "images/sudan.svg",
+      "english_book": "Sudan"
     },
     {
       "arabic": "مَكْتَبٌ",
-      "english": "office"
+      "english": "office",
+      "tag": "noun",
+      "image": "images/office.svg",
+      "english_book": "office"
     }
   ]
 }

@@ -11,189 +11,350 @@
   "words": [
     {
       "arabic": "مُوجَزٌ",
-      "english": "summary, resume"
+      "english": "summary, resume",
+      "tag": "noun",
+      "image": "images/summary.svg",
+      "english_book": "summary, resume"
     },
     {
-      "arabic": "نَقَلَ (إِلَى) (ـُ)",
-      "english": "transmit/transport (to)"
+      "arabic": "نَقَلَ",
+      "english": "to transmit, to transport",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "u",
+      "governs": "إِلَى",
+      "image": "images/transmit.svg",
+      "arabic_book": "نَقَلَ (إِلَى) (ـُ)",
+      "english_book": "transmit/transport (to)"
     },
     {
       "arabic": "رَئِيسٌ",
-      "plural": "رُؤَسَاءُ",
       "english": "president",
-      "diptote": true
+      "tag": "noun",
+      "gender": "m",
+      "plural": "رُؤَسَاءُ",
+      "diptote": true,
+      "image": "images/president.svg",
+      "english_book": "president"
     },
     {
       "arabic": "دَوْلَةٌ",
+      "english": "nation, state",
+      "tag": "noun",
+      "gender": "f",
       "plural": "دُوَلٌ",
-      "english": "nation, state"
+      "image": "images/nation.svg",
+      "english_book": "nation, state"
     },
     {
-      "arabic": "بَحَثَ (ـَ)",
-      "english": "to discuss"
+      "arabic": "بَحَثَ",
+      "english": "to discuss",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "a",
+      "image": "images/discuss.svg",
+      "arabic_book": "بَحَثَ (ـَ)",
+      "english_book": "to discuss"
     },
     {
       "arabic": "وَضْعٌ",
-      "english": "state, condition",
-      "note": "handwritten gloss: situation"
+      "english": "state, condition, situation",
+      "tag": "noun",
+      "image": "images/state.svg",
+      "english_book": "state, condition",
+      "source_note": "handwritten gloss: situation"
     },
     {
       "arabic": "سِيَاسِيٌّ",
-      "english": "political"
+      "english": "political",
+      "tag": "adjective",
+      "image": "images/political.svg",
+      "english_book": "political"
     },
     {
       "arabic": "حَاضِرٌ",
-      "english": "current, present"
+      "english": "current, present",
+      "tag": "adjective",
+      "image": "images/current.svg",
+      "english_book": "current, present"
     },
     {
       "arabic": "عَالَمٌ",
-      "english": "world"
+      "english": "world",
+      "tag": "noun",
+      "image": "images/world.svg",
+      "english_book": "world"
     },
     {
       "arabic": "مُرَاسِلٌ",
+      "english": "reporter",
+      "tag": "noun",
+      "gender": "m",
       "plural": "مُرَاسِلُونَ",
-      "english": "reporter"
+      "image": "images/reporter.svg",
+      "english_book": "reporter"
     },
     {
       "arabic": "أَجْنَبِيٌّ",
+      "english": "foreigner, foreign",
+      "tag": "noun",
       "plural": "أَجَانِبُ",
-      "english": "foreigner; foreign (adj.)",
-      "diptote": true
+      "diptote": true,
+      "note": "also adjective: foreign",
+      "image": "images/foreigner.svg",
+      "english_book": "foreigner; foreign (adj.)"
     },
     {
       "arabic": "بَلَدٌ",
+      "english": "country",
+      "tag": "noun",
       "plural": "بِلَادٌ",
-      "english": "country"
+      "image": "images/country.svg",
+      "english_book": "country"
     },
     {
       "arabic": "وَزِيرٌ",
-      "plural": "وُزَرَاءُ",
       "english": "minister",
-      "diptote": true
+      "tag": "noun",
+      "gender": "m",
+      "plural": "وُزَرَاءُ",
+      "diptote": true,
+      "image": "images/minister.svg",
+      "english_book": "minister"
     },
     {
-      "arabic": "نَشَرَ (ـُ)",
-      "english": "to publish"
+      "arabic": "نَشَرَ",
+      "english": "to publish",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "u",
+      "image": "images/publish.svg",
+      "arabic_book": "نَشَرَ (ـُ)",
+      "english_book": "to publish"
     },
     {
       "arabic": "اِسْمٌ",
+      "english": "name",
+      "tag": "noun",
       "plural": "أَسْمَاءٌ",
-      "english": "name"
+      "image": "images/name.svg",
+      "english_book": "name"
     },
     {
-      "arabic": "سَمِعَ (ـَ)",
-      "english": "to hear"
+      "arabic": "سَمِعَ",
+      "english": "to hear",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "a",
+      "image": "images/hear.svg",
+      "arabic_book": "سَمِعَ (ـَ)",
+      "english_book": "to hear"
     },
     {
       "arabic": "تَفْصِيلٌ",
-      "plural": "تَفَاصِيلُ",
       "english": "detail",
-      "diptote": true
+      "tag": "noun",
+      "plural": "تَفَاصِيلُ",
+      "diptote": true,
+      "image": "images/detail.svg",
+      "english_book": "detail"
     },
     {
       "arabic": "اِمْتِحَانٌ",
+      "english": "exam",
+      "tag": "noun",
       "plural": "اِمْتِحَانَاتٌ",
-      "english": "exam"
+      "image": "images/exam.svg",
+      "english_book": "exam"
     },
     {
-      "arabic": "مُسْتَعِدٌّ (لِ)",
-      "english": "ready for"
+      "arabic": "مُسْتَعِدٌّ",
+      "english": "ready",
+      "tag": "adjective",
+      "governs": "لِ",
+      "note": "ready for",
+      "image": "images/ready.svg",
+      "arabic_book": "مُسْتَعِدٌّ (لِ)",
+      "english_book": "ready for"
     },
     {
       "arabic": "اَلْيَوْمَ",
-      "english": "today"
+      "english": "today",
+      "tag": "adverb",
+      "image": "images/today.svg",
+      "english_book": "today"
     },
     {
       "arabic": "جُمْلَةٌ",
+      "english": "sentence",
+      "tag": "noun",
+      "gender": "f",
       "plural": "جُمَلٌ",
-      "english": "sentence"
+      "image": "images/sentence.svg",
+      "english_book": "sentence"
     },
     {
       "arabic": "دَرْسٌ",
+      "english": "lesson",
+      "tag": "noun",
       "plural": "دُرُوسٌ",
-      "english": "lesson"
+      "image": "images/lesson.svg",
+      "english_book": "lesson"
     },
     {
       "arabic": "أَخِيرٌ",
-      "english": "final, last"
+      "english": "final, last",
+      "tag": "adjective",
+      "image": "images/final.svg",
+      "english_book": "final, last"
     },
     {
       "arabic": "مُعْظَمُ",
-      "english": "most (of)"
+      "english": "most",
+      "tag": "noun",
+      "note": "most of",
+      "image": "images/most.svg",
+      "english_book": "most (of)"
     },
     {
       "arabic": "غَدًا",
-      "english": "tomorrow"
+      "english": "tomorrow",
+      "tag": "adverb",
+      "image": "images/tomorrow.svg",
+      "english_book": "tomorrow"
     },
     {
       "arabic": "قَوَاعِدُ",
-      "english": "rules (of grammar)",
-      "diptote": true
+      "english": "rules",
+      "tag": "noun",
+      "diptote": true,
+      "note": "rules (of grammar); plural of قَاعِدَةٌ",
+      "image": "images/rules.svg",
+      "english_book": "rules (of grammar)"
     },
     {
       "arabic": "صَبَاحًا",
-      "english": "in the morning"
+      "english": "in the morning",
+      "tag": "adverb",
+      "image": "images/in-the-morning.svg",
+      "english_book": "in the morning"
     },
     {
       "arabic": "ظُهْرٌ",
-      "english": "noon"
+      "english": "noon",
+      "tag": "noun",
+      "image": "images/noon.svg",
+      "english_book": "noon"
     },
     {
       "arabic": "بَعْدَ الظُّهْرِ",
-      "english": "in the afternoon"
+      "english": "in the afternoon",
+      "tag": "phrase",
+      "image": "images/in-the-afternoon.svg",
+      "english_book": "in the afternoon"
     },
     {
       "arabic": "جَدْوَلٌ",
-      "english": "timetable"
+      "english": "timetable",
+      "tag": "noun",
+      "image": "images/timetable.svg",
+      "english_book": "timetable"
     },
     {
       "arabic": "آخَرُ",
-      "english": "other (m. sing.)",
-      "diptote": true
+      "english": "other",
+      "tag": "adjective",
+      "gender": "m",
+      "diptote": true,
+      "image": "images/other.svg",
+      "english_book": "other (m. sing.)"
     },
     {
       "arabic": "أُخْرَى",
-      "english": "other (f. sing.)"
+      "english": "other",
+      "tag": "adjective",
+      "gender": "f",
+      "image": "images/other-2.svg",
+      "english_book": "other (f. sing.)"
     },
     {
       "arabic": "ثُمَّ",
-      "english": "then, moreover, and then"
+      "english": "then, moreover, and then",
+      "tag": "conjunction",
+      "image": "images/and-then.svg",
+      "english_book": "then, moreover, and then"
     },
     {
       "arabic": "مَسْؤُولٌ",
-      "english": "responsible, official (noun)"
+      "english": "responsible, official",
+      "tag": "noun",
+      "gender": "m",
+      "note": "also adjective: responsible",
+      "image": "images/responsible.svg",
+      "english_book": "responsible, official (noun)"
     },
     {
-      "arabic": "قَرَأَ (ـَ)",
+      "arabic": "قَرَأَ",
       "english": "to read",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "a",
+      "image": "images/read.svg",
+      "arabic_book": "قَرَأَ (ـَ)",
+      "english_book": "to read",
       "handwritten": true
     },
     {
-      "arabic": "تَأْثِيرٌ (فِي أَو عَلَى)",
-      "english": "influence (on)"
+      "arabic": "تَأْثِيرٌ",
+      "english": "influence",
+      "tag": "noun",
+      "governs": "فِي أَوْ عَلَى",
+      "note": "influence (on)",
+      "image": "images/influence.svg",
+      "arabic_book": "تَأْثِيرٌ (فِي أَو عَلَى)",
+      "english_book": "influence (on)"
     },
     {
       "arabic": "سَلَامٌ",
-      "english": "peace"
+      "english": "peace",
+      "tag": "noun",
+      "image": "images/peace.svg",
+      "english_book": "peace"
     },
     {
       "arabic": "جَدِيدٌ",
+      "english": "new",
+      "tag": "adjective",
       "plural": "جُدُدٌ",
-      "english": "new"
+      "image": "images/new.svg",
+      "english_book": "new"
     },
     {
-      "arabic": "شَمِلَ (ـَ)",
-      "english": "to contain",
-      "note": "handwritten gloss: include"
+      "arabic": "شَمِلَ",
+      "english": "to contain, to include",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "a",
+      "image": "images/contain.svg",
+      "arabic_book": "شَمِلَ (ـَ)",
+      "english_book": "to contain",
+      "source_note": "handwritten gloss: include"
     },
     {
       "arabic": "مُحَاضَرَةٌ",
-      "english": "lecture"
+      "english": "lecture",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/lecture.svg",
+      "english_book": "lecture"
     },
     {
       "arabic": "خَبَرٌ",
+      "english": "news",
+      "tag": "noun",
       "plural": "أَخْبَارٌ",
-      "english": "news"
+      "image": "images/news.svg",
+      "english_book": "news"
     }
   ]
 }

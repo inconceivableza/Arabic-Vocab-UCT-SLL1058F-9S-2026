@@ -11,206 +11,368 @@
   "words": [
     {
       "arabic": "أَهْلٌ",
+      "english": "people",
+      "tag": "noun",
       "plural": "أَهَالٍ",
-      "english": "people (m. pl.)"
+      "note": "masculine plural in meaning: people, family",
+      "image": "images/people-2.svg",
+      "english_book": "people (m. pl.)"
     },
     {
-      "arabic": "قَبْلَ (+ أَنْ)",
-      "english": "before"
+      "arabic": "قَبْلَ",
+      "english": "before",
+      "tag": "preposition",
+      "governs": "أَنْ",
+      "note": "with أَنْ before a verb",
+      "image": "images/before.svg",
+      "arabic_book": "قَبْلَ (+ أَنْ)",
+      "english_book": "before"
     },
     {
-      "arabic": "بَعْدَ (+ أَنْ)",
-      "english": "after"
+      "arabic": "بَعْدَ",
+      "english": "after",
+      "tag": "preposition",
+      "governs": "أَنْ",
+      "note": "with أَنْ before a verb",
+      "image": "images/after.svg",
+      "arabic_book": "بَعْدَ (+ أَنْ)",
+      "english_book": "after"
     },
     {
       "arabic": "حَضَارَةٌ",
-      "english": "civilisation, culture"
+      "english": "civilisation, culture",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/civilisation.svg",
+      "english_book": "civilisation, culture"
     },
     {
       "arabic": "مَظْهَرٌ",
-      "plural": "مَظَاهِرُ",
       "english": "manifestation",
-      "diptote": true
+      "tag": "noun",
+      "plural": "مَظَاهِرُ",
+      "diptote": true,
+      "image": "images/manifestation.svg",
+      "english_book": "manifestation"
     },
     {
       "arabic": "نَبَطٌ",
+      "english": "Nabataeans",
+      "tag": "proper noun",
       "plural": "أَنْبَاطٌ",
-      "english": "Nabatean (an ancient Near Eastern people)"
+      "note": "an ancient Near Eastern people",
+      "image": "images/nabataeans.svg",
+      "english_book": "Nabatean (an ancient Near Eastern people)"
     },
     {
       "arabic": "تَدْمُرُ",
-      "english": "Palmyra"
+      "english": "Palmyra",
+      "tag": "proper noun",
+      "note": "ancient city in Syria",
+      "image": "images/palmyra.svg",
+      "english_book": "Palmyra"
     },
     {
       "arabic": "عَاصِمَةٌ",
-      "plural": "عَوَاصِمُ",
       "english": "capital",
-      "diptote": true
+      "tag": "noun",
+      "gender": "f",
+      "plural": "عَوَاصِمُ",
+      "diptote": true,
+      "image": "images/capital.svg",
+      "english_book": "capital"
     },
     {
       "arabic": "أَحَاطَ بِ",
-      "english": "to surround (4)"
+      "english": "to surround",
+      "tag": "verb",
+      "verb_form": 4,
+      "image": "images/surround.svg",
+      "english_book": "to surround (4)"
     },
     {
       "arabic": "جَبَلٌ",
+      "english": "mountain",
+      "tag": "noun",
       "plural": "جِبَالٌ",
-      "english": "mountain"
+      "image": "images/mountain.svg",
+      "english_book": "mountain"
     },
     {
-      "arabic": "بَنَى (يَبْنِي)",
+      "arabic": "بَنَى",
       "english": "to build",
-      "note": "present tense given in brackets"
+      "tag": "verb",
+      "verb_form": 1,
+      "present_tense": "يَبْنِي",
+      "image": "images/build.svg",
+      "arabic_book": "بَنَى (يَبْنِي)",
+      "english_book": "to build",
+      "source_note": "present tense given in brackets"
     },
     {
       "arabic": "قَبْلَ الْمِيلَادِ",
-      "english": "B.C."
+      "english": "BC",
+      "tag": "phrase",
+      "image": "images/bc.svg",
+      "english_book": "B.C."
     },
     {
-      "arabic": "دَخَلَ (ـُ)",
-      "english": "to enter"
+      "arabic": "دَخَلَ",
+      "english": "to enter",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "u",
+      "image": "images/enter.svg",
+      "arabic_book": "دَخَلَ (ـُ)",
+      "english_book": "to enter"
     },
     {
       "arabic": "هَيْكَلٌ",
-      "plural": "هَيَاكِلُ",
       "english": "temple",
-      "diptote": true
+      "tag": "noun",
+      "plural": "هَيَاكِلُ",
+      "diptote": true,
+      "image": "images/temple.svg",
+      "english_book": "temple"
     },
     {
       "arabic": "قَصْرٌ",
+      "english": "castle, palace, fort",
+      "tag": "noun",
       "plural": "قُصُورٌ",
-      "english": "castle, palace, fort"
+      "image": "images/castle.svg",
+      "english_book": "castle, palace, fort"
     },
     {
       "arabic": "مُدَرَّجٌ",
-      "plural": "مُدَرَّجَاتٌ",
       "english": "stairway",
-      "note": "plural given as (-ات)"
+      "tag": "noun",
+      "plural": "مُدَرَّجَاتٌ",
+      "image": "images/stairway.svg",
+      "english_book": "stairway",
+      "source_note": "plural given as (-ات)"
     },
     {
       "arabic": "مَنْحُوتٌ",
-      "english": "carved, hewn"
+      "english": "carved, hewn",
+      "tag": "adjective",
+      "image": "images/carved.svg",
+      "english_book": "carved, hewn"
     },
     {
       "arabic": "صَخْرٌ",
-      "english": "rock, stone"
+      "english": "rock, stone",
+      "tag": "noun",
+      "image": "images/rock.svg",
+      "english_book": "rock, stone"
     },
     {
-      "arabic": "قَضَى (يَقْضِي)",
-      "english": "to spend (time)",
-      "note": "present tense given in brackets"
+      "arabic": "قَضَى",
+      "english": "to spend",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_tense": "يَقْضِي",
+      "note": "to spend (time)",
+      "image": "images/spend.svg",
+      "arabic_book": "قَضَى (يَقْضِي)",
+      "english_book": "to spend (time)",
+      "source_note": "present tense given in brackets"
     },
     {
       "arabic": "بَيْنَ",
-      "english": "between, among"
+      "english": "between, among",
+      "tag": "preposition",
+      "image": "images/between.svg",
+      "english_book": "between, among"
     },
     {
       "arabic": "فُنْدُقٌ",
-      "plural": "فَنَادِقُ",
       "english": "hotel",
-      "diptote": true
+      "tag": "noun",
+      "plural": "فَنَادِقُ",
+      "diptote": true,
+      "image": "images/hotel.svg",
+      "english_book": "hotel"
     },
     {
-      "arabic": "حَضَرَ (ـُ)",
-      "english": "to attend, be present"
+      "arabic": "حَضَرَ",
+      "english": "to attend, to be present",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "u",
+      "image": "images/attend.svg",
+      "arabic_book": "حَضَرَ (ـُ)",
+      "english_book": "to attend, be present"
     },
     {
       "arabic": "شَارِعٌ",
-      "plural": "شَوَارِعُ",
       "english": "street",
-      "diptote": true
+      "tag": "noun",
+      "plural": "شَوَارِعُ",
+      "diptote": true,
+      "image": "images/street.svg",
+      "english_book": "street"
     },
     {
       "arabic": "طَبْعَةٌ",
       "english": "edition",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/edition.svg",
+      "english_book": "edition",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "قَامُوسٌ",
       "english": "dictionary",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "noun",
+      "image": "images/dictionary.svg",
+      "english_book": "dictionary",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "اِحْتِرَامٌ",
       "english": "respect",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "noun",
+      "image": "images/respect.svg",
+      "english_book": "respect",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "مُحْتَرَمٌ",
       "english": "respected",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "adjective",
+      "image": "images/respected.svg",
+      "english_book": "respected",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "نَشْرَةٌ",
       "english": "periodical, newsletter",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/periodical.svg",
+      "english_book": "periodical, newsletter",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "صُدُورٌ",
       "english": "publication, appearance",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "noun",
+      "image": "images/publication.svg",
+      "english_book": "publication, appearance",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "تَمَكَّنَ",
       "english": "to be able",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "verb",
+      "verb_form": 5,
+      "image": "images/be-able-3.svg",
+      "english_book": "to be able",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
-      "arabic": "آب",
+      "arabic": "آبُ",
       "english": "August",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "noun",
+      "note": "month name (Levant)",
+      "image": "images/august.svg",
+      "arabic_book": "آب",
+      "english_book": "August",
+      "spelling_note": "printed without case ending (آب); standard آبُ",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "حَضْرَةٌ",
       "english": "presence",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "noun",
+      "gender": "f",
+      "note": "used as an honorific in letters",
+      "image": "images/presence.svg",
+      "english_book": "presence",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "تَحِيَّةٌ",
-      "english": "greeting(s)",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "english": "greeting, greetings",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/greeting.svg",
+      "english_book": "greeting(s)",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "مُشْكِلَةٌ",
-      "plural": "مَشَاكِلُ",
       "english": "problem",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "noun",
+      "gender": "f",
+      "plural": "مَشَاكِلُ",
+      "image": "images/problem.svg",
+      "english_book": "problem",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "مَكْتَبَةٌ",
       "english": "bookshop, publishing house",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/library.svg",
+      "english_book": "bookshop, publishing house",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "لِذٰلِكَ",
       "english": "therefore, for that reason",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "adverb",
+      "image": "images/therefore.svg",
+      "english_book": "therefore, for that reason",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "أَرْسَلَ",
       "english": "to send",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "verb",
+      "verb_form": 4,
+      "image": "images/send.svg",
+      "english_book": "to send",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "شِيكٌ",
       "english": "cheque",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "noun",
+      "image": "images/cheque.svg",
+      "english_book": "cheque",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "ثَمَنٌ",
-      "plural": "أَثْمَانٌ",
       "english": "price",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "noun",
+      "plural": "أَثْمَانٌ",
+      "image": "images/price.svg",
+      "english_book": "price",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "دَقِيقَةٌ",
-      "plural": "دَقَائِقُ",
       "english": "minute",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "noun",
+      "gender": "f",
+      "plural": "دَقَائِقُ",
+      "image": "images/minute.svg",
+      "english_book": "minute",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     },
     {
       "arabic": "اَلْإِسْكَنْدَرِيَّةُ",
       "english": "Alexandria",
-      "note": "from the supplementary list on the following page (book p. 231)"
+      "tag": "proper noun",
+      "note": "city",
+      "image": "images/alexandria.svg",
+      "english_book": "Alexandria",
+      "source_note": "from the supplementary list on the following page (book p. 231)"
     }
   ]
 }

@@ -11,183 +11,348 @@
   "words": [
     {
       "arabic": "أَمْسِ",
-      "english": "yesterday"
+      "english": "yesterday",
+      "tag": "adverb",
+      "image": "images/yesterday.svg",
+      "english_book": "yesterday"
     },
     {
       "arabic": "لِ",
-      "english": "for, for the purpose of"
+      "english": "for, for the purpose of",
+      "tag": "prefix",
+      "note": "prefixed preposition",
+      "image": "images/for.svg",
+      "english_book": "for, for the purpose of"
     },
     {
       "arabic": "زِيَارَةٌ",
-      "english": "visit"
+      "english": "visit",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/visit.svg",
+      "english_book": "visit"
     },
     {
       "arabic": "بَعْضٌ",
-      "english": "some"
+      "english": "some",
+      "tag": "noun",
+      "image": "images/some.svg",
+      "english_book": "some"
     },
     {
       "arabic": "صَدِيقٌ",
-      "english": "friend (m)"
+      "english": "friend",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/friend-2.svg",
+      "english_book": "friend (m)"
     },
     {
       "arabic": "صَدِيقَةٌ",
-      "english": "friend (f)"
+      "english": "friend",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/friend.svg",
+      "english_book": "friend (f)"
     },
     {
       "arabic": "أَصْدِقَاءُ",
-      "english": "friends (m)",
-      "diptote": true
+      "english": "friends",
+      "tag": "noun",
+      "gender": "m",
+      "diptote": true,
+      "note": "plural of صَدِيقٌ",
+      "image": "images/friends.svg",
+      "english_book": "friends (m)"
     },
     {
       "arabic": "صَدِيقَاتٌ",
-      "english": "friends (f)"
+      "english": "friends",
+      "tag": "noun",
+      "gender": "f",
+      "note": "plural of صَدِيقَةٌ",
+      "image": "images/friends-2.svg",
+      "english_book": "friends (f)"
     },
     {
       "arabic": "مَطْعَمٌ",
-      "english": "restaurant"
+      "english": "restaurant",
+      "tag": "noun",
+      "image": "images/restaurant.svg",
+      "english_book": "restaurant"
     },
     {
       "arabic": "أَكَلَ",
-      "english": "to eat"
+      "english": "to eat",
+      "tag": "verb",
+      "verb_form": 1,
+      "image": "images/eat.svg",
+      "english_book": "to eat"
     },
     {
       "arabic": "كَبَابٌ",
-      "english": "kebab"
+      "english": "kebab",
+      "tag": "noun",
+      "image": "images/kebab.svg",
+      "english_book": "kebab"
     },
     {
       "arabic": "كُبَّةٌ",
-      "english": "a meat dish"
+      "english": "kibbeh",
+      "tag": "noun",
+      "gender": "f",
+      "note": "a meat dish",
+      "image": "images/kibbeh.svg",
+      "english_book": "a meat dish"
     },
     {
       "arabic": "قَهْوَةٌ",
-      "english": "coffee"
+      "english": "coffee",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/coffee.svg",
+      "english_book": "coffee"
     },
     {
       "arabic": "سِينَمَا",
-      "english": "cinema"
+      "english": "cinema",
+      "tag": "noun",
+      "image": "images/cinema.svg",
+      "english_book": "cinema"
     },
     {
       "arabic": "شَاهَدَ",
-      "english": "to see"
+      "english": "to see",
+      "tag": "verb",
+      "verb_form": 3,
+      "image": "images/see.svg",
+      "english_book": "to see"
     },
     {
-      "arabic": "فِلْمٌ / فِيلْمٌ",
-      "english": "film"
+      "arabic": "فِلْمٌ",
+      "english": "film",
+      "tag": "noun",
+      "variants": [
+        "فِيلْمٌ"
+      ],
+      "image": "images/film.svg",
+      "arabic_book": "فِلْمٌ / فِيلْمٌ",
+      "english_book": "film"
     },
     {
       "arabic": "لِقَاءٌ",
-      "english": "meeting"
+      "english": "meeting",
+      "tag": "noun",
+      "image": "images/meeting.svg",
+      "english_book": "meeting"
     },
     {
       "arabic": "إِلَى ٱللِّقَاءِ",
-      "english": "goodbye"
+      "english": "goodbye",
+      "tag": "phrase",
+      "note": "lit. until the meeting",
+      "image": "images/goodbye.svg",
+      "english_book": "goodbye"
     },
     {
       "arabic": "مَعَ ٱلسَّلَامَةِ",
-      "english": "goodbye"
+      "english": "goodbye",
+      "tag": "phrase",
+      "note": "lit. with safety",
+      "image": "images/goodbye-2.svg",
+      "english_book": "goodbye"
     },
     {
       "arabic": "مَطَارٌ",
-      "english": "airport"
+      "english": "airport",
+      "tag": "noun",
+      "image": "images/airport.svg",
+      "english_book": "airport"
     },
     {
       "arabic": "مَتَى",
-      "english": "when?"
+      "english": "when",
+      "tag": "interrogative",
+      "image": "images/when.svg",
+      "english_book": "when?"
     },
     {
       "arabic": "مَوْعِدٌ",
-      "english": "appointment"
+      "english": "appointment",
+      "tag": "noun",
+      "image": "images/appointment.svg",
+      "english_book": "appointment"
     },
     {
       "arabic": "سَفَرٌ",
-      "english": "departure, trip"
+      "english": "departure, trip",
+      "tag": "noun",
+      "image": "images/departure.svg",
+      "english_book": "departure, trip"
     },
     {
       "arabic": "مَوْعِدُ سَفَرٍ",
-      "english": "departure time"
+      "english": "departure time",
+      "tag": "phrase",
+      "image": "images/departure-time.svg",
+      "english_book": "departure time"
     },
     {
       "arabic": "سَاعَةٌ",
-      "english": "hour"
+      "english": "hour",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/hour.svg",
+      "english_book": "hour"
     },
     {
       "arabic": "عَلَى",
-      "english": "on (preposition)"
+      "english": "on",
+      "tag": "preposition",
+      "image": "images/on.svg",
+      "english_book": "on (preposition)"
     },
     {
       "arabic": "أَيٌّ",
-      "english": "which/what"
+      "english": "which, what",
+      "tag": "interrogative",
+      "image": "images/which.svg",
+      "english_book": "which/what"
     },
     {
       "arabic": "شَرِكَةٌ",
-      "english": "company"
+      "english": "company",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/company.svg",
+      "english_book": "company"
     },
     {
       "arabic": "طَائِرَةٌ",
-      "english": "aeroplane"
+      "english": "aeroplane",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/aeroplane.svg",
+      "english_book": "aeroplane"
     },
     {
       "arabic": "نِصْفٌ",
-      "english": "half"
+      "english": "half",
+      "tag": "noun",
+      "image": "images/half.svg",
+      "english_book": "half"
     },
     {
       "arabic": "تَرَكَ",
-      "english": "to leave"
+      "english": "to leave",
+      "tag": "verb",
+      "verb_form": 1,
+      "image": "images/leave.svg",
+      "english_book": "to leave"
     },
     {
       "arabic": "كَمْ",
-      "english": "how much"
+      "english": "how much",
+      "tag": "interrogative",
+      "image": "images/how-much.svg",
+      "english_book": "how much"
     },
     {
       "arabic": "تَحَدَّثَ",
-      "english": "to converse, chat (Form 5)"
+      "english": "to converse, to chat",
+      "tag": "verb",
+      "verb_form": 5,
+      "image": "images/converse.svg",
+      "english_book": "to converse, chat (Form 5)"
     },
     {
       "arabic": "طَلَبَ",
-      "english": "to ask, request"
+      "english": "to ask, to request",
+      "tag": "verb",
+      "verb_form": 1,
+      "image": "images/ask.svg",
+      "english_book": "to ask, request"
     },
     {
       "arabic": "وَلَدٌ",
-      "english": "boy, son"
+      "english": "boy, son",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/boy.svg",
+      "english_book": "boy, son"
     },
     {
       "arabic": "اِبْنٌ",
-      "english": "son"
+      "english": "son",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/son.svg",
+      "english_book": "son"
     },
     {
       "arabic": "عَمَلٌ",
-      "english": "work"
+      "english": "work",
+      "tag": "noun",
+      "image": "images/work.svg",
+      "english_book": "work"
     },
     {
       "arabic": "زَائِرٌ",
-      "english": "visitor, visiting"
+      "english": "visitor, visiting",
+      "tag": "noun",
+      "image": "images/visitor.svg",
+      "english_book": "visitor, visiting"
     },
     {
       "arabic": "مُشَاهَدَةٌ",
-      "english": "seeing (verbal noun)"
+      "english": "seeing",
+      "tag": "noun",
+      "gender": "f",
+      "note": "verbal noun (Form 3)",
+      "image": "images/seeing.svg",
+      "english_book": "seeing (verbal noun)"
     },
     {
-      "arabic": "عَادِل",
-      "english": "‘Adil (m. name)"
+      "arabic": "عَادِلٌ",
+      "english": "Adil",
+      "tag": "proper noun",
+      "gender": "m",
+      "note": "male name",
+      "image": "images/adil.svg",
+      "arabic_book": "عَادِل",
+      "english_book": "‘Adil (m. name)",
+      "spelling_note": "tanwīn not visible on scan; standard form عَادِلٌ"
     },
     {
       "arabic": "ثُمَّ",
       "english": "and then",
+      "tag": "conjunction",
+      "image": "images/and-then.svg",
+      "english_book": "and then",
       "handwritten": true
     },
     {
       "arabic": "مُنْذُ",
       "english": "for, since",
+      "tag": "preposition",
+      "image": "images/for-2.svg",
+      "english_book": "for, since",
       "handwritten": true
     },
     {
       "arabic": "اَلْآنَ",
       "english": "now",
+      "tag": "adverb",
+      "image": "images/now.svg",
+      "english_book": "now",
       "handwritten": true
     },
     {
       "arabic": "لِمَاذَا",
-      "english": "why?",
+      "english": "why",
+      "tag": "interrogative",
+      "image": "images/why.svg",
+      "english_book": "why?",
       "handwritten": true
     }
   ]

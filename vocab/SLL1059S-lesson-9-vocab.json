@@ -11,218 +11,398 @@
   "words": [
     {
       "arabic": "تَعْلِيمٌ",
-      "english": "instruction"
+      "english": "instruction",
+      "tag": "noun",
+      "image": "images/instruction.svg",
+      "english_book": "instruction"
     },
     {
       "arabic": "مَرْحَلَةٌ",
-      "plural": "مَرَاحِلُ",
       "english": "stage",
-      "diptote": true
+      "tag": "noun",
+      "gender": "f",
+      "plural": "مَرَاحِلُ",
+      "diptote": true,
+      "image": "images/stage.svg",
+      "english_book": "stage"
     },
     {
       "arabic": "اِبْتِدَائِيٌّ",
-      "english": "elementary"
+      "english": "elementary",
+      "tag": "adjective",
+      "image": "images/elementary.svg",
+      "english_book": "elementary"
     },
     {
       "arabic": "إِعْدَادِيٌّ",
-      "english": "preparatory, intermediate"
+      "english": "preparatory, intermediate",
+      "tag": "adjective",
+      "image": "images/preparatory.svg",
+      "english_book": "preparatory, intermediate"
     },
     {
       "arabic": "قَرَّرَ",
-      "english": "to decide (2)"
+      "english": "to decide",
+      "tag": "verb",
+      "verb_form": 2,
+      "image": "images/decide.svg",
+      "english_book": "to decide (2)"
     },
     {
       "arabic": "وِزَارَةٌ",
-      "plural": "وِزَارَاتٌ",
       "english": "ministry",
-      "note": "plural given as (-ات)"
+      "tag": "noun",
+      "gender": "f",
+      "plural": "وِزَارَاتٌ",
+      "image": "images/ministry.svg",
+      "english_book": "ministry",
+      "source_note": "plural given as (-ات)"
     },
     {
       "arabic": "مَنْهَجٌ",
-      "plural": "مَنَاهِجُ",
       "english": "programme",
-      "diptote": true
+      "tag": "noun",
+      "plural": "مَنَاهِجُ",
+      "diptote": true,
+      "image": "images/programme.svg",
+      "english_book": "programme"
     },
     {
       "arabic": "عَيَّنَ",
-      "english": "to appoint (2)"
+      "english": "to appoint",
+      "tag": "verb",
+      "verb_form": 2,
+      "image": "images/appoint.svg",
+      "english_book": "to appoint (2)"
     },
     {
       "arabic": "مَدْرَسَةٌ",
-      "plural": "مَدَارِسُ",
       "english": "school",
-      "diptote": true
+      "tag": "noun",
+      "gender": "f",
+      "plural": "مَدَارِسُ",
+      "diptote": true,
+      "image": "images/school.svg",
+      "english_book": "school"
     },
     {
       "arabic": "حُكُومِيٌّ",
-      "english": "governmental"
+      "english": "governmental",
+      "tag": "adjective",
+      "image": "images/governmental.svg",
+      "english_book": "governmental"
     },
     {
       "arabic": "دَرَّسَ",
-      "english": "to teach (2)"
+      "english": "to teach",
+      "tag": "verb",
+      "verb_form": 2,
+      "image": "images/lesson.svg",
+      "english_book": "to teach (2)"
     },
     {
       "arabic": "إِلَى جَانِبِ",
-      "english": "beside",
-      "note": "handwritten gloss: in addition to"
+      "english": "beside, in addition to",
+      "tag": "preposition",
+      "image": "images/beside.svg",
+      "english_book": "beside",
+      "source_note": "handwritten gloss: in addition to"
     },
     {
       "arabic": "مَوْضُوعٌ",
+      "english": "subject",
+      "tag": "noun",
       "plural": "مَوَاضِيعُ",
-      "english": "subject"
+      "image": "images/subject.svg",
+      "english_book": "subject"
     },
     {
-      "arabic": "اِمْرَأَةٌ (اَلْمَرْأَةُ)",
+      "arabic": "اِمْرَأَةٌ",
       "english": "woman",
-      "note": "definite form given in brackets"
+      "tag": "noun",
+      "gender": "f",
+      "definite": "اَلْمَرْأَةُ",
+      "image": "images/woman.svg",
+      "arabic_book": "اِمْرَأَةٌ (اَلْمَرْأَةُ)",
+      "english_book": "woman",
+      "source_note": "definite form given in brackets"
     },
     {
       "arabic": "نِسَاءٌ",
-      "english": "women"
+      "english": "women",
+      "tag": "noun",
+      "gender": "f",
+      "note": "plural of اِمْرَأَةٌ",
+      "image": "images/women.svg",
+      "english_book": "women"
     },
     {
       "arabic": "مَكَانَةٌ",
-      "english": "position, status"
+      "english": "position, status",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/position.svg",
+      "english_book": "position, status"
     },
     {
       "arabic": "حَقٌّ",
+      "english": "right",
+      "tag": "noun",
       "plural": "حُقُوقٌ",
-      "english": "right"
+      "image": "images/right.svg",
+      "english_book": "right"
     },
     {
       "arabic": "رَجُلٌ",
+      "english": "man",
+      "tag": "noun",
+      "gender": "m",
       "plural": "رِجَالٌ",
-      "english": "man"
+      "image": "images/man.svg",
+      "english_book": "man"
     },
     {
       "arabic": "وَاجِبٌ",
+      "english": "duty",
+      "tag": "noun",
       "plural": "وَاجِبَاتٌ",
-      "english": "duty"
+      "image": "images/duty.svg",
+      "english_book": "duty"
     },
     {
-      "arabic": "حَصَلَ (ـُ) عَلَى",
-      "english": "to obtain, acquire"
+      "arabic": "حَصَلَ عَلَى",
+      "english": "to obtain, to acquire",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "u",
+      "image": "images/obtain.svg",
+      "arabic_book": "حَصَلَ (ـُ) عَلَى",
+      "english_book": "to obtain, acquire"
     },
     {
       "arabic": "شَهَادَةٌ",
-      "plural": "شَهَادَاتٌ",
       "english": "degree",
-      "note": "plural given as (-ات)"
+      "tag": "noun",
+      "gender": "f",
+      "plural": "شَهَادَاتٌ",
+      "note": "certificate, diploma",
+      "image": "images/degree.svg",
+      "english_book": "degree",
+      "source_note": "plural given as (-ات)"
     },
     {
       "arabic": "عَالِيَةٌ",
-      "english": "high (f.)"
+      "english": "high",
+      "tag": "adjective",
+      "gender": "f",
+      "image": "images/high.svg",
+      "english_book": "high (f.)"
     },
     {
       "arabic": "طَبِيبٌ",
-      "plural": "أَطِبَّاءُ",
       "english": "physician",
-      "diptote": true
+      "tag": "noun",
+      "gender": "m",
+      "plural": "أَطِبَّاءُ",
+      "diptote": true,
+      "image": "images/physician.svg",
+      "english_book": "physician"
     },
     {
       "arabic": "مُمَرِّضَةٌ",
-      "english": "nurse"
+      "english": "nurse",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/nurse.svg",
+      "english_book": "nurse"
     },
     {
       "arabic": "غَيْرُ",
-      "english": "other than"
+      "english": "other than",
+      "tag": "noun",
+      "image": "images/other-than.svg",
+      "english_book": "other than"
     },
     {
       "arabic": "قَدَّمَ",
-      "english": "to offer, present (2)"
+      "english": "to offer, to present",
+      "tag": "verb",
+      "verb_form": 2,
+      "image": "images/offer.svg",
+      "english_book": "to offer, present (2)"
     },
     {
       "arabic": "مُجْتَمَعٌ",
-      "english": "society, community"
+      "english": "society, community",
+      "tag": "noun",
+      "image": "images/society.svg",
+      "english_book": "society, community"
     },
     {
       "arabic": "خِدْمَةٌ",
+      "english": "service",
+      "tag": "noun",
+      "gender": "f",
       "plural": "خِدْمَاتٌ",
-      "english": "service"
+      "image": "images/service.svg",
+      "english_book": "service"
     },
     {
       "arabic": "تَقَدُّمٌ",
-      "english": "progress, achievement"
+      "english": "progress, achievement",
+      "tag": "noun",
+      "image": "images/progress.svg",
+      "english_book": "progress, achievement"
     },
     {
-      "arabic": "عَمِلَ (ـَ) عَلَى",
-      "english": "to work for"
+      "arabic": "عَمِلَ عَلَى",
+      "english": "to work for",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "a",
+      "image": "images/work-for.svg",
+      "arabic_book": "عَمِلَ (ـَ) عَلَى",
+      "english_book": "to work for"
     },
     {
       "arabic": "اَلْمُسَاوَاةُ",
-      "english": "equality"
+      "english": "equality",
+      "tag": "noun",
+      "image": "images/equality.svg",
+      "english_book": "equality"
     },
     {
       "arabic": "حَدِيقَةٌ",
-      "plural": "حَدَائِقُ",
       "english": "garden",
-      "diptote": true
+      "tag": "noun",
+      "gender": "f",
+      "plural": "حَدَائِقُ",
+      "diptote": true,
+      "image": "images/garden.svg",
+      "english_book": "garden"
     },
     {
       "arabic": "حُجْرَةٌ",
+      "english": "room",
+      "tag": "noun",
+      "gender": "f",
       "plural": "حُجُرَاتٌ",
-      "english": "room"
+      "image": "images/room.svg",
+      "english_book": "room"
     },
     {
-      "arabic": "جَلَسَ (ـِ)",
-      "english": "to sit"
+      "arabic": "جَلَسَ",
+      "english": "to sit",
+      "tag": "verb",
+      "verb_form": 1,
+      "present_vowel": "i",
+      "image": "images/sit.svg",
+      "arabic_book": "جَلَسَ (ـِ)",
+      "english_book": "to sit"
     },
     {
-      "arabic": "وَصَلَ إِلَى",
-      "english": "to arrive (at)",
-      "note": "إِلَى added by hand"
+      "arabic": "وَصَلَ",
+      "english": "to arrive",
+      "tag": "verb",
+      "verb_form": 1,
+      "governs": "إِلَى",
+      "note": "to arrive (at)",
+      "image": "images/arrive.svg",
+      "arabic_book": "وَصَلَ إِلَى",
+      "english_book": "to arrive (at)",
+      "source_note": "إِلَى added by hand"
     },
     {
       "arabic": "جُلُوسٌ",
-      "english": "sitting"
+      "english": "sitting",
+      "tag": "noun",
+      "image": "images/sitting.svg",
+      "english_book": "sitting"
     },
     {
       "arabic": "طَعَامٌ",
-      "english": "food"
+      "english": "food",
+      "tag": "noun",
+      "image": "images/food.svg",
+      "english_book": "food"
     },
     {
       "arabic": "حَمَّامٌ",
+      "english": "bathroom",
+      "tag": "noun",
       "plural": "حَمَّامَاتٌ",
-      "english": "bathroom"
+      "image": "images/bathroom.svg",
+      "english_book": "bathroom"
     },
     {
       "arabic": "مَطْبَخٌ",
-      "plural": "مَطَابِخُ",
       "english": "kitchen",
-      "diptote": true
+      "tag": "noun",
+      "plural": "مَطَابِخُ",
+      "diptote": true,
+      "image": "images/kitchen.svg",
+      "english_book": "kitchen"
     },
     {
       "arabic": "نَوْمٌ",
-      "english": "sleep"
+      "english": "sleep",
+      "tag": "noun",
+      "image": "images/sleep.svg",
+      "english_book": "sleep"
     },
     {
       "arabic": "نَظَّفَ",
-      "english": "to clean (2)"
+      "english": "to clean",
+      "tag": "verb",
+      "verb_form": 2,
+      "image": "images/clean.svg",
+      "english_book": "to clean (2)"
     },
     {
       "arabic": "نَظَّمَ",
-      "english": "to organise, arrange (2)"
+      "english": "to organise, to arrange",
+      "tag": "verb",
+      "verb_form": 2,
+      "image": "images/organise.svg",
+      "english_book": "to organise, arrange (2)"
     },
     {
       "arabic": "مَعًا",
-      "english": "together"
+      "english": "together",
+      "tag": "adverb",
+      "image": "images/together.svg",
+      "english_book": "together"
     },
     {
       "arabic": "وَلَدٌ",
+      "english": "child, son",
+      "tag": "noun",
+      "gender": "m",
       "plural": "أَوْلَادٌ",
-      "english": "child, son"
+      "image": "images/boy.svg",
+      "english_book": "child, son"
     },
     {
       "arabic": "مَالٌ",
-      "english": "property, money"
+      "english": "property, money",
+      "tag": "noun",
+      "image": "images/property.svg",
+      "english_book": "property, money"
     },
     {
       "arabic": "أَبٌ",
-      "english": "father"
+      "english": "father",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/father-3.svg",
+      "english_book": "father"
     },
     {
       "arabic": "هَامٌّ",
-      "english": "important"
+      "english": "important",
+      "tag": "adjective",
+      "image": "images/important.svg",
+      "english_book": "important"
     }
   ]
 }

@@ -10,120 +10,218 @@
   "words": [
     {
       "arabic": "مَرْحَبًا",
-      "english": "welcome"
+      "english": "welcome",
+      "tag": "interjection",
+      "image": "images/welcome.svg",
+      "english_book": "welcome"
     },
     {
       "arabic": "كَيْفَ",
-      "english": "how"
+      "english": "how",
+      "tag": "interrogative",
+      "image": "images/how.svg",
+      "english_book": "how"
     },
     {
       "arabic": "حَالٌ",
-      "english": "condition, state"
+      "english": "condition, state",
+      "tag": "noun",
+      "image": "images/condition.svg",
+      "english_book": "condition, state"
     },
     {
       "arabic": "بِ",
-      "english": "(prefix) in"
+      "english": "in",
+      "tag": "prefix",
+      "note": "prefixed preposition",
+      "image": "images/in-2.svg",
+      "english_book": "(prefix) in"
     },
     {
       "arabic": "خَيْرٌ",
-      "english": "(noun) well-being"
+      "english": "well-being",
+      "tag": "noun",
+      "image": "images/well-being.svg",
+      "english_book": "(noun) well-being"
     },
     {
       "arabic": "أُسْتَاذٌ",
-      "english": "professor"
+      "english": "professor",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/professor.svg",
+      "english_book": "professor"
     },
     {
       "arabic": "مَوْجُودٌ",
-      "english": "present"
+      "english": "present",
+      "tag": "adjective",
+      "image": "images/present.svg",
+      "english_book": "present"
     },
     {
       "arabic": "مَكْتَبَةٌ",
-      "english": "library"
+      "english": "library",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/library.svg",
+      "english_book": "library"
     },
     {
       "arabic": "قَرِيبٌ",
-      "english": "near, close"
+      "english": "near, close",
+      "tag": "adjective",
+      "image": "images/near.svg",
+      "english_book": "near, close"
     },
     {
       "arabic": "جِدًّا",
-      "english": "very"
+      "english": "very",
+      "tag": "adverb",
+      "image": "images/very.svg",
+      "english_book": "very"
     },
     {
       "arabic": "جَدِيدٌ",
-      "english": "new"
+      "english": "new",
+      "tag": "adjective",
+      "image": "images/new.svg",
+      "english_book": "new"
     },
     {
       "arabic": "اَلْعِرَاقُ",
-      "english": "Iraq"
+      "english": "Iraq",
+      "tag": "proper noun",
+      "note": "country",
+      "image": "images/iraq.svg",
+      "english_book": "Iraq"
     },
     {
       "arabic": "بَغْدَادُ",
       "english": "Baghdad",
-      "diptote": true
+      "tag": "proper noun",
+      "diptote": true,
+      "note": "city",
+      "image": "images/baghdad.svg",
+      "english_book": "Baghdad"
     },
     {
       "arabic": "جَامِعَةٌ",
-      "english": "university"
+      "english": "university",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/university.svg",
+      "english_book": "university"
     },
     {
       "arabic": "كَبِيرٌ",
-      "english": "big"
+      "english": "big",
+      "tag": "adjective",
+      "image": "images/big.svg",
+      "english_book": "big"
     },
     {
       "arabic": "جَمِيلٌ",
-      "english": "beautiful"
+      "english": "beautiful",
+      "tag": "adjective",
+      "image": "images/beautiful.svg",
+      "english_book": "beautiful"
     },
     {
       "arabic": "دَرْسٌ",
-      "english": "lesson"
+      "english": "lesson",
+      "tag": "noun",
+      "image": "images/lesson.svg",
+      "english_book": "lesson"
     },
     {
       "arabic": "سَهْلٌ",
-      "english": "easy"
+      "english": "easy",
+      "tag": "adjective",
+      "image": "images/present.svg",
+      "english_book": "easy"
     },
     {
       "arabic": "صَعْبٌ",
-      "english": "difficult"
+      "english": "difficult",
+      "tag": "adjective",
+      "image": "images/difficult.svg",
+      "english_book": "difficult"
     },
     {
       "arabic": "أَجْنَبِيٌّ",
-      "english": "foreign"
+      "english": "foreign",
+      "tag": "adjective",
+      "image": "images/foreign.svg",
+      "english_book": "foreign"
     },
     {
       "arabic": "مَشْهُورٌ",
-      "english": "famous"
+      "english": "famous",
+      "tag": "adjective",
+      "image": "images/famous.svg",
+      "english_book": "famous"
     },
     {
       "arabic": "رَجُلٌ",
-      "english": "man"
+      "english": "man",
+      "tag": "noun",
+      "gender": "m",
+      "image": "images/man.svg",
+      "english_book": "man"
     },
     {
       "arabic": "كِتَابٌ",
-      "english": "book"
+      "english": "book",
+      "tag": "noun",
+      "image": "images/book.svg",
+      "english_book": "book"
     },
     {
       "arabic": "أَسَاسِيٌّ",
-      "english": "basic"
+      "english": "basic",
+      "tag": "adjective",
+      "image": "images/basic.svg",
+      "english_book": "basic"
     },
     {
       "arabic": "دُكْتُورٌ",
-      "english": "doctor (PhD)"
+      "english": "doctor",
+      "tag": "noun",
+      "gender": "m",
+      "note": "title (PhD)",
+      "image": "images/doctor.svg",
+      "english_book": "doctor (PhD)"
     },
     {
       "arabic": "قَلَمٌ",
-      "english": "pen"
+      "english": "pen",
+      "tag": "noun",
+      "image": "images/pen.svg",
+      "english_book": "pen"
     },
     {
       "arabic": "وَرَقَةٌ",
-      "english": "paper"
+      "english": "paper",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/paper.svg",
+      "english_book": "paper"
     },
     {
       "arabic": "طَاوِلَةٌ",
-      "english": "table"
+      "english": "table",
+      "tag": "noun",
+      "gender": "f",
+      "image": "images/table.svg",
+      "english_book": "table"
     },
     {
       "arabic": "نَصٌّ",
-      "english": "text"
+      "english": "text",
+      "tag": "noun",
+      "image": "images/text.svg",
+      "english_book": "text"
     }
   ]
 }
